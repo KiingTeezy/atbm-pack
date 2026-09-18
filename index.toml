@@ -1685,6 +1685,70 @@ file = "config/fancymenu/assets/akliz_gray.png"
 hash = "36fb74c94882d6ecb80691105d0f933fb475e7190a4e3f841ea6e71a81cd0c90"
 
 [[files]]
+file = "config/fancymenu/assets/atbm_btn_discord.png"
+hash = "da7ac00e31d5c349accfe5c5e15ca45cf0a1226b07822a6df73db37920ffae18"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_discord_hover.png"
+hash = "3180c787abd1ee6eda6bf0ddf8e7929e8e804d2a0913b049b837209d46dfb4aa"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_exit.png"
+hash = "fad7093896cff38e4251043bb49c72791436fa9307dc0e82f55e6748e861f4d7"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_exit_hover.png"
+hash = "8e4cfcbbb222add42a83b3c9b31e267d8f910ab0a17336d169aa6e09120d0c19"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_github.png"
+hash = "f39e090df763a0f9c261006cc539391f5ba1c845d1b2fbe6556ed6c03a9c514b"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_github_hover.png"
+hash = "12d29e5ec8e2636b79e4c9598fcb0d171ae0ab8db858265e63c67561d707ded6"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_language.png"
+hash = "d42e11cab8333001d722f7cf35c64084239b864ebaacc627099c063ac338ec94"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_language_hover.png"
+hash = "f222c7a8c55ec0540f8a4b252e2180cf6d41bf29b5361f7dd6449c274df2c8c1"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_mods.png"
+hash = "abb5fc1a0ebcd50ac328a60c4304bd186c4d45e2a2f8efabf7859f896904452a"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_mods_hover.png"
+hash = "5c467c600899c26e8381cd201ebd5405cda63a261032016a2695ae57497639bb"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_multiplayer.png"
+hash = "99d6440d3dca1eebf67d1920d71ff2ce73d32d12fa32668da063506f8c2be41f"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_multiplayer_hover.png"
+hash = "1778011c791cf16013456756387e297692bed674c83f97bcc1c3f2aad780392a"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_options.png"
+hash = "3be5fd08f839807fabf75f8c49f833150e7e50197cf72a01ebb077871f091c01"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_options_hover.png"
+hash = "8c2fee79b08128f6856dd3ecb235ef36685ceb8a830217de44ec4042a6c0461d"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_singleplayer.png"
+hash = "017e51546324825018380040790950c4bc885a5980f9cf3f3826a97109d83776"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_btn_singleplayer_hover.png"
+hash = "a0a3c6a58842fc570c148ce402cc081b02592543d7f36d94b3e3116206fe32c5"
+
+[[files]]
 file = "config/fancymenu/assets/atbm_icon_128.png"
 hash = "7a95df849283926d6525a3707476dfb5df04a2184d767c0909bce1b8d542c34c"
 
@@ -1814,7 +1878,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "858eb183b6fa041681aa9ae04e2b6ffea27168dd290e3330a12510dfb4fdff86"
+hash = "853096f9a3c66be14b4c418c5d1df81c91c587916158907558b140420c482ec9"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -5082,7 +5146,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "86e1c509733039bc94175d29f9cdb419322e35ecf7a37ae91e3324ff6db8b3d4"
+hash = "a76d727e99b51a4e35df1f50f3ad2966f970d166c0ec255dd920530b1a83c159"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -11795,6 +11859,30 @@ hash = "aa14cdb8af2a22f5297e0061b962739eb6b86b6f37a3b9092a2a593e81cebf32"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/yellow_cell.png"
 hash = "e6579afb1192c474a8d6147d78ebd380bd8dabebe297b3be277fe0ea6bb7d677"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
+hash = "4079a6729bbf7ec8f12584e81c53a9f8cb7bcc5ae456c7f3a43d7001f3f60c95"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
+hash = "cdd8a075ff5659073d77250ba79e979ee4be41075a1eb3ec2fbce0fc76fad606"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+hash = "cbacf2b630f9692017caaf4c0d69eff68556ab9aaabfa26b89cd929f9ea3bdbe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
+hash = "cdd8a075ff5659073d77250ba79e979ee4be41075a1eb3ec2fbce0fc76fad606"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+hash = "161d21116392e7761ac2544103701cd39e7689c001f25d4517c2c7fc7d21a485"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
+hash = "cdd8a075ff5659073d77250ba79e979ee4be41075a1eb3ec2fbce0fc76fad606"
 
 [[files]]
 file = "kubejs/assets/occultism/lang/en_us.json"

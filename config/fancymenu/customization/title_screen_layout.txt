@@ -421,8 +421,8 @@ element {
   button_element_executable_block_identifier = ee0d6605-793b-409b-96ad-d77a2b7a81fc-1756737928676
   [executable_action_instance:ce4bf8c9-2e13-4477-975f-92172ddb76c5-1756738139214][action_type:openlink] = https://discord.gg/rK3WEka6tA
   [executable_block:ee0d6605-793b-409b-96ad-d77a2b7a81fc-1756737928676][type:generic] = [executables:ce4bf8c9-2e13-4477-975f-92172ddb76c5-1756738139214;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/discord_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/discord_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_discord.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_discord_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -454,7 +454,7 @@ element {
   x = 3
   y = -19
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 469646c4-6bf2-4bdb-8697-a7e670fbb72c-1756737928676
   [loading_requirement_container_meta:469646c4-6bf2-4bdb-8697-a7e670fbb72c-1756737928676] = [groups:][instances:]
@@ -502,8 +502,8 @@ element {
   button_element_executable_block_identifier = 2b2d05bc-1314-4ee1-a35a-ebc93769cb26-1756766160264
   [executable_action_instance:03544106-067c-4d6a-89fa-8a4b894b68cc-1756866041309][action_type:opengui] = language_select_screen
   [executable_block:2b2d05bc-1314-4ee1-a35a-ebc93769cb26-1756766160264][type:generic] = [executables:03544106-067c-4d6a-89fa-8a4b894b68cc-1756866041309;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/language_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/language_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_language.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_language_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -536,7 +536,7 @@ element {
   x = -124
   y = 42
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 35d6d07b-b7db-4cb5-b53a-b91181046cd3-1756766160263
   [loading_requirement_container_meta:35d6d07b-b7db-4cb5-b53a-b91181046cd3-1756766160263] = [groups:][instances:]
@@ -582,8 +582,8 @@ element {
   button_element_executable_block_identifier = 7a00bd71-c35d-4375-81a0-53ce36163f79-1756766248870
   [executable_action_instance:a3609b20-75e7-4212-bed8-a09131d732f4-1756767123775][action_type:openlink] = https://github.com/KiingTeezy/All-The-Mooks/issues/new?template=bug_report.md
   [executable_block:7a00bd71-c35d-4375-81a0-53ce36163f79-1756766248870][type:generic] = [executables:a3609b20-75e7-4212-bed8-a09131d732f4-1756767123775;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/github_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/github_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_github.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_github_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -615,7 +615,7 @@ element {
   x = -124
   y = -19
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 4233c42f-3e0a-439a-a9ca-42514494e389-1756766248870
   [loading_requirement_container_meta:4233c42f-3e0a-439a-a9ca-42514494e389-1756766248870] = [groups:][instances:]
@@ -693,8 +693,8 @@ element {
 vanilla_button {
   button_element_executable_block_identifier = 8923f76f-5927-4511-bd50-ce56c0c6fb1e-1756737442831
   [executable_block:8923f76f-5927-4511-bd50-ce56c0c6fb1e-1756737442831][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/multiplayer_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/multiplayer_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_multiplayer.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_multiplayer_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -727,7 +727,7 @@ vanilla_button {
   x = 3
   y = -50
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = cce7ab13-577c-46e9-819d-c92b1d25742a-1756737442831
   [loading_requirement_container_meta:cce7ab13-577c-46e9-819d-c92b1d25742a-1756737442831] = [groups:][instances:]
@@ -852,8 +852,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = b964c606-89bc-4ff7-b112-167f172553aa-1756737442831
   [executable_block:b964c606-89bc-4ff7-b112-167f172553aa-1756737442831][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/singleplayer_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/singleplayer_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_singleplayer.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_singleplayer_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -886,7 +886,7 @@ vanilla_button {
   x = -124
   y = -50
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 9b10db3b-23f4-4176-8d49-896fe0674472-1756737442831
   [loading_requirement_container_meta:9b10db3b-23f4-4176-8d49-896fe0674472-1756737442831] = [groups:][instances:]
@@ -1168,8 +1168,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = de573b86-4f72-41af-9d61-e1428a3af293-1756737442831
   [executable_block:de573b86-4f72-41af-9d61-e1428a3af293-1756737442831][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/exit_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/exit_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_exit.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_exit_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -1202,7 +1202,7 @@ vanilla_button {
   x = 3
   y = 73
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 1ad2224a-0f01-4059-a9ea-d89edccb5139-1756737442831
   [loading_requirement_container_meta:1ad2224a-0f01-4059-a9ea-d89edccb5139-1756737442831] = [groups:][instances:]
@@ -1406,8 +1406,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 4ccb3375-fa6c-4222-9b32-b88ff37d5d78-1756737442831
   [executable_block:4ccb3375-fa6c-4222-9b32-b88ff37d5d78-1756737442831][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/options_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/options_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_options.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_options_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -1800,8 +1800,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = cc5ca857-1e32-4f2f-84f6-61ce8762f53a-1756737442831
   [executable_block:cc5ca857-1e32-4f2f-84f6-61ce8762f53a-1756737442831][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/mods_gray.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/mods_color.png
+  backgroundnormal = [source:local]/config/fancymenu/assets/atbm_btn_mods.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/atbm_btn_mods_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
@@ -1834,7 +1834,7 @@ vanilla_button {
   x = 3
   y = 42
   width = 120
-  height = 28
+  height = 26
   stay_on_screen = true
   element_loading_requirement_container_identifier = 1a407848-1ef2-44f9-8835-8bca9b049a4d-1756737442831
   [loading_requirement_container_meta:1a407848-1ef2-44f9-8835-8bca9b049a4d-1756737442831] = [groups:][instances:]
