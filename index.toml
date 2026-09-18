@@ -1058,7 +1058,7 @@ hash = "5e6e611da2226b1007e47f9ea64109569721132b61cf416bf74a49a2c08c4edf"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "46e0445cf406ac954ce7114d4203a5e541be3eb8ea46095f637959bbb85220a6"
+hash = "0f4a46f87cd5e739c596bfc851f35335c1ad437d79559e884be28c220739fb11"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1561,6 +1561,22 @@ file = "config/easy_villagers-server.toml"
 hash = "816ac63742ce47d467aac5b7c58b357338389c4d74e327c2dfb3ed0fc60b2ed7"
 
 [[files]]
+file = "config/eclipticseasons-client.toml"
+hash = "feefc198121f1cdecc835dc120eb63ffa07fd2f45c0925b7770b9218c2f9aabe"
+
+[[files]]
+file = "config/eclipticseasons-common.toml"
+hash = "70da87e40b40f57964f3a38670b0ad4b589c819cde4d540e40a642e0a1a1f90b"
+
+[[files]]
+file = "config/eclipticseasons-mixins.toml"
+hash = "e39fbf8be0fe395d8496c8168ea50b049dc76ffbb69222b966b3dc33ef4b813c"
+
+[[files]]
+file = "config/eclipticseasons-startup.toml"
+hash = "564e3cbbd044bfcc8c3d58700efeaec8355b8b815777e679dd80e201c1721d92"
+
+[[files]]
 file = "config/elevatorid-server.toml"
 hash = "078b801a1c827b779c4c67b1144c5c56e8059391e812874eae5ef7551639ee30"
 
@@ -1878,7 +1894,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "853096f9a3c66be14b4c418c5d1df81c91c587916158907558b140420c482ec9"
+hash = "21a11f3c69f6199897f98eff40e2a839afd219b544874a58c32206189605836d"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2022,7 +2038,7 @@ hash = "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179"
 
 [[files]]
 file = "config/ftbchunks-client.json5"
-hash = "682918cffad0db518cdd98394e2e0506faf48d4b61f49fcabd1c1688e4a7f7e8"
+hash = "20888962915f97163967d9ef95c300a770fdb5f537e169c482c11ead065cf2db"
 
 [[files]]
 file = "config/ftbchunks-world.json5"
@@ -5146,7 +5162,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a76d727e99b51a4e35df1f50f3ad2966f970d166c0ec255dd920530b1a83c159"
+hash = "5e0a6963e17a6a45c15e8965a820aca10362298602ba57d641050d3ab374d69e"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5250,19 +5266,19 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "855c1a772ed3096850e410c44a8d8f264068a30211bcbaa2639fecea61d12b24"
+hash = "46e31ce59b554dfa02edb7d58f4628218bdac59741cba3d6e82f2d001d39a477"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
-hash = "ba8d353198512c5117a211de5585813ea42cfe84ae548859242d048074c16dce"
+hash = "a7918f46963b394f9700f8aaf63fd365919509148e7f550ae30e36d01379d0e3"
 
 [[files]]
 file = "config/jade/profiles/2/jade.json"
-hash = "7bcf9008a9b01aa76224e404b5ff666a05c49973d312ed59e08a5b585bb78ba2"
+hash = "b4ff4b9b79f5538c2466d1433ac97ee82e82aed339b9aa07495114553ea34bed"
 
 [[files]]
 file = "config/jade/profiles/3/jade.json"
-hash = "43fc692cebb149e4b4c59d174656b6cac967ae36229934fc715a16516e973460"
+hash = "13cfa34fc45b504b4906eaf8e5ca23c3b32b8f58ea92588cd22fe41b7bebd36b"
 
 [[files]]
 file = "config/jade/server-plugin-overrides.json"
@@ -5270,7 +5286,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "0e9748fa193b4e4a1587f5556748c8d6f9d24f0a9d68015bb762381cad38d28d"
+hash = "280da7abf8be8f59330fd9adebbddba6df86913df2f5e507b2a7c560c06331dc"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -5286,7 +5302,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "9ec5da529a14a21204ea2d1237fdab5247874421869f56b0fcaefd326ec12fe8"
+hash = "547edcfa5421e01771fc519a9abe4a9b05035decbb85d89157c8081a307dd4dd"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -5310,7 +5326,7 @@ hash = "a03d4ae7af9dd6b7fede411e1922a01daa120a3f7c5c5fe99e7b6ca6d0f7071c"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "e863f83069ddf8299124ac4ac16c4ef48297318a2fcf36848393e033fc2266ea"
+hash = "2474d7c0ebdb56203feca8a33f377f72299334be4882e79bc5931cae7da5e804"
 
 [[files]]
 file = "config/journeymap-server.toml"
@@ -5993,6 +6009,14 @@ file = "config/vanilla_structures/toggle_structure_config.json5"
 hash = "a50b4ca77d21ae105e68560c1af694125ea06360374c82e87f4da54b7ecfa51d"
 
 [[files]]
+file = "config/visualworkbench-client.toml"
+hash = "26063b95687c060f2acbe9be49cb1155a729d67c63f6610d50ba9a84ed4250f5"
+
+[[files]]
+file = "config/visualworkbench-server.toml"
+hash = "31e78df15ea394de05862d3b24c5031ea3eddf102cd117834f62acd3491314e6"
+
+[[files]]
 file = "config/voicechat/category-volumes.properties"
 hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 
@@ -6011,6 +6035,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "1b36148f5bb71d7ca3bc7b4c37f442bace86624fba997f1db21b20e58c10091a"
+preserve = true
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -13136,6 +13161,11 @@ hash = "19d80d5f780cde96f932984a09a4fe5c7b2c0cfacb7d90fc235a70160511de64"
 metafile = true
 
 [[files]]
+file = "mods/eclipticseasons-26.1.2-neoforge-0.15.0-rc-4-1.pw.toml"
+hash = "abdad9bbf2ca87658d09ce3baa9dfc64f181618dc5c96cd948c984d5ebcdfc78"
+metafile = true
+
+[[files]]
 file = "mods/edivadlib-26.1.2-4.0.1.pw.toml"
 hash = "087b33c8cb9d9724cc1051eb3c8876545f79a2cf2cd03efa4d54ed9a209cce1b"
 metafile = true
@@ -13901,6 +13931,11 @@ hash = "4a11db4f0abe569ccdef6b2d8acab9d3e146beb2496dd605544f986f53217b6b"
 metafile = true
 
 [[files]]
+file = "mods/puzzleslib-v26.1.15-mc26.1.x-neoforge.pw.toml"
+hash = "3ef6c75eaafdcb429df097a4b2b33db4a1c95d6e5cc5a6dd5875bf52ad021e7c"
+metafile = true
+
+[[files]]
 file = "mods/pylons-26.1-6.0.1.pw.toml"
 hash = "2a9785a7b8f56d31f35cc8581bc06038ceda9986c1dcb84cad188d8871b68899"
 metafile = true
@@ -14218,6 +14253,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia_core-neoforge-26.1.2-1.1.6.pw.toml"
 hash = "bfa5e9a1ab78c9e9135c45ef42b7e62a01e61a2221bc6d36d916db187984d0b4"
+metafile = true
+
+[[files]]
+file = "mods/visualworkbench-v26.1.0-mc26.1.x-neoforge.pw.toml"
+hash = "68c07cbcc4f7403677022b9b1078ba3fb9fc58491c393fab4af842ec06536d91"
 metafile = true
 
 [[files]]

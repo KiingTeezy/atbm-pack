@@ -677,7 +677,7 @@ element {
   enable_parallax = false
   load_once_per_session = false
   base_opacity = 1.0
-  source = All The Better Mooks v3.2.0%n%{"placeholder":"loadedmods"} Mods Loaded%n%NeoForge 26.1.2.109%n%Minecraft 26.1.2
+  source = All The Better Mooks v3.2.1%n%{"placeholder":"loadedmods"} Mods Loaded%n%NeoForge 26.1.2.109%n%Minecraft 26.1.2
   source_mode = direct
   shadow = true
   scale = 1.0

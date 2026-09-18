@@ -140,6 +140,14 @@
       "crafting_monitor": true,
       "part_name": true
     },
+    "eclipticseasons": {
+      "greenhouse_core": true,
+      "animal": true,
+      "cauldron": true,
+      "crop": true,
+      "snowy_status": true,
+      "crop.shift_hint": true
+    },
     "theurgy": {
       "mercury_flux": true
     },
