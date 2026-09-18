@@ -1,0 +1,8 @@
+name = "enderdrives-neoforge-26.1.2-1.5.23"
+filename = "enderdrives-neoforge-26.1.2-1.5.23.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/enderdrives-neoforge-26.1.2-1.5.23.jar"
+hash-format = "sha512"
+hash = "91f4227f1e820340efbe97a4b587eb4e4573447b0ae8fef78d58f223c9797e6638df0d3ecb2bc352e78800d2d7f91b137be15843d13af2ab184544f280bae96a"

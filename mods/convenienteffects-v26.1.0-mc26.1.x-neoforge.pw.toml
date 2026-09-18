@@ -1,0 +1,13 @@
+name = "Convenient Effects"
+filename = "ConvenientEffects-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BEVhblTh/versions/1XWEYiDS/ConvenientEffects-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "2451b2fefc7ca813c8ba7139794c34d6b21f2977f6cefdce0a006ca729ab3663d28221dabb47a9ee91400752a2fed457fbaec35db615c4e706e572a809f86616"
+
+[update]
+[update.modrinth]
+mod-id = "BEVhblTh"
+version = "1XWEYiDS"

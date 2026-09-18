@@ -1,0 +1,13 @@
+name = "Horse Breeding Fix"
+filename = "horse-breeding-fix-neoforge-26.x-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QFMVWw4/versions/hu1KEzfw/horse-breeding-fix-neoforge-26.x-1.1.0.jar"
+hash-format = "sha512"
+hash = "b1547a5a4c031fd3f36a067f64dcd773a672695e18ac64cbd14cd2cefa13abe3ff4f38ad3063b8a7ec2dbe6ba9189ef0ca5c622a141e3ad2dec27cbd381d59b4"
+
+[update]
+[update.modrinth]
+mod-id = "4QFMVWw4"
+version = "hu1KEzfw"

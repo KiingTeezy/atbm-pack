@@ -1,0 +1,13 @@
+name = "XP Tome"
+filename = "xptome-neoforge-26.1.2-2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AnpW69o3/versions/wM2OXCPi/xptome-neoforge-26.1.2-2.5.1.jar"
+hash-format = "sha512"
+hash = "b09b611084ea58e9c94f59c0e0cf20472b412d2de5536b0de2349febd723b9d9dd1f6833343ab031e5b6ce37d750ab4baca376ee29b4704e0ef6aa87c15fe7c0"
+
+[update]
+[update.modrinth]
+mod-id = "AnpW69o3"
+version = "wM2OXCPi"

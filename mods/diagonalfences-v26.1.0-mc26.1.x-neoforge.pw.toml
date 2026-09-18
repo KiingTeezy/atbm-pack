@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IKARgflD/versions/LeJEFOb1/DiagonalFences-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "b438aa71c94f1bbd8420eef479af378b1fd9fd7ef1b64b1716b94a2c3be8223058ddf33de29b3c0693e3e1fc3a8d982117c24656e5742efeca8590a90f6aba1d"
+
+[update]
+[update.modrinth]
+mod-id = "IKARgflD"
+version = "LeJEFOb1"

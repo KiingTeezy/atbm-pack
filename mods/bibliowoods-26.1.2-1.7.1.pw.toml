@@ -1,0 +1,13 @@
+name = "Bibliowoods Legacy"
+filename = "bibliowoods-26.1.2-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KhRMZgX2/versions/hk9y93mZ/bibliowoods-26.1.2-1.7.1.jar"
+hash-format = "sha512"
+hash = "308a3cdcf0a77b25b3c7a46584d0f176d8be17ddd9421a807e0a18f3e27ffa481ec5a5e0a85770e8cdd0e535ed1a547d42698fc96043c72710bfe105e7e5d884"
+
+[update]
+[update.modrinth]
+mod-id = "KhRMZgX2"
+version = "hk9y93mZ"

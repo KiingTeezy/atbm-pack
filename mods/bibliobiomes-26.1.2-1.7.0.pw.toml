@@ -1,0 +1,13 @@
+name = "Bibliobiomes Legacy"
+filename = "bibliobiomes-26.1.2-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DSrUt8Cp/versions/AXBT1WVh/bibliobiomes-26.1.2-1.7.0.jar"
+hash-format = "sha512"
+hash = "9c614b19e748d3facfb5221317f9771c84ea7f8b2b896927e5aae9d3368439eae00dcb1149496977132148610df1617b6f6fec7e235953f1a6f2f85e15b0df27"
+
+[update]
+[update.modrinth]
+mod-id = "DSrUt8Cp"
+version = "AXBT1WVh"

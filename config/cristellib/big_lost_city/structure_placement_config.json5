@@ -1,0 +1,212 @@
+{
+	"bigshippingcontainer": {
+		"salt": 175847678,
+		"separation": 30,
+		"spacing": 40
+	},
+	"blackskyscraper": {
+		"salt": 408738256,
+		"separation": 40,
+		"spacing": 80
+	},
+	"car_1": {
+		"salt": 779887977,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_10": {
+		"salt": 1956931273,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_2": {
+		"salt": 779695603,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_3": {
+		"salt": 778733731,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_4": {
+		"salt": 778541356,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_5": {
+		"salt": 779118479,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_6": {
+		"salt": 778926105,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_7": {
+		"salt": 777964233,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_8": {
+		"salt": 777771858,
+		"separation": 25,
+		"spacing": 45
+	},
+	"car_9": {
+		"salt": 778348982,
+		"separation": 25,
+		"spacing": 45
+	},
+	"deco_1": {
+		"salt": 1474594184,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_10": {
+		"salt": 1643266694,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_11": {
+		"salt": 1643843817,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_12": {
+		"salt": 1643651443,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_13": {
+		"salt": 1642689571,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_14": {
+		"salt": 1642497196,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_2": {
+		"salt": 1467476329,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_3": {
+		"salt": 1467283955,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_4": {
+		"salt": 1467861078,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_5": {
+		"salt": 1467668704,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_6": {
+		"salt": 1466706832,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_7": {
+		"salt": 1466514457,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_8": {
+		"salt": 1467091581,
+		"separation": 30,
+		"spacing": 45
+	},
+	"deco_9": {
+		"salt": 1466899206,
+		"separation": 30,
+		"spacing": 45
+	},
+	"ferriswheel": {
+		"salt": 173942498,
+		"separation": 35,
+		"spacing": 55
+	},
+	"house_1": {
+		"salt": 1602039852,
+		"separation": 45,
+		"spacing": 70
+	},
+	"house_2": {
+		"salt": 1601847478,
+		"separation": 45,
+		"spacing": 70
+	},
+	"house_3": {
+		"salt": 1600885606,
+		"separation": 50,
+		"spacing": 80
+	},
+	"powerplant": {
+		"salt": 2108649248,
+		"separation": 55,
+		"spacing": 75
+	},
+	"redskyscraper": {
+		"salt": 1354297932,
+		"separation": 60,
+		"spacing": 80
+	},
+	"ruindedredskyscraper": {
+		"salt": 1809054429,
+		"separation": 60,
+		"spacing": 80
+	},
+	"ruinedblackskyscraper": {
+		"salt": 405906473,
+		"separation": 60,
+		"spacing": 80
+	},
+	"ruinedskyscraper": {
+		"salt": 1979926659,
+		"separation": 60,
+		"spacing": 80
+	},
+	"smallshippingcontainer": {
+		"salt": 969720719,
+		"separation": 25,
+		"spacing": 45
+	},
+	"store_1": {
+		"salt": 757488302,
+		"separation": 55,
+		"spacing": 75
+	},
+	"tallskyscraper": {
+		"salt": 1383792580,
+		"separation": 60,
+		"spacing": 80
+	},
+	"tent_1": {
+		"salt": 219704546,
+		"separation": 25,
+		"spacing": 45
+	},
+	"tent_2": {
+		"salt": 220281669,
+		"separation": 25,
+		"spacing": 45
+	},
+	"tent_3": {
+		"salt": 220089295,
+		"separation": 25,
+		"spacing": 45
+	},
+	"warehouse": {
+		"salt": 861845032,
+		"separation": 50,
+		"spacing": 70
+	}
+}

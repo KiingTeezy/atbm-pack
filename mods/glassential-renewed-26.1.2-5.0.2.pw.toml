@@ -1,0 +1,13 @@
+name = "Glassential Renewed"
+filename = "Glassential-renewed-26.1.2-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kc9FSsYx/versions/S50SNzuh/Glassential-renewed-26.1.2-5.0.2.jar"
+hash-format = "sha512"
+hash = "a57f9475f3d707a9158eda3292f74e8a4fbfbff404bac5f74aadf0347a416a66e0b326ddddac7f3282c7eb7d4eb8f490497dccd40808d39b850ab957ca671467"
+
+[update]
+[update.modrinth]
+mod-id = "kc9FSsYx"
+version = "S50SNzuh"

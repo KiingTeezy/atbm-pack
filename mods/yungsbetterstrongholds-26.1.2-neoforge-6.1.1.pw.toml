@@ -1,0 +1,13 @@
+name = "YUNG's Better Strongholds"
+filename = "YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kidLKymU/versions/jRm5H60F/YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar"
+hash-format = "sha512"
+hash = "984052d0c691e6c49550cf6f47f71b94b0c926cba6af7ad8a3a8375ce25d722c59e73db2f0e2f892a665e22de229c5537b8080e94cdc7b003730e64c87b7e8ee"
+
+[update]
+[update.modrinth]
+mod-id = "kidLKymU"
+version = "jRm5H60F"

@@ -1,0 +1,13 @@
+name = "Bartering Station"
+filename = "BarteringStation-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EOig9U0j/versions/9FVjKLNO/BarteringStation-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "ac4b7a29440f8f3a1dd4186d33a0d47eea575d34f737387c096f831d3a4d7b740a57b3f7bef3fc3949b3b5aec87fdfebf40eb2f0768e198e18c635522d5d8750"
+
+[update]
+[update.modrinth]
+mod-id = "EOig9U0j"
+version = "9FVjKLNO"

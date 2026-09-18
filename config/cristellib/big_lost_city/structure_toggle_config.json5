@@ -1,0 +1,128 @@
+{
+	"bigshippingcontainer": {
+		"bigshippingcontainer": true
+	},
+	"blackskyscraper": {
+		"blackskyscraper": true
+	},
+	"car_1": {
+		"car_1": true
+	},
+	"car_10": {
+		"car_10": true
+	},
+	"car_2": {
+		"car_2": true
+	},
+	"car_3": {
+		"car_3": true
+	},
+	"car_4": {
+		"car_4": true
+	},
+	"car_5": {
+		"car_5": true
+	},
+	"car_6": {
+		"car_6": true
+	},
+	"car_7": {
+		"car_7": true
+	},
+	"car_8": {
+		"car_8": true
+	},
+	"car_9": {
+		"car_9": true
+	},
+	"deco_1": {
+		"deco_1": true
+	},
+	"deco_10": {
+		"deco_10": true
+	},
+	"deco_11": {
+		"deco_11": true
+	},
+	"deco_12": {
+		"deco_12": true
+	},
+	"deco_13": {
+		"deco_13": true
+	},
+	"deco_14": {
+		"deco_14": true
+	},
+	"deco_2": {
+		"deco_2": true
+	},
+	"deco_3": {
+		"deco_3": true
+	},
+	"deco_4": {
+		"deco_4": true
+	},
+	"deco_5": {
+		"deco_5": true
+	},
+	"deco_6": {
+		"deco_6": true
+	},
+	"deco_7": {
+		"deco_7": true
+	},
+	"deco_8": {
+		"deco_8": true
+	},
+	"deco_9": {
+		"deco_9": true
+	},
+	"ferriswheel": {
+		"ferriswheel": true
+	},
+	"house_1": {
+		"house_1": true
+	},
+	"house_2": {
+		"house_2": true
+	},
+	"house_3": {
+		"house_3": true
+	},
+	"powerplant": {
+		"powerplant": true
+	},
+	"redskyscraper": {
+		"redskyscraper": true
+	},
+	"ruindedredskyscraper": {
+		"ruindedredskyscraper": true
+	},
+	"ruinedblackskyscraper": {
+		"ruinedblackskyscraper": true
+	},
+	"ruinedskyscraper": {
+		"ruinedskyscraper": true
+	},
+	"smallshippingcontainer": {
+		"smallshippingcontainer": true
+	},
+	"store_1": {
+		"store_1": true
+	},
+	"tallskyscraper": {
+		"tallskyscraper": true
+	},
+	"tent_1": {
+		"tent_1": true
+	},
+	"tent_2": {
+		"tent_2": true
+	},
+	"tent_3": {
+		"tent_3": true
+	},
+	"warehouse": {
+		"warehouse": true
+	}
+}

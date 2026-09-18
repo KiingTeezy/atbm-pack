@@ -1,0 +1,13 @@
+name = "Advanced Core Info (ACI)"
+filename = "AdvancedCoreInfo-neoforge-26.1.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BaR4ijFC/versions/rHsmwQ4B/AdvancedCoreInfo-neoforge-26.1.2-1.2.0.jar"
+hash-format = "sha512"
+hash = "6a3f1327d3699e0a2cc586af4542734a1be48051caad7393b8bc7cc0726a81e26eb00d1212fc899ffd2811486520be8a53f2792b0a751d3b44a8d6374c01baf8"
+
+[update]
+[update.modrinth]
+mod-id = "BaR4ijFC"
+version = "rHsmwQ4B"

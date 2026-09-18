@@ -1,0 +1,13 @@
+name = "Big Lost City"
+filename = "big_lost_city-1.0.1 Neoforge 26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMtLn3EL/versions/4THoxPYN/big_lost_city-1.0.1%20Neoforge%2026.1.2.jar"
+hash-format = "sha512"
+hash = "77bfc950d4ba89c605bb0e3f9fbe91f0fe79f0de9e722b5298acf630504fa5453e852b3e14c0a9592de67addf4c45d22317200cc26fb4468241985a3bc646f16"
+
+[update]
+[update.modrinth]
+mod-id = "lMtLn3EL"
+version = "4THoxPYN"

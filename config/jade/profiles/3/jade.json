@@ -201,9 +201,16 @@
       "entity": true,
       "entity_variant": true
     },
+    "tombstone": {
+      "decorative_graves": true,
+      "player_graves": true
+    },
     "logisticsnetworks": {
       "logistics_node_entity": true,
       "node_attached": true
+    },
+    "extrastorage": {
+      "advanced_crafter": true
     },
     "apotheosis": {
       "adventure": true
@@ -249,6 +256,12 @@
     },
     "modularrouters": {
       "router": true
+    },
+    "jadeaddons": {
+      "equipment_requirement": ""
+    },
+    "jadeaddons.lootr": {
+      "info": true
     },
     "mysticalagradditions": {
       "infused_farmland": true

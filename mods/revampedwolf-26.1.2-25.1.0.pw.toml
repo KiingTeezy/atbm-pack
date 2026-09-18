@@ -1,0 +1,13 @@
+name = "RevampedWolf"
+filename = "revampedwolf-26.1.2-25.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AV4N1OZQ/versions/1iKqWGxT/revampedwolf-26.1.2-25.1.0.jar"
+hash-format = "sha512"
+hash = "07ca829cd6c8b25ebf425bbe04ba6edf977452634ea9d8fb5e8daa6730cb3f29d9a7eca084432f8ac7a49cef46d17fd7c59426de49a3b8a3df64c01f06034d9e"
+
+[update]
+[update.modrinth]
+mod-id = "AV4N1OZQ"
+version = "1iKqWGxT"

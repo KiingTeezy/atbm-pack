@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-neoforge-1.12.4-mc26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/KPrjbsQg/notenoughanimations-neoforge-1.12.4-mc26.1.2.jar"
+hash-format = "sha512"
+hash = "d9caaad6f75836c31821e45309b1b86dac26b4b43d040ff32f28570fafdd41ae5b0dce28b2ea0339e7740bd15b97f3fee5dd1a55741ba37bee09a84c20194ae8"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "KPrjbsQg"

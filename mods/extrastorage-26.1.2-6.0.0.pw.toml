@@ -1,0 +1,13 @@
+name = "ExtraStorage"
+filename = "ExtraStorage-26.1.2-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T34cBZKl/versions/sALgah4c/ExtraStorage-26.1.2-6.0.0.jar"
+hash-format = "sha512"
+hash = "40d13596655a6762ff16cf37c0ed511d446a61fa80d018d8fe03411659477a690b517222d4e90ddff560ec9879077f8d7e393108b4e8550bec82e0449fce1982"
+
+[update]
+[update.modrinth]
+mod-id = "T34cBZKl"
+version = "sALgah4c"

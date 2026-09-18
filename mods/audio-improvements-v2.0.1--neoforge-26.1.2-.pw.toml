@@ -1,0 +1,13 @@
+name = "Audio Improvements"
+filename = "Audio Improvements v2.0.1 (NeoForge 26.1.2).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPd4RNCU/versions/nyBIHn1F/Audio%20Improvements%20v2.0.1%20%28NeoForge%2026.1.2%29.jar"
+hash-format = "sha512"
+hash = "26e26f30ab5699fd84b02a6e2a02f816ca7f4f2d72417b5974b4d515a9b76e364f93943e3eb8d15a357ddb57b5afcf8c6065c28e4247fecd42dc27d288fc2790"
+
+[update]
+[update.modrinth]
+mod-id = "UPd4RNCU"
+version = "nyBIHn1F"

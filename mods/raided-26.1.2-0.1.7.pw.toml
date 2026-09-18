@@ -1,0 +1,8 @@
+name = "Raided-26.1.2-0.1.7"
+filename = "Raided-26.1.2-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/Raided-26.1.2-0.1.7.jar"
+hash-format = "sha512"
+hash = "90ee82e1a624182b1ffe92d8a2bb2ad922f57d71bd2688e1f3e299b3c4b7d859b9ad8fc46d377dd81700858bce989b4db4f5a8603dde641c4f72fa0ec9548cfc"

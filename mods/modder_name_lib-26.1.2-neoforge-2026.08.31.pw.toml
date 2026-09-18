@@ -1,0 +1,13 @@
+name = "Modder Name Lib"
+filename = "modder_name_lib-26.1.2-neoforge-2026.08.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSoTsKbP/versions/Y4YpaUu7/modder_name_lib-26.1.2-neoforge-2026.08.31.jar"
+hash-format = "sha512"
+hash = "a3a6c2b2be3c4227d37cd80af23546e3729222958921a4fdcb7f15f451ce719e79eac56d2cc354e0939e0545557a412f6db944559da2a1283ccc09f3e1f7ffe8"
+
+[update]
+[update.modrinth]
+mod-id = "zSoTsKbP"
+version = "Y4YpaUu7"

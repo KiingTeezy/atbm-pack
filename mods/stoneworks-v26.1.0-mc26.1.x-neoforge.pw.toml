@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/yI3EuefP/Stoneworks-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "f3e6369d631677bd5f7dacc97d7374a22fa485867042b043637d6937dac02f2d49fafdc6351dcede2bdd693b98f678f810d1a1a0e87299deec67d3e7f66c1c27"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "yI3EuefP"

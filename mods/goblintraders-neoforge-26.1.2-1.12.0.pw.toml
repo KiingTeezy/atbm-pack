@@ -1,0 +1,8 @@
+name = "goblintraders-neoforge-26.1.2-1.12.0"
+filename = "goblintraders-neoforge-26.1.2-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/goblintraders-neoforge-26.1.2-1.12.0.jar"
+hash-format = "sha512"
+hash = "b013a76a8e96ae60ffb3c9ba453c12e40b98189897a9ffeffb66c878773964d7e807bad81b770403190507c9db4ce8f6562eb0dca0273e84e25e7a30f1e0db22"

@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "name": "tombstone:grave_dust",
+      "weight": 5,
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "weight": 95,
+      "type": "minecraft:empty"
+    }
+  ],
+  "rolls": 1.0,
+  "bonus_rolls": 0.0,
+  "name": "tombstone:sniffer_digging"
+}

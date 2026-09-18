@@ -1,0 +1,8 @@
+name = "leaderboards-26.1.2-NeoForge-2.0.4"
+filename = "leaderboards-26.1.2-NeoForge-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/leaderboards-26.1.2-NeoForge-2.0.4.jar"
+hash-format = "sha512"
+hash = "f81cae6e60452150873bce22828bf378699b483658225cecf3aab05ff549d1337077ed695b0eae0d9c3cd5917a483eaaaee9478b1eb59d6bb2d7f8e8e42286ac"

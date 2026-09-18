@@ -1,0 +1,13 @@
+name = "Nondirectional Damage Tilt Fix"
+filename = "nondirectionaldamagetiltfix-3.0.0+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v2jWULk9/versions/nZcYKn4B/nondirectionaldamagetiltfix-3.0.0%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "5ab520d9a8eb867042019c74670e8846eb4df524fe164766fb9bb4959a4981d162ec9b0e4f0c888e7f4f6c1767eda2690dc5f89404089af5abf2758a7c598d18"
+
+[update]
+[update.modrinth]
+mod-id = "v2jWULk9"
+version = "nZcYKn4B"

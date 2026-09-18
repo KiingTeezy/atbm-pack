@@ -1,0 +1,8 @@
+name = "potionsmaster-26.1.2.100-2.0.0"
+filename = "potionsmaster-26.1.2.100-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/potionsmaster-26.1.2.100-2.0.0.jar"
+hash-format = "sha512"
+hash = "966e0f8682139b2324bfafe48abad73378b2ddca4c5e382de0abc995dcdf2b6d7b2f9202e4f190d563444d26912770e5c0a008f917cd2e0b8c6ec53ea414ca2a"

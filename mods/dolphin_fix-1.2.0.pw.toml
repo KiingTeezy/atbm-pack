@@ -1,0 +1,13 @@
+name = "dolphin-fix"
+filename = "dolphin_fix-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjHVU1tK/versions/Er2FgUfj/dolphin_fix-1.2.0-1.26.1.jar"
+hash-format = "sha512"
+hash = "4b79eb9c0ec69e892516153a7bd0f7d616dd0b15b38654ab5e4245e321cc6fdb889b7046d66449fa55ccb45bbce11fc51756f8ee20e07720e383364e496e00ff"
+
+[update]
+[update.modrinth]
+mod-id = "TjHVU1tK"
+version = "Er2FgUfj"

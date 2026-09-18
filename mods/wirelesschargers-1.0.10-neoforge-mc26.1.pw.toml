@@ -1,0 +1,13 @@
+name = "Wireless Chargers"
+filename = "wirelesschargers-1.0.10-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCk7Sfz8/versions/Y1v5S2Ya/wirelesschargers-1.0.10-neoforge-mc26.1.jar"
+hash-format = "sha512"
+hash = "7fd39a0d8f3631b89b9e1baea685c21f671dc88a692ed83d50440f3d4a64adededa9579ddaddd170ba5eddd70fefc489f5b975e5110fdfae143390b80cd82601"
+
+[update]
+[update.modrinth]
+mod-id = "nCk7Sfz8"
+version = "Y1v5S2Ya"

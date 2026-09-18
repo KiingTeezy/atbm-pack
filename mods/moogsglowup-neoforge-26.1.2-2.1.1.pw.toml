@@ -1,0 +1,13 @@
+name = "Moog's Glow Up"
+filename = "MoogsGlowUp-neoforge-26.1.2-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/Q9xS4NbR/MoogsGlowUp-neoforge-26.1.2-2.1.1.jar"
+hash-format = "sha512"
+hash = "b514d82f30d836aa176b380e60a673072bdbe8be6b25a34e961c467a6f9855b01af31340f6abbc3f596777e90c944550b8d61d3fd5d596bac15bb78b2f04685a"
+
+[update]
+[update.modrinth]
+mod-id = "iLlwyhcZ"
+version = "Q9xS4NbR"

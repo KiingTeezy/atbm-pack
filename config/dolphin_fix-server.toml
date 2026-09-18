@@ -1,0 +1,12 @@
+#Prevent dolphins from drowning while they are unable to surface
+drowningFix = true
+#Prevent dolphins from drying out while they are unable to move to water or are stuck in midair
+dryoutFix = true
+#Safety margin subtracted from the simulation distance to err on the more lenient side (i.e dolphins who enter range while already underwater and out of breath who need time to get to the surface). Default value will not effect gameplay unless you are trying to drown dolphins.
+# Default: 16
+# Range: > 0
+safetyMargin = 16
+#As mentioned previously dolphins may enter the simulation range while already out of breath. This amount of air is given to the dolphins whenever they almost drown while in the twighlight zone this mod aims to fix. It isn't a perfect system but will reduce the rare chip damage experienced by dolphins rapidly being in and out of the safe zone.
+# Default: 300
+# Range: > 0
+safetyAir = 300

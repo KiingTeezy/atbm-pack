@@ -438,3 +438,13 @@ key_key.advanced_ae.quantum_armor_config:key.keyboard.unknown:
 key_key.advanced_ae.quantum_magnet_upgrade:key.keyboard.unknown:
 key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown:
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown:
+key_key.bridgingmod.toggle_bridging:key.keyboard.unknown:
+key_key.carry.desc:key.keyboard.left.shift:
+key_key.little_big_redstone.open_note_board:key.keyboard.unknown:
+key_key.pingwheel.open_settings:key.keyboard.unknown:
+key_key.pingwheel.ping_location:key.mouse.5:
+key_keys.eclipticseasons.main/debug:key.keyboard.unknown:
+key_options.narrator:key.keyboard.unknown:
+key_tombstone.message.compendium:key.keyboard.unknown:
+key_tombstone.message.config:key.keyboard.unknown:
+key_tombstone.message.knowledge_of_death:key.keyboard.unknown:

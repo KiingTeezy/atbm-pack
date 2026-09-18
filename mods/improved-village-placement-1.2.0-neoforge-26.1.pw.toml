@@ -1,0 +1,13 @@
+name = "Improved Village Placement"
+filename = "improved-village-placement-1.2.0-neoforge-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KA0MllEw/versions/Ad3auwsa/improved-village-placement-1.2.0-neoforge-26.1.jar"
+hash-format = "sha512"
+hash = "cff4f236c115b1ba0a016251055b32b142f904fd5f1539ca9fd701d4aef4f32a4b11c5daf50b590c2ab07be7321c5d093527b58be9e85004d3ece1b5076f5846"
+
+[update]
+[update.modrinth]
+mod-id = "KA0MllEw"
+version = "Ad3auwsa"

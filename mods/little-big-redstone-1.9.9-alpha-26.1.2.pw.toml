@@ -1,0 +1,13 @@
+name = "Little Big Redstone"
+filename = "little-big-redstone-1.9.9-alpha-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cdz2XZgU/versions/Hha93sMx/little-big-redstone-1.9.9-alpha-26.1.2.jar"
+hash-format = "sha512"
+hash = "47e8157cadcf941d21ae623f139d0f81586499f98566d23d9279a5be79ebcc920dae2b7be04de352f0dffd11ed569e45cdbeb1eec35afddcef651a51aba6a64a"
+
+[update]
+[update.modrinth]
+mod-id = "cdz2XZgU"
+version = "Hha93sMx"

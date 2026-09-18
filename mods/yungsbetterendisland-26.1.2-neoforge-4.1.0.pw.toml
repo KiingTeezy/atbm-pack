@@ -1,0 +1,13 @@
+name = "YUNG's Better End Island"
+filename = "YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/o9zTzuap/YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar"
+hash-format = "sha512"
+hash = "67853e10a9ded2a96d45dc57c9befcd25a9a90e4cc12dc8f3be8f17cc69952e0fed9e3304ab784d0e6c18a1df48633cb5b51eeb24e69845749edf2de81768967"
+
+[update]
+[update.modrinth]
+mod-id = "2BwBOmBQ"
+version = "o9zTzuap"

@@ -1,0 +1,13 @@
+name = "YUNG's Better Desert Temples"
+filename = "YungsBetterDesertTemples-26.1.2-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XNlO7sBv/versions/c5C5dZJ8/YungsBetterDesertTemples-26.1.2-NeoForge-5.1.1.jar"
+hash-format = "sha512"
+hash = "6e5096caf6b1de326a2f66dbc651ddf057c490d4c0ef921a5ead511b1fdb121e8e4b101ee008741981db2de6c2d22fcab66a5e1a7e823996b1f90ac59563d72d"
+
+[update]
+[update.modrinth]
+mod-id = "XNlO7sBv"
+version = "c5C5dZJ8"

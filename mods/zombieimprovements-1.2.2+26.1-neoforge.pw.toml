@@ -1,0 +1,13 @@
+name = "Zombie Improvements"
+filename = "zombieimprovements-1.2.2+26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1NeE16sL/versions/dlwDRjqx/zombieimprovements-1.2.2%2B26.1-neoforge.jar"
+hash-format = "sha512"
+hash = "5ad2dd17e0a62cfcf841b77a4fe720c9c5b05eb91e268033fb14f56addf6190ab7f9ed1fc64ee4e9b66c8f76007cde123c02f1f00493254ccbb67c93b16988cc"
+
+[update]
+[update.modrinth]
+mod-id = "1NeE16sL"
+version = "dlwDRjqx"

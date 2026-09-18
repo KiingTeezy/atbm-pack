@@ -1,0 +1,13 @@
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+
+[update]
+[update.modrinth]
+mod-id = "AVq17PqV"
+version = "BRLWoXVC"

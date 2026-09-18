@@ -1,0 +1,13 @@
+name = "Golem Spawn Fix"
+filename = "golem_spawn_fix-1.0.2-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dYvFPEKH/versions/IJBwGISl/golem_spawn_fix-1.0.2-neoforge-26.1.2.jar"
+hash-format = "sha512"
+hash = "3f159141dc8a2060ddbfaf6bbc30779e76e4be98a2a498c4c84aeeeae4ef186a4b4dc842f660bc0e377dd6b0eec09887e21740580a1bb2c30abdad5289770fe0"
+
+[update]
+[update.modrinth]
+mod-id = "dYvFPEKH"
+version = "IJBwGISl"

@@ -1,0 +1,13 @@
+name = "Bibliocraft Legacy"
+filename = "bibliocraft-26.1.2-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiXYWB7J/versions/KhA1oEMp/bibliocraft-26.1.2-1.7.1.jar"
+hash-format = "sha512"
+hash = "374407f9fea98e7b4f6f4bea1c76f4ded5d67f6a1161e1bdf293f2d52207ca049e7fc152117f38719e807967e9d929ca4f4a544d55acef689c329068332afcb1"
+
+[update]
+[update.modrinth]
+mod-id = "eiXYWB7J"
+version = "KhA1oEMp"

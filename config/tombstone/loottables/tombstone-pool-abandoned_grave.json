@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "name": "tombstone:essence_of_undeath",
+      "weight": 10,
+      "functions": [
+        {
+          "function": "tombstone:check_enabled"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "tombstone:receptacle_of_familiar",
+      "weight": 50,
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "tombstone:magic_scroll",
+      "weight": 200,
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "tombstone:magic_scroll",
+      "weight": 50,
+      "functions": [
+        {
+          "function": "tombstone:delayed_nbt_loot"
+        },
+        {
+          "components": {
+            "tombstone:tb_ancient": true
+          },
+          "function": "minecraft:set_components"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:book",
+      "weight": 200,
+      "functions": [
+        {
+          "function": "minecraft:enchant_randomly"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:book",
+      "weight": 100,
+      "functions": [
+        {
+          "type": "weapon",
+          "enchanted_chance": 50,
+          "random_enchantability": 60,
+          "function": "tombstone:enchanted_equipment"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:book",
+      "weight": 100,
+      "functions": [
+        {
+          "type": "tool",
+          "enchanted_chance": 50,
+          "random_enchantability": 60,
+          "function": "tombstone:enchanted_equipment"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:book",
+      "weight": 400,
+      "functions": [
+        {
+          "type": "armor",
+          "enchanted_chance": 50,
+          "random_enchantability": 60,
+          "function": "tombstone:enchanted_equipment"
+        }
+      ],
+      "type": "minecraft:item"
+    },
+    {
+      "name": "minecraft:potion",
+      "weight": 300,
+      "functions": [
+        {
+          "function": "tombstone:random_potion"
+        }
+      ],
+      "type": "minecraft:item"
+    }
+  ],
+  "rolls": {
+    "min": 3.0,
+    "max": 5.0,
+    "type": "minecraft:uniform"
+  },
+  "bonus_rolls": 0.0,
+  "name": "tombstone:abandoned_grave"
+}

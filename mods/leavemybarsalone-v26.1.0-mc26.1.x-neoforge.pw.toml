@@ -1,0 +1,13 @@
+name = "Leave My Bars Alone"
+filename = "LeaveMyBarsAlone-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gK9mebQg/versions/GMW8DNh9/LeaveMyBarsAlone-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "e38984477fe156e26ebcbcd17f9db185b3cc23448fb77b3744e80cc5ad7a5a26447ab93b3e6295c63176c9fcdacc956bcbe1f5c2425762afa31eff33bd903b33"
+
+[update]
+[update.modrinth]
+mod-id = "gK9mebQg"
+version = "GMW8DNh9"

@@ -1,0 +1,8 @@
+name = "mcw-holidays-1.1.2-mc26.1neoforge"
+filename = "mcw-holidays-1.1.2-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/mcw-holidays-1.1.2-mc26.1neoforge.jar"
+hash-format = "sha512"
+hash = "1348c0c04cb059fdfce731849d253c760375a3510c6dedfe4dc594e09df37b8af825d9151bb54c5dceea39925d71d0dabe9bd53c6216321b036b8223fce3d532"

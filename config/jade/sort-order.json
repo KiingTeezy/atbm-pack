@@ -37,6 +37,7 @@
   "extendedae:jade_chamber": null,
   "extendedae:jade_wireless": null,
   "extendedae:tile_data": null,
+  "extrastorage:advanced_crafter": null,
   "framedblocks:framed_block_generic": null,
   "framedblocks:framed_item_frame": null,
   "ftbquests:barrier": null,
@@ -69,6 +70,8 @@
   "jade_access:held_item": null,
   "jade_access:npc_description": null,
   "jade_access:sign": null,
+  "jadeaddons.lootr:info": null,
+  "jadeaddons.lootr:inventory": null,
   "logisticsnetworks:logistics_node_entity": null,
   "logisticsnetworks:node_attached": null,
   "minecraft:animal_owner": null,
@@ -142,5 +145,7 @@
   "reliquary:cauldron": null,
   "reliquary:mortar": null,
   "reliquary:pedestal": null,
-  "theurgy:mercury_flux": null
+  "theurgy:mercury_flux": null,
+  "tombstone:decorative_graves": null,
+  "tombstone:player_graves": null
 }

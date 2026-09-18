@@ -1,0 +1,13 @@
+name = "Rebind Narrator"
+filename = "rebind_narrator-26.1.2-neoforge-2026.08.31.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/OpICYlpa/rebind_narrator-26.1.2-neoforge-2026.08.31.jar"
+hash-format = "sha512"
+hash = "4b657613cf541b6eb0de5ed0cc26a6ccb6151c889e76c05ae67f29557c7d00f298ab1df7de3e0da92640be9b2440b81650c7991e81d53add7124ecd4e495e3f6"
+
+[update]
+[update.modrinth]
+mod-id = "qw2Ls89j"
+version = "OpICYlpa"

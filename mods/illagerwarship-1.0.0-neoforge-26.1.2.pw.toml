@@ -1,0 +1,13 @@
+name = "Illager Warship"
+filename = "illagerwarship-1.0.0 Neoforge 26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tUpIHo95/versions/VmyiPcfZ/illagerwarship-1.0.0%20Neoforge%2026.1.2.jar"
+hash-format = "sha512"
+hash = "7f082b945f8e2367e101e271be1a420dac41cfd63f63e5dd8d37da179bd699328880936dd2a3aa18290ea66925260d8fd407447133eb1b806428db47fd3a7e5d"
+
+[update]
+[update.modrinth]
+mod-id = "tUpIHo95"
+version = "VmyiPcfZ"

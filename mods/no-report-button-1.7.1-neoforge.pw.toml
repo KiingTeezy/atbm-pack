@@ -1,0 +1,13 @@
+name = "No Report Button"
+filename = "no-report-button-1.7.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WJeSpTH/versions/Wu3UzMZv/no-report-button-1.7.1-neoforge.jar"
+hash-format = "sha512"
+hash = "0fda34f5b061994686e53e0b36a0646cc81f5ae1bdae76ced6a59d366847e3d1c5ba6fd7845b4b70dae64be609881ad8ad37f6a3b67733e1c9d46e05dc0ed8f5"
+
+[update]
+[update.modrinth]
+mod-id = "9WJeSpTH"
+version = "Wu3UzMZv"
