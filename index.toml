@@ -1685,6 +1685,18 @@ file = "config/fancymenu/assets/akliz_gray.png"
 hash = "36fb74c94882d6ecb80691105d0f933fb475e7190a4e3f841ea6e71a81cd0c90"
 
 [[files]]
+file = "config/fancymenu/assets/atbm_icon_128.png"
+hash = "7a95df849283926d6525a3707476dfb5df04a2184d767c0909bce1b8d542c34c"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_icon_16.png"
+hash = "629c7b9140ee81c1a3a3c643d4686a7f738fe9b342ad91df051d02605e410547"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_icon_32.png"
+hash = "e4e9317f21c6c2ca35bd7200168fe74439de3228fafd464e913cda2d29676702"
+
+[[files]]
 file = "config/fancymenu/assets/atbm_loading_banner.png"
 hash = "11d1eb336443df07c01b69dc139fa7eac4d0499d835d132fcee8e7ab30b39950"
 
@@ -1818,7 +1830,7 @@ hash = "abdb97bfff2aca6c27b2bd14b65f88c5e7ba36adb535ad82fcb4447e14bc8480"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ae3ff643cdf0c948d4421a97509bc51635117819c5d37eda5d0d6bfcbdc0bd57"
+hash = "039e89c7f4e9930fd726973942ba889b147418d65e5223bf09fd1065a7635840"
 
 [[files]]
 file = "config/fancymenu/slideshows/atbm_backgrounds/images/01_crossroads.jpg"
@@ -5066,7 +5078,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a1e786af20b2141ddd291c867cbb61d5bbb3295bcd98e828450c07e44597d811"
+hash = "86e1c509733039bc94175d29f9cdb419322e35ecf7a37ae91e3324ff6db8b3d4"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
