@@ -1689,6 +1689,10 @@ file = "config/fancymenu/assets/atbm_loading_banner.png"
 hash = "11d1eb336443df07c01b69dc139fa7eac4d0499d835d132fcee8e7ab30b39950"
 
 [[files]]
+file = "config/fancymenu/assets/atbm_loading_bg.jpg"
+hash = "ecbbe42d64da7e38e2ae2e12373fc36b8e1d2773155bdc9def55a7a412aaccc6"
+
+[[files]]
 file = "config/fancymenu/assets/background.png"
 hash = "424a500df652ccc6ce54589e299008d5d9e426a7e96f8eb55d159c3c4904c46b"
 
@@ -1790,11 +1794,11 @@ hash = "f398b9b5dba89d2bd7aed54e87cb9f24339a6dca232b34c78c121c408e5aba3f"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "fdfee8f4f205a7fdb448cfea22d4033d3d46c0a8a4c8c4c04058f10bacf3f25a"
+hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "176bdac4b1865ab6e07221992a2f3507fb7031a0a529f04aff29049e1b283d38"
+hash = "858eb183b6fa041681aa9ae04e2b6ffea27168dd290e3330a12510dfb4fdff86"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -1815,6 +1819,34 @@ hash = "abdb97bfff2aca6c27b2bd14b65f88c5e7ba36adb535ad82fcb4447e14bc8480"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "ae3ff643cdf0c948d4421a97509bc51635117819c5d37eda5d0d6bfcbdc0bd57"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/01_crossroads.jpg"
+hash = "d45f163ac758ac4834f6b6c2ee25912011175a4889d61d93a1066b35f949e86c"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/02_cherry_valley.jpg"
+hash = "05335884d896b8089bb482cd91a3ecd6a9bb4c7a9054899f2cbb9288053c0ed6"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/03_desert_oasis.jpg"
+hash = "9b15d4bd5a4ff049faef1798a54e1126a788ca51e6fa80daa5b385eb06678fd4"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/04_frozen_kingdom.jpg"
+hash = "40fdd693568bb9cf471a04849d1e26e94350ad3cfc47a37f1e3e1eba9862a784"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/05_nether_fortress.jpg"
+hash = "b33fef5071b381f137851293dfc632421e2e190a7d4a032cac470aabc73bfa54"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/images/06_deep_dark.jpg"
+hash = "7ccea6ca89ad3874ea43b5d338666d15241305d905b413042b1bcca4120d4684"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_backgrounds/properties.txt"
+hash = "69bec9f19cdd50db3fcd80f3ccd8b284dd2d911a8089c06f13c1ac5f4fe178a2"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1878,7 +1910,19 @@ hash = "f5659957a2583f18c9c45c2053e3c3c84022499555c30ed54fa4d36e7bca3ad5"
 
 [[files]]
 file = "config/fml.toml"
-hash = "2a9ee72f1806b1ca97a171b4083cad054e655eccb863e283d00aca888838f9c9"
+hash = "32e3cc0efafaf545ea742c14b7f590ff7b26ccbea1e398e831dfab30cdf5217e"
+
+[[files]]
+file = "config/fml/atbm_icon.png"
+hash = "e02bff6bf458291aa7135c3a6c0bf51e948b8d9dbecfa2ecc36c611b9e6eef72"
+
+[[files]]
+file = "config/fml/atbm_loading_bg.png"
+hash = "368a4c306533c030f6d449a7cdae84a3c5782663fcd971f523f6bbdbe50af4c1"
+
+[[files]]
+file = "config/fml/theme-atbm.json"
+hash = "b431a54fa49fa744606ede61eda314740d7256b3eb38080bc4a215a07a48a420"
 
 [[files]]
 file = "config/forbidden_arcanus-common.toml"
@@ -5022,7 +5066,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "61f4d20b14ea9c27076f6d00032e336c95d4e3d39f9f3ecd27d796650740c7c8"
+hash = "a1e786af20b2141ddd291c867cbb61d5bbb3295bcd98e828450c07e44597d811"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5601,6 +5645,10 @@ file = "config/selling_bin-client.toml"
 hash = "638b02fb58f2a76cc7f281fd8e40129ff47f758ee9bc3e735b2fcfade03e204a"
 
 [[files]]
+file = "config/selling_bin-server.toml"
+hash = "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
+
+[[files]]
 file = "config/sfm-client-program-editor.toml"
 hash = "833e77df6264c4536117e22e212252470f11234e5f681452fb758de0c123635c"
 
@@ -5722,7 +5770,7 @@ hash = "f23b3bc8c4b159a70c76b0ca54cc9345821ba1988622c3a6b4a93ec0eb886153"
 
 [[files]]
 file = "config/starcatcher-server.toml"
-hash = "6865fe1799ae9054fff6650d11943caafe42fc53b39cf1d55a80d281387aee85"
+hash = "053ff4538faea9cc02a29e8e402e3214b52b974be563b00eca481e77de73176f"
 
 [[files]]
 file = "config/stepcrafter-client.toml"
@@ -5975,10 +6023,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "fancymenu_data/default_scale_set.fm"
 hash = "17add652a384ded92d91197de00394cc51d1622063c011c9c8afc7d064cd9daa"
-
-[[files]]
-file = "fancymenu_data/last_world.fmdata"
-hash = "b70c57093399ef0a0c500b4e333c635f5b3e3e2b5e7786d90e621ac4da3a3f7d"
 
 [[files]]
 file = "kubejs/README.txt"

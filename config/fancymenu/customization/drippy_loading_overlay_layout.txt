@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/background.png
+  image_path = [source:local]/config/fancymenu/assets/atbm_loading_bg.jpg
   slide = false
   repeat_texture = false
   parallax = false
@@ -41,47 +41,6 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
-}
-
-element {
-  source = [source:local]/config/fancymenu/assets/atbm_loading_banner.png
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  image_tint = #FFFFFF
-  restart_animated_on_menu_load = false
-  element_type = image
-  instance_identifier = f0336143-0191-4dc1-994d-8aaeaed65ad6-1756867734064
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -258
-  y = -59
-  width = 512
-  height = 122
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 94308bd3-e462-4531-a033-33354a28e193-1756867734064
-  [loading_requirement_container_meta:94308bd3-e462-4531-a033-33354a28e193-1756867734064] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
 }
 
 element {

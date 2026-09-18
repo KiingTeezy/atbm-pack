@@ -1,0 +1,10 @@
+type = slideshow
+
+slideshow-meta {
+  name = atbm_backgrounds
+  duration = 22
+  fadespeed = 2.5
+  randomize = false
+  width = 1920
+  height = 1080
+}

@@ -33,7 +33,7 @@ menu_background {
 menu_background {
   instance_identifier = 6d0c4206-a844-4626-9bd5-135bfb10b0b9-1756740453518
   background_type = image
-  show_background = true
+  show_background = false
   image_path = [source:local]/config/fancymenu/assets/menu_background.png
   slide = false
   repeat_texture = false
@@ -47,7 +47,8 @@ menu_background {
 menu_background {
   instance_identifier = 873d951f-154c-4afc-acd6-8337440e5aa3-1782179073959
   background_type = slideshow
-  show_background = false
+  slideshow_name = atbm_backgrounds
+  show_background = true
 }
 
 menu_background {
