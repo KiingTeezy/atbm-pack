@@ -1525,6 +1525,10 @@ file = "config/defaultoptions-common.toml"
 hash = "a1d7ce1bf07d787b9468423697c89a096ed7198d2b74dd55f47b709adf76352a"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "8721ea5fa7e29ebe56a3054e9823603924bcce17503fdc6395273696194bd401"
+
+[[files]]
 file = "config/dimstorage-server.toml"
 hash = "0dbd99822332c1c0f49715c1e6e20d8bd5c7a023e7828003f75527436e26c17b"
 
@@ -5018,7 +5022,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "046376a8b234f36700697b58c33e215496ffcfae12e607bae20a1501e3b73127"
+hash = "61f4d20b14ea9c27076f6d00032e336c95d4e3d39f9f3ecd27d796650740c7c8"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
