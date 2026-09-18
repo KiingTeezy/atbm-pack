@@ -1,0 +1,8 @@
+name = "GlitchCore-neoforge-26.1.2-26.1.2.0.2"
+filename = "GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+hash-format = "sha512"
+hash = "c09bb969584194b5b91c6e3f95a6254f4c84d49a6ececec0c4fa8e1a61c6de5caa6f6ada6756b11cf437277baa7cbaccea831b9d5a1c848169f70c4a7d6d3fbb"

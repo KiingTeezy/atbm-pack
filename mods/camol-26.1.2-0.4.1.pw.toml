@@ -1,0 +1,8 @@
+name = "camol-26.1.2-0.4.1"
+filename = "camol-26.1.2-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/camol-26.1.2-0.4.1.jar"
+hash-format = "sha512"
+hash = "84957bf830aaac42d129f32f9aed97bfcd21b188fbb8d878d5274620a8d37ee95e4379f16dc6a38ce01ed1c0b59cde04a8f5387e0c68ad99b2fa27decdeb484b"

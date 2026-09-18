@@ -1,0 +1,347 @@
+{
+  id: "147E3D93175DF060",
+  group: "195B0654864CE15A",
+  order_index: 3,
+  icon: {
+    id: "betterarcheology:creeper_fossil_head",
+    count: 1,
+  },
+  filename: "exploration_archaeology",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: -2.0,
+      y: -4.0,
+      size: 1.0,
+      id: "1BF4E6CF639FC765",
+      tasks: [
+        {
+          id: "7DFFC30DCCCB84AF",
+          type: "item",
+          item: {
+            id: "betterarcheology:archeology_table",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7D6544358E015922",
+          type: "xp_levels",
+          xp_levels: 2,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -3.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "5AE80E5E7C2CA4AD",
+      tasks: [
+        {
+          id: "668323FAB226CDAD",
+          type: "item",
+          item: {
+            id: "betterarcheology:creeper_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "081F67080BA0A60F",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -3.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "280881FA48D829F3",
+      tasks: [
+        {
+          id: "46B470D81EB36E0C",
+          type: "item",
+          item: {
+            id: "betterarcheology:guardian_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2F8A371FFEF92A70",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -4.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "62AFC1FD2199B755",
+      tasks: [
+        {
+          id: "00A494458785D1B4",
+          type: "item",
+          item: {
+            id: "betterarcheology:sheep_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2D71CDC3E2CFAED4",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -3.0,
+      y: -2.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "1D7601F8F8135BD1",
+      tasks: [
+        {
+          id: "73D8315C6C94B614",
+          type: "item",
+          item: {
+            id: "betterarcheology:villager_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0C7EADC528B100D4",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -1.0,
+      y: -2.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "16BADFA489D5F2E0",
+      tasks: [
+        {
+          id: "643FCDA92491A59A",
+          type: "item",
+          item: {
+            id: "betterarcheology:wolf_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "777D77336083F5BC",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -4.5,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "2BD25E60E3BE3A3C",
+      tasks: [
+        {
+          id: "553E60C571B0783D",
+          type: "item",
+          item: {
+            id: "betterarcheology:ocelot_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3B97C495C0E38CB0",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -2.0,
+      y: -2.0,
+      size: 1.0,
+      icon_scale: 2.0,
+      id: "1211D167118E41C3",
+      tasks: [
+        {
+          id: "48DB0392E2B50B37",
+          type: "item",
+          item: {
+            id: "betterarcheology:chicken_fossil",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "713A527720C549C0",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -2.0,
+      y: -5.0,
+      size: 1.0,
+      id: "30C8FE90807AB774",
+      tasks: [
+        {
+          id: "760C1915AC9F81D1",
+          type: "item",
+          item: {
+            id: "betterarcheology:diamond_brush",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "73F0D2F73F2AB353",
+          type: "xp_levels",
+          xp_levels: 2,
+        },
+      ],
+    },
+    {
+      x: -3.0,
+      y: -6.5,
+      size: 1.0,
+      id: "6F6E63C07819B196",
+      tasks: [
+        {
+          id: "2355EAEBCD428156",
+          type: "item",
+          item: {
+            id: "betterarcheology:radiance_totem",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "77F7AD9998E10071",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -5.5,
+      size: 1.0,
+      id: "088A28EFCB18B8F7",
+      tasks: [
+        {
+          id: "225C536A6313FA29",
+          type: "item",
+          item: {
+            id: "betterarcheology:torrent_totem",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3F41F670985479AF",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -1.0,
+      y: -6.5,
+      size: 1.0,
+      id: "7AD9E8D69279F552",
+      tasks: [
+        {
+          id: "6526AF5569C02FF3",
+          type: "item",
+          item: {
+            id: "betterarcheology:soul_totem",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5CA29BA0F04B44D6",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -5.5,
+      size: 1.0,
+      id: "57601A32FEF47DCA",
+      tasks: [
+        {
+          id: "204EF13B768FD2F4",
+          type: "item",
+          item: {
+            id: "betterarcheology:growth_totem",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3033ACE1A58B5812",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      x: -2.0,
+      y: -7.0,
+      size: 1.0,
+      id: "273483B84291EF93",
+      tasks: [
+        {
+          id: "31C8506D16AD1C7B",
+          type: "item",
+          item: {
+            id: "betterarcheology:vase",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4603FFBE07BD0145",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

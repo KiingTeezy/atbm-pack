@@ -1,0 +1,8 @@
+name = "The_Undergarden-26.1.2-0.9.8"
+filename = "The_Undergarden-26.1.2-0.9.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/The_Undergarden-26.1.2-0.9.8.jar"
+hash-format = "sha512"
+hash = "a867071d290c0d033fb2d56807d904f696541ac723c5dfbcd28c04450ed2b4abcadfd990aa1f06f35a681c99cf4fabfc09e84cf0f960ae5673779a4ae74447ac"

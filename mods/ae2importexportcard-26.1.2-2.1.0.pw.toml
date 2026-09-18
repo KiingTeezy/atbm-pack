@@ -1,0 +1,13 @@
+name = "AE2 Import Export Card"
+filename = "ae2importexportcard-26.1.2-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qelfSMnn/versions/v2PSNZ3v/ae2importexportcard-26.1.2-2.1.0.jar"
+hash-format = "sha512"
+hash = "19ee47b952f5c4c3c9d3f68ebdc8132ae7426dc89385e82b37c0b48ce203b7ad1be1889b83c45f892247d3dfd23a2ef66b4c031ae6955903c853759b6eb639fa"
+
+[update]
+[update.modrinth]
+mod-id = "qelfSMnn"
+version = "v2PSNZ3v"

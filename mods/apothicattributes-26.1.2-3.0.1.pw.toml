@@ -1,0 +1,8 @@
+name = "ApothicAttributes-26.1.2-3.0.1"
+filename = "ApothicAttributes-26.1.2-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ApothicAttributes-26.1.2-3.0.1.jar"
+hash-format = "sha512"
+hash = "33f45564f06ab715571298c23f38c95ca1aedc2712229d8655ada43376901f848dac67197082869659cd1f4d5173e59ab76adbb6a68f30c8a8580df24fc8576b"

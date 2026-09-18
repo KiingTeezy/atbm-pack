@@ -1,0 +1,8 @@
+name = "TerraBlender-neoforge-26.1.2-26.1.2.0.3"
+filename = "TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+hash-format = "sha512"
+hash = "d8c7e33d69b96e4f64924d5aa7fc156e800c986275ec7ae815187bd6714d93ae8287c11c132de8451194d538af2e7cc1844efeee17f25f62143e06f1e76646b3"

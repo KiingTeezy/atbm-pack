@@ -1,0 +1,12 @@
+{
+	"oceandungeon": {
+		"salt": 913961031,
+		"separation": 10,
+		"spacing": 38
+	},
+	"undergrounddungeon": {
+		"salt": 1678021532,
+		"separation": 10,
+		"spacing": 38
+	}
+}

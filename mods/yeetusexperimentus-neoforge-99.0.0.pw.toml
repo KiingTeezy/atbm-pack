@@ -1,0 +1,13 @@
+name = "Yeetus Experimentus"
+filename = "yeetusexperimentus-neoforge-99.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HaaH232J/versions/Vw0Mo4mX/yeetusexperimentus-neoforge-99.0.0.jar"
+hash-format = "sha512"
+hash = "ce822e0a0b0e9bc1a7b96a1f391ae3854a45a02101110f0d9db3e00a5b101c1f07afdd9f8665a00ea4cbaf4766fb9cedbe5474e8846a85723d4ad78ff17deaf8"
+
+[update]
+[update.modrinth]
+mod-id = "HaaH232J"
+version = "Vw0Mo4mX"

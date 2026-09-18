@@ -1,0 +1,13 @@
+name = "Max Health Fix"
+filename = "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/nzc3Elfx/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+hash-format = "sha512"
+hash = "b1171726294cfb27712293a747f6c2d644bffd19e7c4cfd996cd22447e258bcb1d07029a544ce88fa6755787fb68214974c1debcff0c4cf0a68d38b677087d07"
+
+[update]
+[update.modrinth]
+mod-id = "mH8wdmqr"
+version = "nzc3Elfx"

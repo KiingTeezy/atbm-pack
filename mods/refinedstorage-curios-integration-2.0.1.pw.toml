@@ -1,0 +1,13 @@
+name = "Refined Storage - Curios Integration"
+filename = "refinedstorage-curios-integration-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6zjL86N/versions/AQXVmnUq/refinedstorage-curios-integration-2.0.1.jar"
+hash-format = "sha512"
+hash = "326d3b0b3da99187a0b1d79f4b24feb6356f6e79c7ef6c14e1e289ea09289bfc99c5d4634ed35757175f85e6e8a71fab726405653005aabca3c0f8faf10aae25"
+
+[update]
+[update.modrinth]
+mod-id = "s6zjL86N"
+version = "AQXVmnUq"

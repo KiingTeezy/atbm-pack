@@ -1,0 +1,8 @@
+name = "FastSuite-26.1.2-7.0.0"
+filename = "FastSuite-26.1.2-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/FastSuite-26.1.2-7.0.0.jar"
+hash-format = "sha512"
+hash = "963e0e6fc97899395426b67c1d62c078ef95012cc1a8fd0c0608a15e69a22c4ef09baa42aef3b530bc2730484629e2496096ec7d7d5b2981d0c58db2a805fe77"

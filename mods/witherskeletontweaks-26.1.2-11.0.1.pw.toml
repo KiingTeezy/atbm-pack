@@ -1,0 +1,13 @@
+name = "Wither Skeleton Tweaks"
+filename = "WitherSkeletonTweaks-26.1.2-11.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RtE3n4Jo/versions/8qjPWJ4x/WitherSkeletonTweaks-26.1.2-11.0.1.jar"
+hash-format = "sha512"
+hash = "1d085366a975fdb76c388582b1e0574e961409422611eee55bb0eb453c2737108b831236b504605a81c752c3c227a85a49be70c7117d78d76ed5e3ca5cdc6b48"
+
+[update]
+[update.modrinth]
+mod-id = "RtE3n4Jo"
+version = "8qjPWJ4x"

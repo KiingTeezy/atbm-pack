@@ -1,0 +1,8 @@
+name = "epitaphs-2.4.0+26.1.2"
+filename = "epitaphs-2.4.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/epitaphs-2.4.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "01cb2e7081ae4bd481a9409bb4e711f3e342d08be4463639f1445e12cbaec678a1485f7790744af9169486dbbcb9f6e38efc1ff9138e314de30db42a186aff88"

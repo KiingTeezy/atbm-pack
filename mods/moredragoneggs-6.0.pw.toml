@@ -1,0 +1,8 @@
+name = "moredragoneggs-6.0"
+filename = "moredragoneggs-6.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/moredragoneggs-6.0.jar"
+hash-format = "sha512"
+hash = "ecc339c21fec142652d9286acb43d471b7eda7b91f752369a36d1782e824f8e45d631cc194663d6df7023a68631693075c9e4fa2911780039b53a6390af298c0"

@@ -1,0 +1,13 @@
+name = "Simple Magnets"
+filename = "simplemagnets-1.1.12-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/AqWJ6KVd/simplemagnets-1.1.12-neoforge-mc26.1.jar"
+hash-format = "sha512"
+hash = "6828925d94cd8af07e2048d8a81b3f2460a15fb493a2b4de2333bb100c192cf499e0ee9ad16b20b1e69d9ca186c9d0da98c44e6843db2d407fd5952d80400ff0"
+
+[update]
+[update.modrinth]
+mod-id = "YyNQVpOu"
+version = "AqWJ6KVd"

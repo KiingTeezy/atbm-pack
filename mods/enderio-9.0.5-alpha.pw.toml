@@ -1,0 +1,13 @@
+name = "Ender IO"
+filename = "enderio-9.0.5-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/VWTnFpS5/enderio-9.0.5-alpha.jar"
+hash-format = "sha512"
+hash = "48b620aaf4953bfa90e32d0d501f34abc30ce4944a02a2c2013e718532fba3115989c95a99b776f73f4ed12a60be90bdba6cebfb1875707455e187f2074e7767"
+
+[update]
+[update.modrinth]
+mod-id = "49ZofO4f"
+version = "VWTnFpS5"

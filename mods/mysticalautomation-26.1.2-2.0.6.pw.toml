@@ -1,0 +1,13 @@
+name = "Mystical Automation"
+filename = "MysticalAutomation-26.1.2-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtZsRhqk/versions/kzURzGBF/MysticalAutomation-26.1.2-2.0.6.jar"
+hash-format = "sha512"
+hash = "9d4a7a51d8d3471e5bf750f40e893166eb6194af208217a3fbcb30f70b12e98138d07853c2234cd7675cf9899d4f065b6ede57275a9d7cb66d60cdc6c10eefb8"
+
+[update]
+[update.modrinth]
+mod-id = "wtZsRhqk"
+version = "kzURzGBF"

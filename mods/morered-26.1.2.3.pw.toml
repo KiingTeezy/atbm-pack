@@ -1,0 +1,8 @@
+name = "morered-26.1.2.3"
+filename = "morered-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/morered-26.1.2.3.jar"
+hash-format = "sha512"
+hash = "ea304907ce33e5f5fd58173296bd906d7cc9ac37525d69863c0e72e9fea934c01a83824d2418bf329297794a696c5990a1bbbcd6d10923b7b6da9e1713953335"

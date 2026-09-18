@@ -1,0 +1,8 @@
+name = "AE2NetworkAnalyzer-26.1-1.0.0-neoforge"
+filename = "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+hash-format = "sha512"
+hash = "fbff85bc4d2484008140e6d191dcdc9c305e76467fbb509721c931043c92e483f3f281531b52d7c1c9389644a51f5d96303cd6c988d1994b0921e2cb15d62cc8"

@@ -1,0 +1,8 @@
+name = "mininggadgets-1.19.3"
+filename = "mininggadgets-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/mininggadgets-1.19.3.jar"
+hash-format = "sha512"
+hash = "826a29c8f71127031f2d93f4bc0f1eb93a3b5b7dfb4f3cb387ddfa9e10fc10e7184e26dcf9df991e4caea3b27a92bb99653a8b1a54c81b9820ad4745b8252dd9"

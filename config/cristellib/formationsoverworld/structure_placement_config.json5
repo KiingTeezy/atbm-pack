@@ -1,0 +1,17 @@
+{
+	"rafts": {
+		"salt": 995602250,
+		"separation": 15,
+		"spacing": 25
+	},
+	"rare": {
+		"salt": 1024917310,
+		"separation": 40,
+		"spacing": 50
+	},
+	"uncommon": {
+		"salt": 650800552,
+		"separation": 8,
+		"spacing": 15
+	}
+}

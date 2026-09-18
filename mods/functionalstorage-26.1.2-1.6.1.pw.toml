@@ -1,0 +1,13 @@
+name = "Functional Storage"
+filename = "functionalstorage-26.1.2-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/nSI7DQsa/functionalstorage-26.1.2-1.6.1.jar"
+hash-format = "sha512"
+hash = "0df49aaf8fd34e698374787d934b1c6d7788484ba448cc6fb03454597e45fa48d82bcfcee3f9d3b967bcd5a904db489d0a607311b17f96c279445286fa84e45f"
+
+[update]
+[update.modrinth]
+mod-id = "cO40ZIg3"
+version = "nSI7DQsa"

@@ -1,0 +1,847 @@
+{
+  id: "1116813DB6A2F769",
+  group: "195B0654864CE15A",
+  order_index: 0,
+  icon: {
+    id: "biomesoplenty:redwood_sapling",
+    count: 1,
+  },
+  filename: "exploration_biomes",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  progression_mode: "flexible",
+  quests: [
+    {
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      size: 2.0,
+      id: "FED21783B8ACE3CD",
+      tasks: [
+        {
+          id: "11A902F015BA760B",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "5E8DFDA1089CCF49",
+          type: "xp",
+          xp: 25,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -3.0,
+      id: "E18DCFF51F933B51",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "730B6FD4745F038F",
+          type: "biome",
+          biome: "biomesoplenty:field",
+        },
+      ],
+      rewards: [
+        {
+          id: "4492AF56930913F9",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "F479E1E947D3C2F3",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -3.0,
+      id: "AF41481B80164511",
+      dependencies: [
+        "E18DCFF51F933B51",
+      ],
+      tasks: [
+        {
+          id: "F20D248A130498C3",
+          type: "biome",
+          biome: "biomesoplenty:lavender_field",
+        },
+      ],
+      rewards: [
+        {
+          id: "89CD367CE7649CDB",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "1F52909D9AC83170",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -3.0,
+      id: "DCD095AD3627E530",
+      dependencies: [
+        "AF41481B80164511",
+      ],
+      tasks: [
+        {
+          id: "D8B8E794DAFC2765",
+          type: "biome",
+          biome: "biomesoplenty:maple_woods",
+        },
+      ],
+      rewards: [
+        {
+          id: "E35FF1A279759BDF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "D5C4370814E3A1AB",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -3.0,
+      id: "DD179CD03250A10D",
+      dependencies: [
+        "DCD095AD3627E530",
+      ],
+      tasks: [
+        {
+          id: "B6C4585C53B9B30B",
+          type: "biome",
+          biome: "biomesoplenty:redwood_forest",
+        },
+      ],
+      rewards: [
+        {
+          id: "AE5146349088FEE6",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "D15F4B0F76597D62",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -3.0,
+      id: "26C5F3C9EF16B7D7",
+      dependencies: [
+        "DD179CD03250A10D",
+      ],
+      tasks: [
+        {
+          id: "42F0F786C9816F7C",
+          type: "biome",
+          biome: "biomesoplenty:coniferous_forest",
+        },
+      ],
+      rewards: [
+        {
+          id: "99AFD109FA46CE4A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "65D9BFC98DEE3FF2",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: -3.0,
+      id: "627185B1EC344ADD",
+      dependencies: [
+        "26C5F3C9EF16B7D7",
+      ],
+      tasks: [
+        {
+          id: "7FAA3CB22BD7D8A9",
+          type: "biome",
+          biome: "biomesoplenty:orchard",
+        },
+      ],
+      rewards: [
+        {
+          id: "20BAD5846F030F93",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "C2901723929B0383",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -3.0,
+      id: "217F1F4F2D92D39A",
+      dependencies: [
+        "627185B1EC344ADD",
+      ],
+      tasks: [
+        {
+          id: "3CE8695764124641",
+          type: "biome",
+          biome: "biomesoplenty:pumpkin_patch",
+        },
+      ],
+      rewards: [
+        {
+          id: "9413138B3EDD9EA8",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "5FE043411E980A0F",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 10.75,
+      y: -3.0,
+      id: "ADCEBAEFA6539682",
+      dependencies: [
+        "217F1F4F2D92D39A",
+      ],
+      tasks: [
+        {
+          id: "E8C0ED6F29C2CD81",
+          type: "biome",
+          biome: "biomesoplenty:woodland",
+        },
+      ],
+      rewards: [
+        {
+          id: "EBFC0CB2F8576434",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "61811064BDA85212",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -1.5,
+      id: "F050993212041934",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "EAD60E59C7CCB93F",
+          type: "biome",
+          biome: "biomesoplenty:mystic_grove",
+        },
+      ],
+      rewards: [
+        {
+          id: "3970555259E34D91",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "835293D67BC2F037",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -1.5,
+      id: "B6665B80A46513BB",
+      dependencies: [
+        "F050993212041934",
+      ],
+      tasks: [
+        {
+          id: "57B56099CEE540AD",
+          type: "biome",
+          biome: "biomesoplenty:rainforest",
+        },
+      ],
+      rewards: [
+        {
+          id: "9D0804F01B986073",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "53FD4A528A8A707B",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -1.5,
+      id: "E4DD1240B475CCA8",
+      dependencies: [
+        "B6665B80A46513BB",
+      ],
+      tasks: [
+        {
+          id: "2E7B835466B1AC0A",
+          type: "biome",
+          biome: "biomesoplenty:tropics",
+        },
+      ],
+      rewards: [
+        {
+          id: "90A04E50B8E53937",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "8D862C6685353E06",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -1.5,
+      id: "2407128FF78A4FA7",
+      dependencies: [
+        "E4DD1240B475CCA8",
+      ],
+      tasks: [
+        {
+          id: "BFE3BDA93372D969",
+          type: "biome",
+          biome: "biomesoplenty:jade_cliffs",
+        },
+      ],
+      rewards: [
+        {
+          id: "977E5CADA102F48C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "6DF06CAA512847B4",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -1.5,
+      id: "1F5D5A9C776668FD",
+      dependencies: [
+        "2407128FF78A4FA7",
+      ],
+      tasks: [
+        {
+          id: "E4289A0B2587A113",
+          type: "biome",
+          biome: "biomesoplenty:hot_springs",
+        },
+      ],
+      rewards: [
+        {
+          id: "8140615DB52956A3",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "9AB169C9B272C2F0",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: -1.5,
+      id: "9006D53551D9F365",
+      dependencies: [
+        "1F5D5A9C776668FD",
+      ],
+      tasks: [
+        {
+          id: "EA775243ADCF7DB8",
+          type: "biome",
+          biome: "biomesoplenty:snowblossom_grove",
+        },
+      ],
+      rewards: [
+        {
+          id: "2C6DEF06250DBA01",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "CCADAF140071E5CF",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -1.5,
+      id: "ED5E8789A75B43ED",
+      dependencies: [
+        "9006D53551D9F365",
+      ],
+      tasks: [
+        {
+          id: "1878BBBC89A8A594",
+          type: "biome",
+          biome: "biomesoplenty:bayou",
+        },
+      ],
+      rewards: [
+        {
+          id: "DB717F70567E5743",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "F390D34591FD92F7",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 10.75,
+      y: -1.5,
+      id: "6D6208A8EE0BDD90",
+      dependencies: [
+        "ED5E8789A75B43ED",
+      ],
+      tasks: [
+        {
+          id: "5BEE4E5B73DA41D8",
+          type: "biome",
+          biome: "biomesoplenty:auroral_garden",
+        },
+      ],
+      rewards: [
+        {
+          id: "66076C9172BE4E1E",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "6333B03B6FAFB047",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 12.0,
+      y: -1.5,
+      id: "DC4B6C64DC9376F3",
+      dependencies: [
+        "6D6208A8EE0BDD90",
+      ],
+      tasks: [
+        {
+          id: "12CA13D02982402E",
+          type: "biome",
+          biome: "biomesoplenty:wasteland",
+        },
+      ],
+      rewards: [
+        {
+          id: "EB605286209D01D5",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "6222B9B2187A0A27",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 13.25,
+      y: -1.5,
+      id: "AA045DE0BB7A0C3D",
+      dependencies: [
+        "DC4B6C64DC9376F3",
+      ],
+      tasks: [
+        {
+          id: "D950E3DBAF659CD8",
+          type: "biome",
+          biome: "biomesoplenty:volcano",
+        },
+      ],
+      rewards: [
+        {
+          id: "F676D4715C5771A7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "C58AC5CBA88A9599",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 0.0,
+      id: "FFDE882F219471CF",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "90C604CA87312B9C",
+          type: "biome",
+          biome: "biomesoplenty:glowing_grotto",
+        },
+      ],
+      rewards: [
+        {
+          id: "FC3706DBFA501445",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "E07651C7703E6146",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 0.0,
+      id: "4FF91189A66837A8",
+      dependencies: [
+        "FFDE882F219471CF",
+      ],
+      tasks: [
+        {
+          id: "E21113689D7D78E2",
+          type: "biome",
+          biome: "biomesoplenty:spider_nest",
+        },
+      ],
+      rewards: [
+        {
+          id: "14946F7F3AADCEFD",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "90568E73E7A15CB9",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 1.5,
+      id: "C865C2F1D652E662",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "D08F0DB3CA34C720",
+          type: "biome",
+          biome: "biomesoplenty:crystalline_chasm",
+        },
+      ],
+      rewards: [
+        {
+          id: "8602EC972E71CA95",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "60407EF692BCCCFC",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 1.5,
+      id: "A021CAF116BA5052",
+      dependencies: [
+        "C865C2F1D652E662",
+      ],
+      tasks: [
+        {
+          id: "456655D712B50984",
+          type: "biome",
+          biome: "biomesoplenty:erupting_inferno",
+        },
+      ],
+      rewards: [
+        {
+          id: "D6566684A7B125FA",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "64DAC99E144C71B9",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 1.5,
+      id: "2B8E78D5173FCE90",
+      dependencies: [
+        "A021CAF116BA5052",
+      ],
+      tasks: [
+        {
+          id: "7633EFDFA5E376FC",
+          type: "biome",
+          biome: "biomesoplenty:withered_abyss",
+        },
+      ],
+      rewards: [
+        {
+          id: "E4E9F2DEB8901DA2",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "C9FE6FC0E9F2A43C",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: 1.5,
+      id: "3161CB41C9E378DC",
+      dependencies: [
+        "2B8E78D5173FCE90",
+      ],
+      tasks: [
+        {
+          id: "2DDA717E0FBED2AC",
+          type: "biome",
+          biome: "biomesoplenty:visceral_heap",
+        },
+      ],
+      rewards: [
+        {
+          id: "B39D7DE10A5E1967",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "12EDC21DF0D2AA53",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: 1.5,
+      id: "E1520F2D5C540BF6",
+      dependencies: [
+        "3161CB41C9E378DC",
+      ],
+      tasks: [
+        {
+          id: "F369C15978867C9B",
+          type: "biome",
+          biome: "biomesoplenty:undergrowth",
+        },
+      ],
+      rewards: [
+        {
+          id: "766FA43572B7E5D0",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "9A1DFC389D3530CA",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 3.0,
+      id: "1663B1EDCC92754D",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "4B886A600E52457C",
+          type: "biome",
+          biome: "biomesoplenty:end_wilds",
+        },
+      ],
+      rewards: [
+        {
+          id: "F3D3512CE0236CD6",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "C42F6F70E22890B8",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 3.0,
+      id: "F8DC9EF99B459289",
+      dependencies: [
+        "1663B1EDCC92754D",
+      ],
+      tasks: [
+        {
+          id: "1038E63D9C1ECF67",
+          type: "biome",
+          biome: "biomesoplenty:end_reef",
+        },
+      ],
+      rewards: [
+        {
+          id: "6619DD809CE3FC9A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "F5CABBC3A9F4D29F",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 3.0,
+      id: "F6553C0F9A3B2DF4",
+      dependencies: [
+        "F8DC9EF99B459289",
+      ],
+      tasks: [
+        {
+          id: "76A1FAC828298ACF",
+          type: "biome",
+          biome: "biomesoplenty:end_corruption",
+        },
+      ],
+      rewards: [
+        {
+          id: "5D57EEB6C9F9F4B5",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "4B1C63491070C716",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 4.5,
+      id: "4D621B25EA0529C0",
+      dependencies: [
+        "FED21783B8ACE3CD",
+      ],
+      tasks: [
+        {
+          id: "7A7BC0AA4CC06C58",
+          type: "biome",
+          biome: "biomesoplenty:origin_valley",
+        },
+      ],
+      rewards: [
+        {
+          id: "266B204F20777E4A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "286BF8B659D5D0B1",
+          type: "xp",
+          xp: 500,
+        },
+      ],
+    },
+  ],
+}

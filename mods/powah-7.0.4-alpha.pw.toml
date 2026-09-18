@@ -1,0 +1,13 @@
+name = "Powah!"
+filename = "Powah-7.0.4-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/bymXTkIP/Powah-7.0.4-alpha.jar"
+hash-format = "sha512"
+hash = "a5d1fcaa70529a0286783a49eac992a5d3cb15fa5e2aee5c7d080e86d3c501b3bce79adcf51b86c019f2119a377cdb20dd4f896c8ae468a30b01d8cdf4bd0d01"
+
+[update]
+[update.modrinth]
+mod-id = "KZO4S4DO"
+version = "bymXTkIP"

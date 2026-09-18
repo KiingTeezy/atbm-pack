@@ -1,0 +1,8 @@
+name = "citadelneoforge-26.1-1.1.0"
+filename = "citadelneoforge-26.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/citadelneoforge-26.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "56604b9f074cd3b2cc23fa2b623e184ce33f35cf659c8e49f0ebc64f2d49328120eb0f5a6697e884c8afdbc61f098d360321bed79d4e19400b4862f269b4d689"

@@ -1,0 +1,8 @@
+name = "alltheores-4.0.4"
+filename = "alltheores-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/alltheores-4.0.4.jar"
+hash-format = "sha512"
+hash = "966c1b7e10ab7538eaa19fabdfbaa58f8e0a8ce6325a66161e8cc36f0f02917e0e66417aadbeefae1d36ce54e4bc0b9343c19634ad716dfb08e59fb8bdded86b"

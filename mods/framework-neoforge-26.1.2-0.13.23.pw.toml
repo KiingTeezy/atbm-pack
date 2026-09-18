@@ -1,0 +1,8 @@
+name = "framework-neoforge-26.1.2-0.13.23"
+filename = "framework-neoforge-26.1.2-0.13.23.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/framework-neoforge-26.1.2-0.13.23.jar"
+hash-format = "sha512"
+hash = "612645eb99a632994f8649e9e6a6cad9e996006ae7ecc49d24e02da27568b6602ecc706870916742b2bc993bf3b898643c3020865d4c244ca8a16c37f4ed8c4d"

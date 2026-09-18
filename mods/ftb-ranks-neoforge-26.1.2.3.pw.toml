@@ -1,0 +1,8 @@
+name = "ftb-ranks-neoforge-26.1.2.3"
+filename = "ftb-ranks-neoforge-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-ranks-neoforge-26.1.2.3.jar"
+hash-format = "sha512"
+hash = "a9d9a6256e59ac5f0cc39ee7e86b7291389bcafd72fb17df286a2d9ac12b6b0e751926365ffd8b771c74469baad222384f7bc35e20db77ba5e2e9f46b9141acb"

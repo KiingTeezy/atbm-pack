@@ -1,0 +1,8 @@
+name = "keybindbundles-2.0.0"
+filename = "keybindbundles-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/keybindbundles-2.0.0.jar"
+hash-format = "sha512"
+hash = "85e5e26fbca57a53728b1fa4c85aa76a67ea7fe662d59c53d000179003c5b8e67e5f7a8c9d1c2e9d0d3220465b8088448db944d9f63d84c2f2c193e502990d57"

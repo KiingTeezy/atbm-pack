@@ -1,0 +1,235 @@
+{
+  id: "2DC96BD9C6AD2435",
+  group: "195B0654864CE15A",
+  order_index: 4,
+  icon: {
+    id: "starcatcher:starcatcher_rod",
+    count: 1,
+  },
+  filename: "exploration_fishing",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: 3.5,
+      y: -1.5,
+      size: 1.0,
+      id: "6894F6C24283EBD8",
+      tasks: [
+        {
+          id: "7C9266CF9ACEB5A9",
+          type: "item",
+          item: {
+            id: "starcatcher:starcatcher_rod",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4EB1B00598329551",
+          type: "item",
+          item: {
+            id: "starcatcher:starcatcher_guide",
+            count: 1,
+          },
+        },
+        {
+          id: "291316D43E327AF5",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -0.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "52E21E54DE1D841F",
+      tasks: [
+        {
+          id: "071FA83961687E6E",
+          type: "item",
+          item: {
+            id: "starcatcher:tackle_box",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0B82DC8332D92B5C",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -3.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "1C2C225F714DCE25",
+      tasks: [
+        {
+          id: "4EC6BACDB7625FBD",
+          type: "item",
+          item: {
+            id: "ftbquests:missing_item",
+            count: 1,
+            components: {
+              "ftbquests:missing_item": "starcatcher:aqua_bobber",
+              "ftbquests:missing_item_count": 1,
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4BCB47443B36A34F",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -2.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "3677C2444D5A2A45",
+      tasks: [
+        {
+          id: "27AF01ECDEF97913",
+          type: "item",
+          item: {
+            id: "starcatcher:steady_bobber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "64EFD122C7FE17BB",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -2.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "62FA4B2148B3DFB5",
+      tasks: [
+        {
+          id: "0BFE75A5EBE20F42",
+          type: "item",
+          item: {
+            id: "starcatcher:clear_bobber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2E53272C4B3375C6",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -3.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "04A9E3C00BC94C02",
+      tasks: [
+        {
+          id: "4D27A022B499311E",
+          type: "item",
+          item: {
+            id: "starcatcher:slimey_bobber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7B96F14BBC3C8739",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -3.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "057F24FB4A75A4A5",
+      tasks: [
+        {
+          id: "4B5F6F37CE0A5A06",
+          type: "item",
+          item: {
+            id: "starcatcher:leaf_bobber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4BDB131B1A68576E",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -0.5,
+      dependencies: [
+        "6894F6C24283EBD8",
+      ],
+      size: 1.0,
+      id: "49EC418F42A9CAB5",
+      tasks: [
+        {
+          id: "0CA80697F0B12AB8",
+          type: "item",
+          item: {
+            id: "starcatcher:shiny_hook",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0E0C2BFF0AA0D327",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

@@ -1,0 +1,13 @@
+name = "Cable Tiers"
+filename = "cabletiers-neoforge-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UsLNxQgK/versions/ctWz8j6u/cabletiers-neoforge-26.1.2-1.0.2.jar"
+hash-format = "sha512"
+hash = "874154c45668a34968ec047334884b45fe73cb0045d58d86cb4937493e564e3d759d2f06b55a10bbb9a33e1565f56b4caff5e9db7897101324e1d488a754ec4a"
+
+[update]
+[update.modrinth]
+mod-id = "UsLNxQgK"
+version = "ctWz8j6u"

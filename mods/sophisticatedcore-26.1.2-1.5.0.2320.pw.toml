@@ -1,0 +1,8 @@
+name = "sophisticatedcore-26.1.2-1.5.0.2320"
+filename = "sophisticatedcore-26.1.2-1.5.0.2320.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/sophisticatedcore-26.1.2-1.5.0.2320.jar"
+hash-format = "sha512"
+hash = "45f09df51f9109e103b20a3250065f4bf2a861908b21ce887e3f402da454ec3b97c9b0bbd6e8d404a66b82f4e8afb574a2b54a2555ff76f89857cd0c45fb23b6"

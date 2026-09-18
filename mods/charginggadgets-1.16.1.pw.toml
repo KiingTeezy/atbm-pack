@@ -1,0 +1,8 @@
+name = "charginggadgets-1.16.1"
+filename = "charginggadgets-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/charginggadgets-1.16.1.jar"
+hash-format = "sha512"
+hash = "a57e17f505744fbc1701a8ffedb04bd90ff7ded93bf23b6bdc4b1ea82902b4fa87a97db63ce7f984292c710347c9c3be0437320b296f5abf016fcc4f66ae86ac"

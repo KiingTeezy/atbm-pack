@@ -1,0 +1,13 @@
+name = "EdivadLib"
+filename = "EdivadLib-26.1.2-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8Jk9kpK/versions/srSF6gqV/EdivadLib-26.1.2-4.0.1.jar"
+hash-format = "sha512"
+hash = "6b1da23464dc9beef04528829d5de98cebc2b2be28027c9860e76ba4a64814c909db1033731759ca2458cd51cad8933535ce93566b3b5c156967960a94340f41"
+
+[update]
+[update.modrinth]
+mod-id = "a8Jk9kpK"
+version = "srSF6gqV"

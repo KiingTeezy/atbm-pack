@@ -1,0 +1,8 @@
+name = "solcarrot-26.1-1.19.0"
+filename = "solcarrot-26.1-1.19.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/solcarrot-26.1-1.19.0.jar"
+hash-format = "sha512"
+hash = "03e8df6683accfd762a466c300dafc83a0ea99b00d8b7e652ab0f0c06107f343c2aa400a0d6a4ca287c69f933da6934c8e5ba1bb011806655a6d6bcf1dcac3e2"

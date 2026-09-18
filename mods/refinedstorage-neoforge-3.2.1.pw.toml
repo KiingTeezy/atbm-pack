@@ -1,0 +1,13 @@
+name = "Refined Storage"
+filename = "refinedstorage-neoforge-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/P12kjgPK/refinedstorage-neoforge-3.2.1.jar"
+hash-format = "sha512"
+hash = "4437544325e825703e88a6a2f6e714e7d11983777cf7663c8e8057b549c827ab4fba77e7dcadc7a723e46f2802907fa95460244478b315a73fa913c7028375d9"
+
+[update]
+[update.modrinth]
+mod-id = "KDvYkUg3"
+version = "P12kjgPK"

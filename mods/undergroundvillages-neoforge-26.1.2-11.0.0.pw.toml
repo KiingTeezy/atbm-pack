@@ -1,0 +1,8 @@
+name = "UndergroundVillages-neoforge-26.1.2-11.0.0"
+filename = "UndergroundVillages-neoforge-26.1.2-11.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/UndergroundVillages-neoforge-26.1.2-11.0.0.jar"
+hash-format = "sha512"
+hash = "a3e9d4645cdc9ed2265a1a270eafe5b4f6ac255fe4109dabcd4abc2181891770dadbc34fb4a3f4b8efb511108edf2c898b5572c279829e9a97ec01505bb3999c"

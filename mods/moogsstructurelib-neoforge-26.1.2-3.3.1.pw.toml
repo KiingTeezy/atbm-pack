@@ -1,0 +1,13 @@
+name = "Moog's Structure Lib (moogs_structures)"
+filename = "MoogsStructureLib-neoforge-26.1.2-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/1wDiAgHR/MoogsStructureLib-neoforge-26.1.2-3.3.1.jar"
+hash-format = "sha512"
+hash = "1262c85a256864ece0a9e376e3cf93bd0468665ba97a0bfff9a402fa392e4d4b29cce19cb5a1a331a1ba20c8f9eefef3a678ae87c66f6361ca09fcee35a6ae55"
+
+[update]
+[update.modrinth]
+mod-id = "1oUDhxuy"
+version = "1wDiAgHR"

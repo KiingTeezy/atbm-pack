@@ -1,0 +1,13 @@
+name = "Transmog"
+filename = "transmog-neoforge-1.8.0+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Th33t82F/versions/XARWL6p2/transmog-neoforge-1.8.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "331b7058585a5505845cc348b8f620624eeccbb183f80b0e21933eb8df4a7190e292d53b35e5529eff5c536674053ec1584fbc656fd5cf0ef4c49e1e816d60cf"
+
+[update]
+[update.modrinth]
+mod-id = "Th33t82F"
+version = "XARWL6p2"

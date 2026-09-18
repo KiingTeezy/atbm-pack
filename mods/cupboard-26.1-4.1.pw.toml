@@ -1,0 +1,8 @@
+name = "cupboard-26.1-4.1"
+filename = "cupboard-26.1-4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/cupboard-26.1-4.1.jar"
+hash-format = "sha512"
+hash = "dff4a91a9b6eb036cd84edbba087706dbf1ab953f7c982fe9aad70593d2f436b09e87449d888e31378a841c218de396a7fa5326aee8f6846b702f2c0eb35f88e"

@@ -1,0 +1,8 @@
+name = "integratedtunnels-26.1.2-neoforge-1.11.0-751"
+filename = "integratedtunnels-26.1.2-neoforge-1.11.0-751.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/integratedtunnels-26.1.2-neoforge-1.11.0-751.jar"
+hash-format = "sha512"
+hash = "7b9cc35d75861e2c7ea0b288fe66baee62ad07f9733500fd7457b29d51653b2659ecebed494934502056380fadba0000aad8cc515928020d6bfa3823d53371f2"

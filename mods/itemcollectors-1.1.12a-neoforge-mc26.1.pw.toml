@@ -1,0 +1,13 @@
+name = "Item Collectors"
+filename = "itemcollectors-1.1.12a-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/dxlT0s0l/itemcollectors-1.1.12a-neoforge-mc26.1.jar"
+hash-format = "sha512"
+hash = "f9c8456162a6a7d000fbfaabd71087817e529d8736c4bc713f595e8e8da17c1421a54102f3272bf2e62097bf73a23d89370407362d89941d478907e2bbb28fed"
+
+[update]
+[update.modrinth]
+mod-id = "y9vDr4Th"
+version = "dxlT0s0l"

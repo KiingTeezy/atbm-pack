@@ -1,0 +1,8 @@
+name = "ToolBelt-26.1.2-2.9.5"
+filename = "ToolBelt-26.1.2-2.9.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ToolBelt-26.1.2-2.9.5.jar"
+hash-format = "sha512"
+hash = "bc4c1e20f2c6396c316c8ced179f95632baefbde9c78010cd1f7efeb0c12407beb461f2ad705622e84f04ee56703fc326f68d55c123f7770cefddb081c43fbe1"

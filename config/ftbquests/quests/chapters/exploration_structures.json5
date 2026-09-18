@@ -1,0 +1,791 @@
+{
+  id: "4D699B9E3581EF6F",
+  group: "195B0654864CE15A",
+  order_index: 1,
+  icon: {
+    id: "minecraft:spyglass",
+    count: 1,
+  },
+  filename: "exploration_structures",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  progression_mode: "flexible",
+  quests: [
+    {
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      size: 2.0,
+      id: "C5030A8BDAD9236A",
+      tasks: [
+        {
+          id: "1D10FF52E9445C94",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "2B47441A01D148CD",
+          type: "xp",
+          xp: 25,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -3.0,
+      id: "61AE673EB54370A0",
+      dependencies: [
+        "C5030A8BDAD9236A",
+      ],
+      tasks: [
+        {
+          id: "205726FFE8CE2C50",
+          type: "structure",
+          structure: "mmv:village_dark_forest",
+        },
+      ],
+      rewards: [
+        {
+          id: "B9A46E85B7D5EA7D",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "7BB59DB9AF714164",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -3.0,
+      id: "6C08DC0DBE7926B8",
+      dependencies: [
+        "61AE673EB54370A0",
+      ],
+      tasks: [
+        {
+          id: "59C16930D6563B82",
+          type: "structure",
+          structure: "mmv:village_jungle",
+        },
+      ],
+      rewards: [
+        {
+          id: "4F2A860F1EEE2A6D",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "D87472B0B0FBC509",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -3.0,
+      id: "C3C60177802DF7E5",
+      dependencies: [
+        "6C08DC0DBE7926B8",
+      ],
+      tasks: [
+        {
+          id: "DE4DBE6843D7BB4C",
+          type: "structure",
+          structure: "mmv:village_swamp",
+        },
+      ],
+      rewards: [
+        {
+          id: "CCB967EF80FDF5CD",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "A9FC278B8A76BC89",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -3.0,
+      id: "3F39F17D89064E2A",
+      dependencies: [
+        "C3C60177802DF7E5",
+      ],
+      tasks: [
+        {
+          id: "59182F4393BB2FAF",
+          type: "structure",
+          structure: "mvs:windmill",
+        },
+      ],
+      rewards: [
+        {
+          id: "9E534A0F910B7A76",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "3FC69482F0BFE1C7",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -3.0,
+      id: "24F9A8141BE639E4",
+      dependencies: [
+        "3F39F17D89064E2A",
+      ],
+      tasks: [
+        {
+          id: "117652F39811468A",
+          type: "structure",
+          structure: "mvs:cartographer_tower",
+        },
+      ],
+      rewards: [
+        {
+          id: "F74E6A9D41C0FE8B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "2AE6BE02E05791EC",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: -3.0,
+      id: "D5399DC9919E689D",
+      dependencies: [
+        "24F9A8141BE639E4",
+      ],
+      tasks: [
+        {
+          id: "7C87B0DEE1723251",
+          type: "structure",
+          structure: "mbs:watch_tower",
+        },
+      ],
+      rewards: [
+        {
+          id: "18C7DED6ED733F15",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "CFAEB70624D0E4F8",
+          type: "xp",
+          xp: 75,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -1.5,
+      id: "37C60EE15CE04613",
+      dependencies: [
+        "C5030A8BDAD9236A",
+      ],
+      tasks: [
+        {
+          id: "7F6C4E538CAAAD5D",
+          type: "structure",
+          structure: "mtr:desert_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "D1E966872033A572",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "9B86DFB6D71EF934",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -1.5,
+      id: "D8D557A5DA26CD81",
+      dependencies: [
+        "37C60EE15CE04613",
+      ],
+      tasks: [
+        {
+          id: "62D2C52B56894B70",
+          type: "structure",
+          structure: "mtr:jungle_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "DB0D1964A203968F",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "C4FCD1AEAAC5E5FB",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -1.5,
+      id: "5C3F9CED35FE2766",
+      dependencies: [
+        "D8D557A5DA26CD81",
+      ],
+      tasks: [
+        {
+          id: "AE34E56ECF44D0F5",
+          type: "structure",
+          structure: "mtr:badlands_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "AEAD521D93136C68",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "73F0FF1A44008B8C",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -1.5,
+      id: "723FFC55592DCB17",
+      dependencies: [
+        "5C3F9CED35FE2766",
+      ],
+      tasks: [
+        {
+          id: "1B07516AE7A9B977",
+          type: "structure",
+          structure: "mtr:ocean_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "D5D5BD56111677AF",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "F289B6B4412D63A6",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -1.5,
+      id: "17B0C0BF004B9680",
+      dependencies: [
+        "723FFC55592DCB17",
+      ],
+      tasks: [
+        {
+          id: "ADD3DFB9B7169BB6",
+          type: "structure",
+          structure: "formationsoverworld:mesoamerican_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "6CFE50821271AB6B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "276F3C5F90ADC4C9",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 0.0,
+      id: "27F8175FD2742B30",
+      dependencies: [
+        "C5030A8BDAD9236A",
+      ],
+      tasks: [
+        {
+          id: "B1BA7219634A66C2",
+          type: "structure",
+          structure: "mvs:castle_ruins",
+        },
+      ],
+      rewards: [
+        {
+          id: "B73A6A8F3F3A688A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "49457A0FE84DCAEF",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 0.0,
+      id: "44CD8BC8EE8E198A",
+      dependencies: [
+        "27F8175FD2742B30",
+      ],
+      tasks: [
+        {
+          id: "EA35A175F7A399A3",
+          type: "structure",
+          structure: "mss:castle_ruin",
+        },
+      ],
+      rewards: [
+        {
+          id: "4A927FF47C1C101E",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "DBED4D52B44FA745",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 0.0,
+      id: "24AF6621F93D9A01",
+      dependencies: [
+        "44CD8BC8EE8E198A",
+      ],
+      tasks: [
+        {
+          id: "7E316E43D2D79DA8",
+          type: "structure",
+          structure: "mss:arena",
+        },
+      ],
+      rewards: [
+        {
+          id: "DCF471F995C0D89D",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "2E042C97EF77595A",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: 0.0,
+      id: "465E09248C7F5344",
+      dependencies: [
+        "24AF6621F93D9A01",
+      ],
+      tasks: [
+        {
+          id: "46614A41BBE71085",
+          type: "structure",
+          structure: "formationsoverworld:ice_castle",
+        },
+      ],
+      rewards: [
+        {
+          id: "AC97D3F748930C4A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "C3D8EEB577E086BE",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: 0.0,
+      id: "BD2E253AEF4ED123",
+      dependencies: [
+        "465E09248C7F5344",
+      ],
+      tasks: [
+        {
+          id: "A89825FC9487409C",
+          type: "structure",
+          structure: "formationsoverworld:witch_tower",
+        },
+      ],
+      rewards: [
+        {
+          id: "DBF07DED8947D15E",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "973972173626F176",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: 0.0,
+      id: "3C321B01DE674D0D",
+      dependencies: [
+        "BD2E253AEF4ED123",
+      ],
+      tasks: [
+        {
+          id: "E04AEE9EED88ECB7",
+          type: "structure",
+          structure: "mvs:small_ship",
+        },
+      ],
+      rewards: [
+        {
+          id: "59C1E4F386418ADD",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "2F52F25B174667D4",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: 0.0,
+      id: "86624841536DAD2E",
+      dependencies: [
+        "3C321B01DE674D0D",
+      ],
+      tasks: [
+        {
+          id: "6B10C0F5B41FA02C",
+          type: "structure",
+          structure: "adorabuild_structures:library_large_1",
+        },
+      ],
+      rewards: [
+        {
+          id: "7E48A18404CF28C2",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "C98A5A2AAAE55A6B",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 1.5,
+      id: "1B00424963303AAE",
+      dependencies: [
+        "C5030A8BDAD9236A",
+      ],
+      tasks: [
+        {
+          id: "EA2F3C6B3CFDDA60",
+          type: "structure",
+          structure: "mtr:nether_temple",
+        },
+      ],
+      rewards: [
+        {
+          id: "BB00A708B3105403",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "FDEB263C0CD81337",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 1.5,
+      id: "19B4431FA3F8D064",
+      dependencies: [
+        "1B00424963303AAE",
+      ],
+      tasks: [
+        {
+          id: "D31A6E8ACFBADC06",
+          type: "structure",
+          structure: "mns:nether_tower",
+        },
+      ],
+      rewards: [
+        {
+          id: "26E27A33AC1779AB",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "8C5630733FF03346",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 1.5,
+      id: "2CEFC266B7B30846",
+      dependencies: [
+        "19B4431FA3F8D064",
+      ],
+      tasks: [
+        {
+          id: "96EAF9E3F3ED4F54",
+          type: "structure",
+          structure: "mns:dragon_arena",
+        },
+      ],
+      rewards: [
+        {
+          id: "D33C18692DA5ED2C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "6000E0D6B8B28A81",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: 1.5,
+      id: "B87B61F31B0DA435",
+      dependencies: [
+        "2CEFC266B7B30846",
+      ],
+      tasks: [
+        {
+          id: "A66B98B16A26C84F",
+          type: "structure",
+          structure: "formationsnether:blackstone_castle",
+        },
+      ],
+      rewards: [
+        {
+          id: "BBC7D6EAACDE7A62",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "79ABF499D3578C2C",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: 1.5,
+      id: "6798852348D71C47",
+      dependencies: [
+        "B87B61F31B0DA435",
+      ],
+      tasks: [
+        {
+          id: "281DD3D3AE1C5849",
+          type: "structure",
+          structure: "mvs:large_warped_tower",
+        },
+      ],
+      rewards: [
+        {
+          id: "CDBF68291C5ED1D4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "F55C6597FD6705CE",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 3.0,
+      id: "2746DA198E30E956",
+      dependencies: [
+        "C5030A8BDAD9236A",
+      ],
+      tasks: [
+        {
+          id: "C874B583CE975565",
+          type: "structure",
+          structure: "mes:enderkeep_courtyard",
+        },
+      ],
+      rewards: [
+        {
+          id: "4002A8DF981F0054",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "2C8B6D4F7FD761C3",
+          type: "xp",
+          xp: 400,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 3.0,
+      id: "5334F03E37F7AD9E",
+      dependencies: [
+        "2746DA198E30E956",
+      ],
+      tasks: [
+        {
+          id: "B65585BC276D5447",
+          type: "structure",
+          structure: "mes:ender_spire",
+        },
+      ],
+      rewards: [
+        {
+          id: "A6D227C10B5AFB13",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "87C21450D26B3776",
+          type: "xp",
+          xp: 400,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 3.0,
+      id: "44D6B0DD89978831",
+      dependencies: [
+        "5334F03E37F7AD9E",
+      ],
+      tasks: [
+        {
+          id: "2FE96D53DADCBB1C",
+          type: "structure",
+          structure: "mes:phantom_citadel",
+        },
+      ],
+      rewards: [
+        {
+          id: "65D147120B572D82",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "2D27FB91EF8F5E93",
+          type: "xp",
+          xp: 400,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: 3.0,
+      id: "671187890A379AF1",
+      dependencies: [
+        "44D6B0DD89978831",
+      ],
+      tasks: [
+        {
+          id: "44933012A79FF093",
+          type: "structure",
+          structure: "mes:mega_ship",
+        },
+      ],
+      rewards: [
+        {
+          id: "42D48D678556E3E4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "650DE8B3BFF2B230",
+          type: "xp",
+          xp: 400,
+        },
+      ],
+    },
+  ],
+}

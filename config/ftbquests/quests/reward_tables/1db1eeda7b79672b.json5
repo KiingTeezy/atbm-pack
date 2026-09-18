@@ -1,0 +1,57 @@
+{
+  id: "1DB1EEDA7B79672B",
+  order_index: 18,
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "07A9FD7BE33CD749",
+      item: {
+        id: "railcraft:abandoned_track",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "73D3400EBE52AE97",
+      item: {
+        id: "railcraft:electric_track",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "17CD5B2768E13748",
+      item: {
+        id: "railcraft:reinforced_track",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "29FBC7626355FB89",
+      item: {
+        id: "railcraft:strap_iron_track",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "0295950EA7AA03A5",
+      item: {
+        id: "railcraft:high_speed_track",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "7B24C6D3B48F1F9C",
+      item: {
+        id: "railcraft:high_speed_electric_track",
+        count: 1,
+      },
+      count: 16,
+    },
+  ],
+}

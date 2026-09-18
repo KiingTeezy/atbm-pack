@@ -1,0 +1,8 @@
+name = "Measurements-neoforge-26.1-4.0.0"
+filename = "Measurements-neoforge-26.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/Measurements-neoforge-26.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "58113eeef6de35564d9bcb67bdb461f9be20daa08b2ff3f47ca2315da41563194e17460c3ec4d9c5e345c75c9bf574bc0bc7cc0b0951a6066cbacecd03dbdaa4"

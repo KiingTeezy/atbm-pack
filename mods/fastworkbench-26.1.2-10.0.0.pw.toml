@@ -1,0 +1,8 @@
+name = "FastWorkbench-26.1.2-10.0.0"
+filename = "FastWorkbench-26.1.2-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/FastWorkbench-26.1.2-10.0.0.jar"
+hash-format = "sha512"
+hash = "9eaf19c00768ec945acee05b2ca94acbcd22f9b748febd94c97949d8cdd84f60bdfc011576fea1d7e98770718dc84138a86220916221c572431781155ef92143"

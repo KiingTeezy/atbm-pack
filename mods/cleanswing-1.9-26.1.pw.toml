@@ -1,0 +1,8 @@
+name = "cleanswing-1.9-26.1"
+filename = "cleanswing-1.9-26.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/cleanswing-1.9-26.1.jar"
+hash-format = "sha512"
+hash = "9fe23d144c675b6ccf5908bdf70db1457416198b0ebb317ae80121022f5a4af36f3f04f544ac41a323001ae62210e25ed4641a3424f989d1c5d03c08e614af8f"

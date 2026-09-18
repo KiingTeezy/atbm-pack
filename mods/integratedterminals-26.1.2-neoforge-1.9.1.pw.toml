@@ -1,0 +1,8 @@
+name = "integratedterminals-26.1.2-neoforge-1.9.1"
+filename = "integratedterminals-26.1.2-neoforge-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/integratedterminals-26.1.2-neoforge-1.9.1.jar"
+hash-format = "sha512"
+hash = "46c220ec593c5e909a4892ebce14767513d9d971c1ab54e9260760714efcde94d6a9095cf44fff3f5026bbdcd2fe5e5afc9145d71046b17040c8b00bb63cf044"

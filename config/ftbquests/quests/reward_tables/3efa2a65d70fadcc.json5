@@ -1,0 +1,30 @@
+{
+  id: "3EFA2A65D70FADCC",
+  order_index: 46,
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "76A9116D60794C31",
+      item: {
+        id: "oritech:machine_extender",
+        count: 1,
+      },
+    },
+    {
+      id: "1005D3233191DFB1",
+      item: {
+        id: "oritech:machine_speed_addon",
+        count: 1,
+      },
+    },
+    {
+      id: "5BF4E921C9438323",
+      item: {
+        id: "oritech:machine_efficiency_addon",
+        count: 1,
+      },
+    },
+  ],
+}

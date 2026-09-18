@@ -1,0 +1,13 @@
+name = "Iron's Arms 'n Artifice"
+filename = "irons_artifice-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yOy4oSzi/versions/YH9utCfq/irons_artifice-0.2.1.jar"
+hash-format = "sha512"
+hash = "7bbceab117f6ee1910024863e625d63f872182eec459b837f1b8c294e416ca21fbea2c6f44f0a7621c6fad2c26fc85e08c15215cf727e19d0eab59ac19739d4c"
+
+[update]
+[update.modrinth]
+mod-id = "yOy4oSzi"
+version = "YH9utCfq"

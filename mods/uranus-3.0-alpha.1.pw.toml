@@ -1,0 +1,8 @@
+name = "uranus-3.0-alpha.1"
+filename = "uranus-3.0-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/uranus-3.0-alpha.1.jar"
+hash-format = "sha512"
+hash = "94da1123cf9592c987a2211f920994eae2cb7be3f5ff09b81f013ca8485194e44b94d0acbfeb49bdbe9aa5055e00fcc2815ce8d2460d348e0065140a10d9d34b"

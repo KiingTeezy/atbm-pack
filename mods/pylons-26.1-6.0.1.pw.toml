@@ -1,0 +1,13 @@
+name = "Pylons"
+filename = "pylons-26.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A82glthi/versions/wc8qWI1o/pylons-26.1-6.0.1.jar"
+hash-format = "sha512"
+hash = "76eb2b8fa1edb388de1cad38813751564e33a325b6c872c914498f29d9d9fc2dc142cb679790c44534b7e5553d43aef3a32353b6d43e8827d8c979068cf348a7"
+
+[update]
+[update.modrinth]
+mod-id = "A82glthi"
+version = "wc8qWI1o"

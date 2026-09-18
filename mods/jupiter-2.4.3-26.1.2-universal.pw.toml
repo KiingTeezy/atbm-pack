@@ -1,0 +1,8 @@
+name = "jupiter-2.4.3-26.1.2-universal"
+filename = "jupiter-2.4.3-26.1.2-universal.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/jupiter-2.4.3-26.1.2-universal.jar"
+hash-format = "sha512"
+hash = "cfda0b926b5ea3c6685b01ab77a093e9092c317c428aee05a89ee3421694232d42a66bff0d4fb461a697730d5802eff4466d99edb26f2f8e43fe1dae67bbf6cb"

@@ -1,0 +1,8 @@
+name = "ftb-essentials-neoforge-26.1.2.4"
+filename = "ftb-essentials-neoforge-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-essentials-neoforge-26.1.2.4.jar"
+hash-format = "sha512"
+hash = "4adcbc5f4d25687c4ce8471f281c58bbe45445aef02742c8cae964e5faf83c01db0eb0e3120d38d41e20345711689dfe8b074aa6f96d29801a5b8eb36c4f1cbf"

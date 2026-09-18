@@ -1,0 +1,35 @@
+{
+  "type": "farmingforblockheads:market",
+  "result": {
+    "item": "biomesoplenty:origin_rose"
+  },
+  "defaults": "selling.flowers.biomesoplenty.rose",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "mod": "biomesoplenty"
+    }
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "biomesoplenty"
+      ]
+    },
+    {
+      "condition": "farmingforblockheads:is_group_enabled",
+      "group": "selling.flowers.biomesoplenty.rose"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    },
+    {
+      "type": "farmingforblockheads:is_group_enabled",
+      "group": "selling.flowers.biomesoplenty.rose"
+    }
+  ]
+}

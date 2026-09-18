@@ -1,0 +1,13 @@
+name = "Agritech: Evolved (ATE)"
+filename = "agritechevolved-2.2.0.3+neoforge-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4dvZSdWl/versions/yqkZ6tED/agritechevolved-2.2.0.3%2Bneoforge-mc26.1.2.jar"
+hash-format = "sha512"
+hash = "bd7fb22ccefe68343022afa9ff415ddd5058fe0af60deb59073e065df38e96669ea49ea5974a04526b76a88ccdfbce103867781c9bf2ac5587412d9928ff8df7"
+
+[update]
+[update.modrinth]
+mod-id = "4dvZSdWl"
+version = "yqkZ6tED"

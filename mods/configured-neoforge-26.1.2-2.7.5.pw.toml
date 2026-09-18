@@ -1,0 +1,8 @@
+name = "configured-neoforge-26.1.2-2.7.5"
+filename = "configured-neoforge-26.1.2-2.7.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/configured-neoforge-26.1.2-2.7.5.jar"
+hash-format = "sha512"
+hash = "8d136f8c90b00f987b37c5682c540362c8e43f57bb17aa699be5ca19a85f7ec2c7e0ddebb920d3d647acd6f3b76ff9c0f0c6e128c0acb850aa26a9b893c06d20"

@@ -1,0 +1,8 @@
+name = "productivefarming-26.1.2-0.12.0"
+filename = "productivefarming-26.1.2-0.12.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/productivefarming-26.1.2-0.12.0.jar"
+hash-format = "sha512"
+hash = "605fb8e7266b6b99a3883b0b9cc9c0652706d3943490a1624a43ec8514882403c250162147d0383e8e5d811aeaab61c2bdf69839abf46221330cb67f6c0884a9"

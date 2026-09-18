@@ -1,0 +1,8 @@
+name = "RootsClassic-26.1.2-1.6.7"
+filename = "RootsClassic-26.1.2-1.6.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/RootsClassic-26.1.2-1.6.7.jar"
+hash-format = "sha512"
+hash = "084808b15b0cdb889a73fa7755625de8cd97f93ef6109a528c7429d226509893ffa55ebbc6b1b6ee867be19abf66aefa9298cd53b74cf53c428a9963057b6f3e"

@@ -1,0 +1,8 @@
+name = "jumpboat-26.1.2-1.0.6"
+filename = "jumpboat-26.1.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/jumpboat-26.1.2-1.0.6.jar"
+hash-format = "sha512"
+hash = "104a0ed66ec87d46e7f9ef971dd22b338db35c73b1e9a671d4ba2081f7324426d4a9ffaefa25af1ff9c3a348a02c5f213b6e438a51f38695578be17e2fb5a2bd"

@@ -1,0 +1,8 @@
+name = "luminax-2.0.1+26.1.2"
+filename = "luminax-2.0.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/luminax-2.0.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "48ac0bc6815b5583fcd3ebef0cfedd7c146740c5dc967d47405847926dc31fe224c9a15daae84a59bbc47451972ba413868ae9839ae606c3e632c23f37c375c5"

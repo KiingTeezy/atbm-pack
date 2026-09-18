@@ -1,0 +1,13 @@
+name = "WITS (What Is This Structure?)"
+filename = "wits-1.4.3+26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVo2esap/versions/Bj3LVDPo/wits-1.4.3%2B26.1-neoforge.jar"
+hash-format = "sha512"
+hash = "e673655ae15a7b5c7c368b7842f814f291fc7c74035ed514d0d4b5d735b798403e8ceaf634d4d0e3e646abe0058918f7950d1cb679a8f62bd11311170f289744"
+
+[update]
+[update.modrinth]
+mod-id = "AVo2esap"
+version = "Bj3LVDPo"

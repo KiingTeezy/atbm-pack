@@ -1,0 +1,8 @@
+name = "cobblegengalore-26.1.2-0.2.9"
+filename = "cobblegengalore-26.1.2-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/cobblegengalore-26.1.2-0.2.9.jar"
+hash-format = "sha512"
+hash = "d55197af5c16aaffc3454799ec0505d9fc6001eaa84c433c45e8e366bb61576b5bb37ab9341eb78e2d2a2bab159d712918f00fa1c98fee6f0a93f545dfbdf5a2"

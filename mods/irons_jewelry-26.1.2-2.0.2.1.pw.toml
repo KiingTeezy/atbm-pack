@@ -1,0 +1,13 @@
+name = "Iron's Gems 'n Jewelry"
+filename = "irons_jewelry-26.1.2-2.0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cTagjDuu/versions/H4YV2yG3/irons_jewelry-26.1.2-2.0.2.1.jar"
+hash-format = "sha512"
+hash = "aaa56fb1b1210dd81cd41c413a44cf45b54c147d6794782a6dcee0f0715b2d77b39abc9f8824eee613fcb9db4149a2986b43e5bcbdf2efac9e9eb5854d8932f3"
+
+[update]
+[update.modrinth]
+mod-id = "cTagjDuu"
+version = "H4YV2yG3"

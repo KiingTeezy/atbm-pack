@@ -1,0 +1,8 @@
+name = "sgearmetalworks-26.1.2-1.6.0"
+filename = "sgearmetalworks-26.1.2-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/sgearmetalworks-26.1.2-1.6.0.jar"
+hash-format = "sha512"
+hash = "4a44ec0bab69f14296048d005ee60a7e38ec13cda6a3a6a7f3039f28c89e2d092d9add68d956ebddb35e9a580aa2d6dfd816242b91ecdbdea1154dd53895a573"

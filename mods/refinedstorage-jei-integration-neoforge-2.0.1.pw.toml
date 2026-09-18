@@ -1,0 +1,13 @@
+name = "Refined Storage - JEI Integration"
+filename = "refinedstorage-jei-integration-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzR5wiLo/versions/BJ12GArk/refinedstorage-jei-integration-neoforge-2.0.1.jar"
+hash-format = "sha512"
+hash = "773a4663a16e65de07172f55c45fa56c3d17fc5cd2c8533aab6b66bfd1a040c10dfbed34ac0d08fc480a8f1d121aa8e7ca0c980cfdcb8f8ea27ba86252cb0487"
+
+[update]
+[update.modrinth]
+mod-id = "VzR5wiLo"
+version = "BJ12GArk"

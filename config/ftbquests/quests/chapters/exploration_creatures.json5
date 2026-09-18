@@ -1,0 +1,809 @@
+{
+  id: "1E240081908594DA",
+  group: "195B0654864CE15A",
+  order_index: 2,
+  icon: {
+    id: "alexsmobs:animal_dictionary",
+    count: 1,
+  },
+  filename: "exploration_creatures",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  progression_mode: "flexible",
+  quests: [
+    {
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      size: 2.0,
+      id: "3C3291241D1BE7C7",
+      tasks: [
+        {
+          id: "E59DEBD0E2D3E877",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "B62E40E498B68650",
+          type: "xp",
+          xp: 25,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -3.0,
+      id: "646B94FC5736B13D",
+      dependencies: [
+        "3C3291241D1BE7C7",
+      ],
+      tasks: [
+        {
+          id: "37CF882994DECB38",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:elephant",
+        },
+      ],
+      rewards: [
+        {
+          id: "DB260059733C9DB7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "D4D8A15894BEA773",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -3.0,
+      id: "FFCEDEB7059C11B8",
+      dependencies: [
+        "646B94FC5736B13D",
+      ],
+      tasks: [
+        {
+          id: "CA9CB74E572D15C0",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:gorilla",
+        },
+      ],
+      rewards: [
+        {
+          id: "37940EBD43CCF76B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "AC7D8291C9246529",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -3.0,
+      id: "4F558C064269B2E0",
+      dependencies: [
+        "FFCEDEB7059C11B8",
+      ],
+      tasks: [
+        {
+          id: "A6556B75AFF78F05",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:capuchin_monkey",
+        },
+      ],
+      rewards: [
+        {
+          id: "E02A3520F889A73A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "6A55179689D88003",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -3.0,
+      id: "BA87B2CEBA4C3D8D",
+      dependencies: [
+        "4F558C064269B2E0",
+      ],
+      tasks: [
+        {
+          id: "C7DFDE6441683674",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:kangaroo",
+        },
+      ],
+      rewards: [
+        {
+          id: "4ACB757933DDCA7E",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "AE21337F872CC533",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -3.0,
+      id: "588D47BBB28F1715",
+      dependencies: [
+        "BA87B2CEBA4C3D8D",
+      ],
+      tasks: [
+        {
+          id: "7340CBF819C9ADF4",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:moose",
+        },
+      ],
+      rewards: [
+        {
+          id: "69EDF90CA70C88DA",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "37F41D486A23287F",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: -3.0,
+      id: "D1D3F5E513BBEE93",
+      dependencies: [
+        "588D47BBB28F1715",
+      ],
+      tasks: [
+        {
+          id: "AFBB36D73CA1DFA9",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:snow_leopard",
+        },
+      ],
+      rewards: [
+        {
+          id: "14660D0D9227FA76",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "DA3AF0BCA8E16A0C",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -3.0,
+      id: "6039169CD67B991C",
+      dependencies: [
+        "D1D3F5E513BBEE93",
+      ],
+      tasks: [
+        {
+          id: "AB872ABAA1434529",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:grizzly_bear",
+        },
+      ],
+      rewards: [
+        {
+          id: "FD826F26E5B573D5",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "E644FEF6B2925C32",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 10.75,
+      y: -3.0,
+      id: "B2A64FAEF03BA68B",
+      dependencies: [
+        "6039169CD67B991C",
+      ],
+      tasks: [
+        {
+          id: "1EB22D54B0EADD7F",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:komodo_dragon",
+        },
+      ],
+      rewards: [
+        {
+          id: "2F40466175FB2CC7",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "FE101A2D9E285753",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -1.5,
+      id: "1B7D714CE7ED7391",
+      dependencies: [
+        "3C3291241D1BE7C7",
+      ],
+      tasks: [
+        {
+          id: "804B3316DEB96579",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:orca",
+        },
+      ],
+      rewards: [
+        {
+          id: "F17ACD0280FA9C57",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "A2C0599B04D0B579",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: -1.5,
+      id: "DFEDD0CA248956DE",
+      dependencies: [
+        "1B7D714CE7ED7391",
+      ],
+      tasks: [
+        {
+          id: "F1E958F54C808C9F",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:cachalot_whale",
+        },
+      ],
+      rewards: [
+        {
+          id: "3E13125179DEC93A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "A5C7E151178DE2A7",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -1.5,
+      id: "520D9D5FA2183077",
+      dependencies: [
+        "DFEDD0CA248956DE",
+      ],
+      tasks: [
+        {
+          id: "FB8076C1DC812507",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:mimic_octopus",
+        },
+      ],
+      rewards: [
+        {
+          id: "B1446F90421D666D",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "324A23AB1025584E",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: -1.5,
+      id: "E5B087492F551839",
+      dependencies: [
+        "520D9D5FA2183077",
+      ],
+      tasks: [
+        {
+          id: "ECCDFF4CC8AA66A1",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:seal",
+        },
+      ],
+      rewards: [
+        {
+          id: "80DDDEEF60D7E553",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "1682727DABF36E25",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -1.5,
+      id: "E53D67F9EDE15ED8",
+      dependencies: [
+        "E5B087492F551839",
+      ],
+      tasks: [
+        {
+          id: "B70E308ADE6C6620",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:platypus",
+        },
+      ],
+      rewards: [
+        {
+          id: "8CF5BF03363D8F52",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "77D337FD74D6CE2F",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 8.25,
+      y: -1.5,
+      id: "EE7354119BB63E1D",
+      dependencies: [
+        "E53D67F9EDE15ED8",
+      ],
+      tasks: [
+        {
+          id: "68FA66D93BAFD3D4",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:toucan",
+        },
+      ],
+      rewards: [
+        {
+          id: "F67287FE73863766",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "2CA69CBDD6723229",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -1.5,
+      id: "CE8473832A90D5FC",
+      dependencies: [
+        "EE7354119BB63E1D",
+      ],
+      tasks: [
+        {
+          id: "69BE8498D023498E",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "alexsmobs:raccoon",
+        },
+      ],
+      rewards: [
+        {
+          id: "9C1CCD9B57D12A88",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 487623848494439020,
+        },
+        {
+          id: "1E048FA94C660DD6",
+          type: "xp",
+          xp: 50,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 0.0,
+      id: "74AEEBA2E866958D",
+      dependencies: [
+        "3C3291241D1BE7C7",
+      ],
+      tasks: [
+        {
+          id: "ADF55086A4CFE477",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "friendsandfoes:moobloom",
+        },
+      ],
+      rewards: [
+        {
+          id: "B3FFEBB2F698DE7A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "9C399115ECB01F24",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 0.0,
+      id: "28F91BFE8C384D25",
+      dependencies: [
+        "74AEEBA2E866958D",
+      ],
+      tasks: [
+        {
+          id: "884EB6AD6FF7B9D5",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "friendsandfoes:glare",
+        },
+      ],
+      rewards: [
+        {
+          id: "A519E41A86F01671",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "BF191D09F0BF798F",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 0.0,
+      id: "95BA6C41389BA2AC",
+      dependencies: [
+        "28F91BFE8C384D25",
+      ],
+      tasks: [
+        {
+          id: "17215A655CDF1069",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "friendsandfoes:crab",
+        },
+      ],
+      rewards: [
+        {
+          id: "1E1E5550E1CD7792",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "F8865F23E335E99B",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 5.75,
+      y: 0.0,
+      id: "210D77356F76DE86",
+      dependencies: [
+        "95BA6C41389BA2AC",
+      ],
+      tasks: [
+        {
+          id: "B24AE0F7C620738E",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "friendsandfoes:tuff_golem",
+        },
+      ],
+      rewards: [
+        {
+          id: "65CB7E31971F0E6B",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "4D6AE7AB9C35A226",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: 0.0,
+      id: "613A9F7B8AEE9795",
+      dependencies: [
+        "210D77356F76DE86",
+      ],
+      tasks: [
+        {
+          id: "A12CD876AE976B41",
+          type: "observation",
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "friendsandfoes:rascal",
+        },
+      ],
+      rewards: [
+        {
+          id: "6D49EC7D3501F2BE",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 4196188979167302596,
+        },
+        {
+          id: "934655166ABEE30F",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 1.5,
+      id: "E9FBD9F7BF907AC6",
+      dependencies: [
+        "3C3291241D1BE7C7",
+      ],
+      tasks: [
+        {
+          id: "DA48A55B2FD7B3E3",
+          type: "kill",
+          entity: "friendsandfoes:iceologer",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "AC7FD5C2E7A6AC0C",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "17830297ED95096D",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 1.5,
+      id: "3BCFA0EE3B19ACCB",
+      dependencies: [
+        "E9FBD9F7BF907AC6",
+      ],
+      tasks: [
+        {
+          id: "CE320FC3B6DAA801",
+          type: "kill",
+          entity: "friendsandfoes:illusioner",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "934DD1A44F84A725",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "F9DEB7779A8055DE",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 1.5,
+      id: "A0DEC0E109670EC7",
+      dependencies: [
+        "3BCFA0EE3B19ACCB",
+      ],
+      tasks: [
+        {
+          id: "37184D3B53DC747D",
+          type: "kill",
+          entity: "alexsmobs:bone_serpent",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "3F121E2AAA90191A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 5564196992594175882,
+        },
+        {
+          id: "685E8A6F2A071CCC",
+          type: "xp",
+          xp: 250,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 3.0,
+      id: "F538FFD4FCAE9396",
+      dependencies: [
+        "3C3291241D1BE7C7",
+      ],
+      tasks: [
+        {
+          id: "346496E782B13F69",
+          type: "kill",
+          entity: "friendsandfoes:wildfire",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "A118DD993019FBA4",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "A6BF9B13F45CAB9B",
+          type: "xp",
+          xp: 500,
+        },
+      ],
+    },
+    {
+      x: 3.25,
+      y: 3.0,
+      id: "ABA4D6C35B750BA5",
+      dependencies: [
+        "F538FFD4FCAE9396",
+      ],
+      tasks: [
+        {
+          id: "6A2BB7AE7400C3E6",
+          type: "kill",
+          entity: "alexsmobs:warped_mosco",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "51F649040832A10A",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "8EA478B68290F177",
+          type: "xp",
+          xp: 500,
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 3.0,
+      id: "A6E0B6DF5C8BBC3D",
+      dependencies: [
+        "ABA4D6C35B750BA5",
+      ],
+      tasks: [
+        {
+          id: "972A044950FB6AE7",
+          type: "kill",
+          entity: "alexsmobs:void_worm",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "8C11DFDD819BC946",
+          type: "random",
+          exclude_from_claim_all: true,
+          table_id: 7025454341029952768,
+        },
+        {
+          id: "824AFCCD28C751BE",
+          type: "xp",
+          xp: 500,
+        },
+      ],
+    },
+  ],
+}

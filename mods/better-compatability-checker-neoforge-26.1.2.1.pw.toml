@@ -1,0 +1,13 @@
+name = "Better Compatibility Checker"
+filename = "better-compatability-checker-neoforge-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/iY8RgLXn/better-compatability-checker-neoforge-26.1.2.1.jar"
+hash-format = "sha512"
+hash = "a08fa313dfdce1913275a7bc3f3466466dd419015eb13e2ff09b9040413b0ad6f97d49ad81e42990824176259d9ea12ba7dc936f945e05d100d814a4ac418c0c"
+
+[update]
+[update.modrinth]
+mod-id = "KJhXPbHQ"
+version = "iY8RgLXn"

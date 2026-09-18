@@ -1,0 +1,8 @@
+name = "crashutilities-10.0.1"
+filename = "crashutilities-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/crashutilities-10.0.1.jar"
+hash-format = "sha512"
+hash = "310b4f52a1e3e19426e23ca24ccb3e4590c75fed7d731fef7a42b9456923ff8d8d3793104bd40c9661460c70ab99159617aa19c86bc3d1487d60e795634708bc"

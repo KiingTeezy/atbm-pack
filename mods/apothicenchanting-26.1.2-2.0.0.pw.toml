@@ -1,0 +1,8 @@
+name = "ApothicEnchanting-26.1.2-2.0.0"
+filename = "ApothicEnchanting-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ApothicEnchanting-26.1.2-2.0.0.jar"
+hash-format = "sha512"
+hash = "f9e081af02bd848f0acd5313fbedc2d73593d6280ce113e3c5b5515d1697c48be3e8c9dbea4d75f38d1fa9338a228bddfaab564c0c13b9f4a4d9be1efbbc5397"

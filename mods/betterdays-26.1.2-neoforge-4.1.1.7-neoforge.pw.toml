@@ -1,0 +1,13 @@
+name = "Better Days"
+filename = "betterdays-26.1.2-neoforge-4.1.1.7-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPLE214j/versions/wVcgrprN/betterdays-26.1.2-neoforge-4.1.1.7-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "73924fd5cbbcabcd2992c8bc4def60503e7eafe60f083244a89ae23b0ee7477ff344b7832238aab7814e66a9f2213cfa88ba2ba3c683fb5e5041ae28ce6c6f92"
+
+[update]
+[update.modrinth]
+mod-id = "tPLE214j"
+version = "wVcgrprN"

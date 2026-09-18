@@ -1,0 +1,13 @@
+name = "Apothic-Spawners"
+filename = "ApothicSpawners-26.1.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfxVkOAO/versions/4tD6MEQ3/ApothicSpawners-26.1.2-2.0.1.jar"
+hash-format = "sha512"
+hash = "eaee07de506f07be5c78bdef09c9cb33ed00655a70d279499b6801f6ecf128907728e6e1e46863a7073a95409f3d17a08cdb41d98da2f6830e47afcec604f8cf"
+
+[update]
+[update.modrinth]
+mod-id = "DfxVkOAO"
+version = "4tD6MEQ3"

@@ -1,0 +1,8 @@
+name = "utilitarian-26.1.2-0.22.0"
+filename = "utilitarian-26.1.2-0.22.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/utilitarian-26.1.2-0.22.0.jar"
+hash-format = "sha512"
+hash = "5d6262441a1709e0a025f7d9a87ae4eeb69421f22f77beca499afb8dd5c90b4ad8a449c54a228bd19d80bbf661640cd0463a57dc87280ad6c3cfdcb7c11b13ca"

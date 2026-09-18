@@ -1,0 +1,13 @@
+name = "Forge Config API Port"
+filename = "ForgeConfigAPIPort-v26.1.5-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/gtX4TxQk/ForgeConfigAPIPort-v26.1.5-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "b40685cd98fca97220684f0807c4ff49ec10ac33cb6c8c6a07eac5f9e1bf0691e48a8f42c43e51c8746655146aa5a4b64e26a29c9c7fd9855762b5fe40a32bec"
+
+[update]
+[update.modrinth]
+mod-id = "ohNO6lps"
+version = "gtX4TxQk"

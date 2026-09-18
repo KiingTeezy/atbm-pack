@@ -1,0 +1,13 @@
+name = "Friends&Foes (Forge/NeoForge)"
+filename = "friendsandfoes-neoforge-4.0.27+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOCJKD49/versions/vQbsipNT/friendsandfoes-neoforge-4.0.27%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "61cc1a13378c6aaf529b8c28462555412403ac55cc34dec3216595da2d858b031427fb90c7a9421925118c399c69f00ef4f92210edb8e1e5a645057703086fa6"
+
+[update]
+[update.modrinth]
+mod-id = "BOCJKD49"
+version = "vQbsipNT"

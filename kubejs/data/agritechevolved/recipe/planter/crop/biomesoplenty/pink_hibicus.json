@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "agritechevolved:crop",
+  "seed": "biomesoplenty:pink_hibiscus",
+  "soils": [
+    "#agritechevolved:tree_soils"
+  ],
+  "drops": [
+    {
+      "item": "biomesoplenty:pink_hibiscus",
+      "min": 1,
+      "max": 1,
+      "chance": 1.0
+    }
+  ]
+}

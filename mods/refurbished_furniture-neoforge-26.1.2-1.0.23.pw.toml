@@ -1,0 +1,8 @@
+name = "refurbished_furniture-neoforge-26.1.2-1.0.23"
+filename = "refurbished_furniture-neoforge-26.1.2-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/refurbished_furniture-neoforge-26.1.2-1.0.23.jar"
+hash-format = "sha512"
+hash = "0e4c8993036468410f6398f70ae9dabad54ff12aae4b25f29f485390a4b72f8efb3646e8b8b01c558611060dab45bfdc711516f0f15ed7185d050183e9e0e710"

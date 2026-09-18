@@ -1,0 +1,8 @@
+name = "moreoverlays-1.24.4-mc26.1.2-neoforge"
+filename = "moreoverlays-1.24.4-mc26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/moreoverlays-1.24.4-mc26.1.2-neoforge.jar"
+hash-format = "sha512"
+hash = "f391ed80b18c4f1d1e998eefcc681a691ddecdf369d315f669c29c1243df35774c940c1663cf42cceb5ff3c35f11b48dfc477fcca21b2da367304007d003f41d"

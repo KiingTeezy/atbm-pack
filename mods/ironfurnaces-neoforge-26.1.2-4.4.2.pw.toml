@@ -1,0 +1,13 @@
+name = "Iron Furnaces"
+filename = "ironfurnaces-neoforge-26.1.2-4.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPlaLxD1/versions/kUNp0q7z/ironfurnaces-neoforge-26.1.2-4.4.2.jar"
+hash-format = "sha512"
+hash = "c8f1f1179b843a22249a8f7d3e8c80d8478a53e6b4c96482b8d83e45db4aa602032719dd516f6b6748eedae5e9d62e98d5620962c338a0485f9c62f922b3286f"
+
+[update]
+[update.modrinth]
+mod-id = "yPlaLxD1"
+version = "kUNp0q7z"

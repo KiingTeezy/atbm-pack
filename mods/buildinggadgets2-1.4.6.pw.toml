@@ -1,0 +1,8 @@
+name = "buildinggadgets2-1.4.6"
+filename = "buildinggadgets2-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/buildinggadgets2-1.4.6.jar"
+hash-format = "sha512"
+hash = "1763ef012b4ac7b84c6a6b2ea0d69ba12b9753dea2ea2f859d41b944fa84d6fa6b6ec77c07f0268f6be9d7c61751f1909d19b3962e179537fe369daf352b2aed"

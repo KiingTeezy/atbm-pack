@@ -1,0 +1,13 @@
+name = "Refined Construction Sticks"
+filename = "refinedsticks-26.1.2-2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4DDLIRm/versions/Dd8NQQWv/refinedsticks-26.1.2-2.0.7.jar"
+hash-format = "sha512"
+hash = "dc88a6687249a15dfd03e90625c0821440ee91e6a16304efcd7cb7445877bb50b9b94876390cb3247cc44a82d7f7b6435d8a16402c6f9dc9e91a043f54a980bc"
+
+[update]
+[update.modrinth]
+mod-id = "G4DDLIRm"
+version = "Dd8NQQWv"

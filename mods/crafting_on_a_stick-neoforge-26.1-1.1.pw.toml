@@ -1,0 +1,13 @@
+name = "Crafting on a Stick"
+filename = "crafting_on_a_stick-neoforge-26.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tg5fXO1x/versions/fPpwvoHK/crafting_on_a_stick-neoforge-26.1-1.1.jar"
+hash-format = "sha512"
+hash = "7f78b4ed874ce1ecb0d157f46a2eabd3ac918620ba98e2305bedc3676967639f48c3c057f38e0a7509c43a77b0dc921861843f2373391464d9cf61e20d883a8b"
+
+[update]
+[update.modrinth]
+mod-id = "Tg5fXO1x"
+version = "fPpwvoHK"

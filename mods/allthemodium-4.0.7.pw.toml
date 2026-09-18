@@ -1,0 +1,8 @@
+name = "allthemodium-4.0.7"
+filename = "allthemodium-4.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/allthemodium-4.0.7.jar"
+hash-format = "sha512"
+hash = "d5de33195b63bbbee3b53da595a3292e6ed14247383d57dd5e3b8e8dab701f8465c8ad3f18e4303cce13287dbf1d7f2a583178b956afd8ae92265b3d4a2e45ee"

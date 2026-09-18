@@ -1,0 +1,13 @@
+name = "Iris & Oculus Search"
+filename = "IrisSearch-1.7.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkAgg84v/versions/a9QVLDgW/IrisSearch-1.7.1-neoforge.jar"
+hash-format = "sha512"
+hash = "a659d4ed94a2c6260286376fc00d8fd29c755d07a31452335868bc7bb89156761991867913e40588606bb00cf33cfef4dcf8e9095332872df37e2af9a3f1d0cb"
+
+[update]
+[update.modrinth]
+mod-id = "bkAgg84v"
+version = "a9QVLDgW"

@@ -1,0 +1,13 @@
+name = "Better Combat"
+filename = "bettercombat-neoforge-3.2.2+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/YPa9bdAg/bettercombat-neoforge-3.2.2%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "d55afc070d7cf8e56f98147d647111976cacc3bfc5fbd42e3d917d083b996ff709d4baa13ed9afe3e0546a09f85ea32adfbe9fb8d171b883e4e371bb82025c4c"
+
+[update]
+[update.modrinth]
+mod-id = "5sy6g3kz"
+version = "YPa9bdAg"

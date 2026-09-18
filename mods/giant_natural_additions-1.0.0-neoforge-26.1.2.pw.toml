@@ -1,0 +1,13 @@
+name = "Giant Natural Additions"
+filename = "giant_natural_additions-1.0.0 neoforge 26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hnrzQdHf/versions/lzFYGAer/giant_natural_additions-1.0.0%20neoforge%2026.1.2.jar"
+hash-format = "sha512"
+hash = "42a5570339cd182746c2cd65931241c6657ad8bf75f0574d70df7aaebe76a49b48036d21bfdf393d74b7fc9096625cc4fef5abac6de14e3fcdbdec7455a76ec8"
+
+[update]
+[update.modrinth]
+mod-id = "hnrzQdHf"
+version = "lzFYGAer"

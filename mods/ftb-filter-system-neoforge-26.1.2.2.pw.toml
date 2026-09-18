@@ -1,0 +1,8 @@
+name = "ftb-filter-system-neoforge-26.1.2.2"
+filename = "ftb-filter-system-neoforge-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-filter-system-neoforge-26.1.2.2.jar"
+hash-format = "sha512"
+hash = "87f5f7c5bce20f6992930c363210c29475ca3b6d8a2bffa045cd6cd3bf6419b696c31bc53b37d5fe5a6bbd7e78be28a8ddb80ff0756c262e7c5f9f6c8198333e"

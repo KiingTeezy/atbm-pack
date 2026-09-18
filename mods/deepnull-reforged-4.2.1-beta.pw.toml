@@ -1,0 +1,13 @@
+name = "DeepNull Reforged (DankNull) [NeoForge/Fabric]"
+filename = "deepnull-reforged-4.2.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yYjkmjge/versions/TONzZghu/deepnull-reforged-4.2.1-beta.jar"
+hash-format = "sha512"
+hash = "ea40d804510182b05d9e714bd48ace8964a5b3a3c2db2b8d7fbe3ba4599e941cfc575e60e85fd2e156b6922c863a2da2f89455d25b5a1b5b0295ddc753aefa47"
+
+[update]
+[update.modrinth]
+mod-id = "yYjkmjge"
+version = "TONzZghu"

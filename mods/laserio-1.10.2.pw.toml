@@ -1,0 +1,8 @@
+name = "laserio-1.10.2"
+filename = "laserio-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/laserio-1.10.2.jar"
+hash-format = "sha512"
+hash = "ea0cd23a99d432923dbe9c825bf7aac707a0ae992ad36c900d84b55d044c773bb10c689db93dda9bc3b46c4bdfa6b42f6f8872d4a66d7f914e572f196a4b055d"

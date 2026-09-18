@@ -1,0 +1,11 @@
+{
+	"oceandungeon": {
+		"mossy_ocean_dungeon": true,
+		"mossy_ocean_dungeon2": true,
+		"sandstone_ocean_dungeon": true,
+		"sandstone_ocean_dungeon2": true
+	},
+	"undergrounddungeon": {
+		"undergrounddungeon": true
+	}
+}

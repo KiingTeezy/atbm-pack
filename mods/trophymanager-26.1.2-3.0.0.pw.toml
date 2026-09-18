@@ -1,0 +1,8 @@
+name = "trophymanager-26.1.2-3.0.0"
+filename = "trophymanager-26.1.2-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/trophymanager-26.1.2-3.0.0.jar"
+hash-format = "sha512"
+hash = "db54dd15dc047c96dafc9b6424640009aea5673187cf8c3704f103b86aee2f7de484acabc25b43060a963247a41f4dcae6ae26e650a3e50566cc46beb2b378cd"

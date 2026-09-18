@@ -1,0 +1,13 @@
+name = "Ender IO - Endergy"
+filename = "enderio_endergy-9.0.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TcYlOhqA/versions/igDmVmV0/enderio_endergy-9.0.1-alpha.jar"
+hash-format = "sha512"
+hash = "de8bf047513d4fc0bd58b48cf5dbc840245e70969036e8b4609693b035ed85db4206f6ee828df2715aecf3932cc5c0fbfd05cc77d02ce0cfd2cce657f2dc6eaf"
+
+[update]
+[update.modrinth]
+mod-id = "TcYlOhqA"
+version = "igDmVmV0"

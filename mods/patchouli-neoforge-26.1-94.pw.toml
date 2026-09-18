@@ -1,0 +1,13 @@
+name = "Patchouli"
+filename = "patchouli-neoforge-26.1-94.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/2CsnFLom/patchouli-neoforge-26.1-94.jar"
+hash-format = "sha512"
+hash = "58c90a495219f0e6b923df9161597c18d14d3f867272c18141873bb6e9124d68eff6594c23f1759091507e484f680794a46ed5c5b9fb21964c6670d6dce2a278"
+
+[update]
+[update.modrinth]
+mod-id = "nU0bVIaL"
+version = "2CsnFLom"

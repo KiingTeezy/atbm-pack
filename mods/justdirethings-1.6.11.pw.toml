@@ -1,0 +1,8 @@
+name = "justdirethings-1.6.11"
+filename = "justdirethings-1.6.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/justdirethings-1.6.11.jar"
+hash-format = "sha512"
+hash = "f209aa4f5222e9c5f27bf19a79943a02fe4ea0be65fe1042b4716d45e06d419371087ec7b461d70241418af29da67e40558cb80b2b2cf7d22dc5b319cbb58357"

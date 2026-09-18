@@ -1,0 +1,8 @@
+name = "productivetrees-26.1.2-1.2.1"
+filename = "productivetrees-26.1.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/productivetrees-26.1.2-1.2.1.jar"
+hash-format = "sha512"
+hash = "15de3c8ab4858beb1454860d98aa5905c6e9f747ec253621fe140d7c77b813db2c707ea1c025f6a8b98905b1977888c3eaf4c252688e5ad5dee44da1f0ad26e6"

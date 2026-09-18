@@ -1,0 +1,13 @@
+name = "BBL Routers"
+filename = "routers-26.1.2-2.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g69ApBz2/versions/F5g0BDpz/routers-26.1.2-2.7.4.jar"
+hash-format = "sha512"
+hash = "fab944bbf8491235fed5f9eff8b3aab616e7fa3344ed4c54343c0bc1261f30c48d0b604c7e03fb97b7e11f7618e921ddea48829fbca2970ebcbc1babd4506397"
+
+[update]
+[update.modrinth]
+mod-id = "g69ApBz2"
+version = "F5g0BDpz"

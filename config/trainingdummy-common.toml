@@ -1,0 +1,8 @@
+#How far (in blocks) mobs are pulled from to attack a dummy holding the lure bait in its main hand.
+# Default: 32.0
+# Range: 1.0 ~ 128.0
+baitRadius = 32.0
+#The dummy's max health. It's kept topped off every tick regardless of this value (see entity.DummyEntity#tick), so even 1 never actually lets a hit kill it - the only way to remove a dummy is still hitting it with a Stick.
+# Default: 20.0
+# Range: 1.0 ~ 1.0E9
+maxHealth = 20.0

@@ -1,0 +1,13 @@
+name = "AdoraBuild: Structures"
+filename = "adorabuild-structures-2.11.0-neoforge-26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYlnn25U/versions/hxbm158H/adorabuild-structures-2.11.0-neoforge-26.1.1.jar"
+hash-format = "sha512"
+hash = "877575a79a30561d0b2eeb99b8ff1fed42b7064bdef8c60925fc8cf8726a459fcfc8bb3467aff252eaf9c30edc05f2205d1ba7764eb081f53749705d25be2815"
+
+[update]
+[update.modrinth]
+mod-id = "rYlnn25U"
+version = "hxbm158H"

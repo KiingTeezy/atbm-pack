@@ -1,0 +1,8 @@
+name = "epherolib-neoforge-26.1-1.3.0"
+filename = "epherolib-neoforge-26.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/epherolib-neoforge-26.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "7c949c4d9039cc105ec695e9b1f2ac6564dfafa7c9b60d23c08a67f1bc3f3f1fd3a21cfdd7a6eeb21ba72dfa9b546e664a84601dc8aed51aeede194edad3af30"

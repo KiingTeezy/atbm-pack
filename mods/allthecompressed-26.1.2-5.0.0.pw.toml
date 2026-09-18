@@ -1,0 +1,8 @@
+name = "allthecompressed-26.1.2-5.0.0"
+filename = "allthecompressed-26.1.2-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/allthecompressed-26.1.2-5.0.0.jar"
+hash-format = "sha512"
+hash = "95e8cceca0d47bd88663a274c89a057e07edbcf3abdbb2bc6dc16393bd0005109adaa19a140044e2f52c8bb24e5d06cfdb53af6da0fa6e628240431ac97727ed"

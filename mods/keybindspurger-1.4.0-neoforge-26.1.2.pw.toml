@@ -1,0 +1,13 @@
+name = "KeybindsPurger"
+filename = "KeybindsPurger-1.4.0-neoforge-26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/mUGIE5g2/KeybindsPurger-1.4.0-neoforge-26.1.2.jar"
+hash-format = "sha512"
+hash = "c1e260584f0608ba0327df019459d1587aed135733f2d6b5750be33b56cfab46ad7f8491206c07ed243beb78a0cf57311e87476ea725a64a01ce187e2346b658"
+
+[update]
+[update.modrinth]
+mod-id = "iaH7LvLy"
+version = "mUGIE5g2"

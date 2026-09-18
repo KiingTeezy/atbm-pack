@@ -1,0 +1,8 @@
+name = "nomorecraters-1.0.0"
+filename = "nomorecraters-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/nomorecraters-1.0.0.jar"
+hash-format = "sha512"
+hash = "6862d72b6ebf5c42ef80186130789dc30e285083d2b63f80ef60b53167a19ebde4bd8f7da7ea1e454f644aa2d4b2ccfc59b68f5fbe324dbedb7a273a98895e61"

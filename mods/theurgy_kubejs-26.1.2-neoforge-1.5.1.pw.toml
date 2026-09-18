@@ -1,0 +1,13 @@
+name = "Theurgy KubeJS"
+filename = "theurgy_kubejs-26.1.2-neoforge-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oXj2r26F/versions/G1FImmJg/theurgy_kubejs-26.1.2-neoforge-1.5.1.jar"
+hash-format = "sha512"
+hash = "1ca45e96a4b39a84b2c034c0d9ffdcadce8433efafb3525be8ad79106033357c509de0a28c319bb97aaff5de45f5146d6ff42b2aab30a7490c29da09babdff6c"
+
+[update]
+[update.modrinth]
+mod-id = "oXj2r26F"
+version = "G1FImmJg"

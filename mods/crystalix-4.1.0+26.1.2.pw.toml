@@ -1,0 +1,8 @@
+name = "crystalix-4.1.0+26.1.2"
+filename = "crystalix-4.1.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/crystalix-4.1.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "0229afd6b417565c56944cc155dd7b23ba34f3061f454b7645c76b255cf6f6e7a45fc422a22222b8ce34a609f6d848a8ba1fc987cd2f7ea36d339b1d3d33171f"

@@ -1,0 +1,8 @@
+name = "JustEnoughProfessions-neoforge-26.1.2-11.0.2"
+filename = "JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar"
+hash-format = "sha512"
+hash = "7f433e2d6e46350df69b889f4e1aaa4c4f3e066384448102f045602387827389ee47341fdc032916c7ca9e79912b40ea93f12f6dd2d6cb6d4276a7ffe35201c5"

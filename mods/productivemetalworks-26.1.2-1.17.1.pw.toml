@@ -1,0 +1,8 @@
+name = "productivemetalworks-26.1.2-1.17.1"
+filename = "productivemetalworks-26.1.2-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/productivemetalworks-26.1.2-1.17.1.jar"
+hash-format = "sha512"
+hash = "495d90998bce2fd48c97871a9709a29c515e1ace01e62140effe26eb15a827b164e5c5a9573d9e08030d8772b94d782a90b013e50449fc3d4472628c3b4187ab"
