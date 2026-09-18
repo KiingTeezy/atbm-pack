@@ -1705,6 +1705,10 @@ file = "config/fancymenu/assets/atbm_loading_bg.jpg"
 hash = "ecbbe42d64da7e38e2ae2e12373fc36b8e1d2773155bdc9def55a7a412aaccc6"
 
 [[files]]
+file = "config/fancymenu/assets/atbm_menu_bg.jpg"
+hash = "8b441c3bddb5bf8c1a4c4a10c1e767ce57f0960d4527f07a944a09a515bab930"
+
+[[files]]
 file = "config/fancymenu/assets/background.png"
 hash = "424a500df652ccc6ce54589e299008d5d9e426a7e96f8eb55d159c3c4904c46b"
 
@@ -1814,7 +1818,7 @@ hash = "858eb183b6fa041681aa9ae04e2b6ffea27168dd290e3330a12510dfb4fdff86"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "9bac1d514c15b89112c4e1126180cfc2b971fe5efa91e69baea0e9d4f603072c"
+hash = "98f4c22a306bcd496a8b14d2735bf46840df2db68d2d2ce7c2b8dea674df5219"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

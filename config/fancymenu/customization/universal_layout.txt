@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/background.png
+  image_path = [source:local]/config/fancymenu/assets/atbm_menu_bg.jpg
   slide = false
   repeat_texture = false
   parallax = false
