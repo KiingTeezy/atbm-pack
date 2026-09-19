@@ -441,10 +441,6 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
-file = "config/ali/ali_common.json"
-hash = "b0074b4ff2768d4f7b0504651d0128fa07cc515afc90af89cdf387e52e187fa4"
-
-[[files]]
 file = "config/allthetweaks-client.toml"
 hash = "dba85313c7c6a4d8c2e7d458361b5615afface8a3b98a2f452dac318f51d3062"
 
@@ -1090,7 +1086,7 @@ hash = "5e6e611da2226b1007e47f9ea64109569721132b61cf416bf74a49a2c08c4edf"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "7672220aa9c680733e8a4a7bb7633dca7e334d1a02fd78a308082025ab77ffe5"
+hash = "6e3fd9cd0af38a5c672248e5e0cb991041d0991bce1e5bcc531831be548f5b06"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -2202,7 +2198,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "02e16c0512a04b831bcbe3df1c9552a25c17b923b490ffd8cc99fb0054d82505"
+hash = "5585669d0e80469db825f1cd64433d62b298950cb5e508ea17a0657408448303"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -5510,7 +5506,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e9c116d9b69c407449610e8197efc8aca80ccaad385502c92e4fe17ab61b430a"
+hash = "5d8b65399136b62aedf5038785ae5ca09e0e43b9fecbcf6684a4c9b0617ed252"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5658,7 +5654,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "410a41a64f0378120b948312d80b7e73d5d45e1745c6de0e8ca66207c40bbf47"
+hash = "829fb5d1380a5f88b4d151c8193d0a0c999de6a2bc0604a69d1c96a5e149198b"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -5682,7 +5678,7 @@ hash = "a03d4ae7af9dd6b7fede411e1922a01daa120a3f7c5c5fe99e7b6ca6d0f7071c"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "c6a67d437a25937c1ab8d0ae22db2f338a416bf2468e91a7c099b3327b2f6016"
+hash = "8960cad75b937e2fc22501be9efaf6b8bcc75aae4b3c54d4672f1bea9eaebea5"
 
 [[files]]
 file = "config/journeymap-server.toml"
@@ -6018,7 +6014,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "e4a6fb537556ba348c3624e934bf3bbbd21e8e4148a4816a3b61cf9cb761d1ab"
+hash = "6011741d3c87710102a36955ac90251b5e3bed814cdcb77016b7f65bde157198"
 
 [[files]]
 file = "config/particle_effects.json5"
@@ -13371,16 +13367,6 @@ metafile = true
 [[files]]
 file = "mods/advancedae-26.1.7.pw.toml"
 hash = "aee4677b52400890c121988b1956c0a261994e3eb70c05c74470f8f827213e14"
-metafile = true
-
-[[files]]
-file = "mods/advancedcoreinfo-neoforge-26.1.2-1.2.0.pw.toml"
-hash = "cb05fba9c77ba1ebcf567182ad69a68442d64ad4a028a36e67e1a761f293a9bd"
-metafile = true
-
-[[files]]
-file = "mods/advancedlootinfo-neoforge-26.1.2-2.2.0.pw.toml"
-hash = "5e1aac5b555907cf512042382a4b305b71abac19402b91ac8223cdb658acc8ab"
 metafile = true
 
 [[files]]
