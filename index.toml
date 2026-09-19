@@ -1090,7 +1090,7 @@ hash = "5e6e611da2226b1007e47f9ea64109569721132b61cf416bf74a49a2c08c4edf"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "964e0cf45c8f6d0df0725f063bed0a8c9f37dbc69b7d90cf3300080dae4cef19"
+hash = "7672220aa9c680733e8a4a7bb7633dca7e334d1a02fd78a308082025ab77ffe5"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1114,7 +1114,7 @@ hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 
 [[files]]
 file = "config/bettercombat/server.json5"
-hash = "1e5baf044fc358e470d9979a471b0bffcd8f54130023eb6523d9b3d3ea21ce0f"
+hash = "76a8326319f70358d3de82dfe17a12d65a9647994ad7fc24eeaf5af039eb1fc8"
 
 [[files]]
 file = "config/bettercombat/weapon_trails.json"
@@ -2202,7 +2202,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a38ac85279f0a8c135461f5e7200e003e6fb906c5cbe44e9ca96c868d875ae3e"
+hash = "02e16c0512a04b831bcbe3df1c9552a25c17b923b490ffd8cc99fb0054d82505"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2370,7 +2370,7 @@ hash = "4d3c6a03421b16f4f8ab0e4d0b814d363590fe4ebd3f26c7014212bf0527a0d6"
 
 [[files]]
 file = "config/ftblibrary-client.json5"
-hash = "6025c95638058062ed97329bee56788016e65200816b6d4d607e43d4d73b17a2"
+hash = "cac92768bc10a85aef4f68cfaf900d5dd54fe09d9cb22d2e765cdf5f13f86930"
 
 [[files]]
 file = "config/ftbquests-client.json5"
@@ -5510,7 +5510,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5f953c98f8fff5af91a599a0144d41b3dd5c7bc6d6482a5d4296a31f0675ff2c"
+hash = "e9c116d9b69c407449610e8197efc8aca80ccaad385502c92e4fe17ab61b430a"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5658,7 +5658,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "98c640feaac331ceaae637bd734437d5d98da55bff2daa6cc335565155f7fa12"
+hash = "410a41a64f0378120b948312d80b7e73d5d45e1745c6de0e8ca66207c40bbf47"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -5731,6 +5731,10 @@ hash = "556957bbafa61aeefc95f038cdd9a20f5449fb0a64cbb1f89c63552101d47f2b"
 [[files]]
 file = "config/laserio-common.toml"
 hash = "e516e6c66dd55bf806077836add5c8d0ed2175bab67757c572e6d08312a4ff7f"
+
+[[files]]
+file = "config/leaderboards-client.json"
+hash = "090be63ddf13e55225d282a833aa7a441982702f6ede86d30be40f2a430a8f0a"
 
 [[files]]
 file = "config/leavemybarsalone-client.toml"
@@ -6014,7 +6018,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "c3a5c147de2e361b8a425c18de08584466b8ebf814ea3538daa88d2d2b7cc1d1"
+hash = "e4a6fb537556ba348c3624e934bf3bbbd21e8e4148a4816a3b61cf9cb761d1ab"
 
 [[files]]
 file = "config/particle_effects.json5"
@@ -12656,6 +12660,10 @@ hash = "40d1cc27c06644ca83889af84161f05504f962e836746dd295aedc13e9b38cd8"
 [[files]]
 file = "kubejs/server_scripts/announcements/announcements.js"
 hash = "c11e4848fbe76726f0a5c1c849cc37eb12ade8af9e6df9322a26a03f3f25dbe3"
+
+[[files]]
+file = "kubejs/server_scripts/atbm_attack_speed.js"
+hash = "82a7b2ee212c8faa8ac047cbb1db4042eb04728be8730a375e9a7efb454b498e"
 
 [[files]]
 file = "kubejs/server_scripts/banlist_script.js"
