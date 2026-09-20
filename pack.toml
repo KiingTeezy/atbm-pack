@@ -1,12 +1,12 @@
 name = "All The Better Mooks"
 author = "KiingTeezy"
-version = "3.2.4"
+version = "3.2.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "47d920f25265deef6fb1ed6763e434e4ced3d406319208fafa31d1e960075cfb"
+hash = "1f90b2bf86dc24c07c7deaf88daba5f45cedb7c46caedd17859bee15a35f2daf"
 
 [versions]
 minecraft = "26.1.2"

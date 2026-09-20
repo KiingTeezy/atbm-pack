@@ -481,6 +481,22 @@ file = "config/aquaculture-common.toml"
 hash = "d1612983c820e2b48163ade6b618eed62b4910c35edd820aaac6128ab412e841"
 
 [[files]]
+file = "config/arsenal/effects.json"
+hash = "861bf091b01b23a27297ff8a586423e1b5ef840b0056253cfb81ef76e0553e1b"
+
+[[files]]
+file = "config/arsenal/equipment_v2.json"
+hash = "729c5fe398b8ef655557712c866ef58967dd7ef68f65e2bc170830cde9b2aec7"
+
+[[files]]
+file = "config/arsenal/ranged_weapons.json"
+hash = "d8a781f4d2f217cf05d98639dd750ca09d2928ccf1396a1522f31a2b0ff6d2bf"
+
+[[files]]
+file = "config/arsenal/shields.json"
+hash = "d659f05d057a18de40bdafc32456a06f04fcb88c6de8e03a18f192c80b1eee32"
+
+[[files]]
 file = "config/artifacts/client.toml"
 hash = "fcc980a4e12e76dc42a3bc27db9fe237f628c63e2544048802b239a2a989c44c"
 
@@ -1013,8 +1029,80 @@ file = "config/attributefix/neovitae/sigil_cost_reduction.json"
 hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
 
 [[files]]
+file = "config/attributefix/ranged_weapon/damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/ranged_weapon/haste.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/ranged_weapon/pull_time.json"
+hash = "fef2c6b6b818a3cae8d1cd4eb6bf9378d474e36dcf27320f764a50970c595b27"
+
+[[files]]
+file = "config/attributefix/ranged_weapon/velocity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
 file = "config/attributefix/silentgear/magic_armor.json"
 hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"
+
+[[files]]
+file = "config/attributefix/spell_engine/damage_taken.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_engine/evasion_chance.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_engine/healing_taken.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/arcane.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/critical_chance.json"
+hash = "71d42d76b84bb16b483000c34bd52899c1d900405479f8134dc58ddc92f5d03d"
+
+[[files]]
+file = "config/attributefix/spell_power/critical_damage.json"
+hash = "71d42d76b84bb16b483000c34bd52899c1d900405479f8134dc58ddc92f5d03d"
+
+[[files]]
+file = "config/attributefix/spell_power/fire.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/frost.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/generic.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/haste.json"
+hash = "41170b7b4d990e5f28fde8585b3d51e22da4e44a6b5a918c8dea304ea10457bb"
+
+[[files]]
+file = "config/attributefix/spell_power/healing.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/lightning.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/spell_power/resistance.generic.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/spell_power/soul.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
 
 [[files]]
 file = "config/attributefix/starcatcher/base_decay_multiplier.json"
@@ -1086,7 +1174,7 @@ hash = "5e6e611da2226b1007e47f9ea64109569721132b61cf416bf74a49a2c08c4edf"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "6e3fd9cd0af38a5c672248e5e0cb991041d0991bce1e5bcc531831be548f5b06"
+hash = "f4d941c410d50fdb2ce6ee31c313ad3b5a653ea8b8def5af49248f776fe101ab"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1335,6 +1423,16 @@ hash = "5a067bc14bebe33e5ee79816091107ae882ac148928ecd12e89f2227bfbf16a0"
 [[files]]
 file = "config/constructionstick-startup.toml"
 hash = "da11198f185cd278fed7e86bbc67c95f1f5b4424ccd049c4d0cc1aa61e697c33"
+
+[[files]]
+file = "config/controlify/controlify.json"
+hash = "59e2fa57cf1d579bd5cf3c8fac48ec0ca623412970ff2250011526e09e2c06fd"
+preserve = true
+
+[[files]]
+file = "config/controlify/profile-1.json"
+hash = "f3051cdad72a13e4e191fe133f768c588e07a8637e11954b9541f12f0c54a81a"
+preserve = true
 
 [[files]]
 file = "config/convenienteffects-client.toml"
@@ -1806,7 +1904,7 @@ hash = "a1d7ce1bf07d787b9468423697c89a096ed7198d2b74dd55f47b709adf76352a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "66ab13a65bef97651c338eb5dafe493576f25e8deca6a18a85f9e94eac2d927d"
+hash = "43933213907e87dcd3b9f21d9146baeb9bfd3de895cec2e119ccc0449d69e35d"
 
 [[files]]
 file = "config/diagonalblocks-common.toml"
@@ -2198,7 +2296,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "5585669d0e80469db825f1cd64433d62b298950cb5e508ea17a0657408448303"
+hash = "4ce5ed02113315989c8b4d780d39ef8279740bc466e0eef9148b0756cdb50ed6"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2298,7 +2396,7 @@ hash = "1f8f17aa2dabbb85bf7dcc742e64aaff80dfa450d786450b2c1f38c7a644b5f9"
 
 [[files]]
 file = "config/fastbench.cfg"
-hash = "fe014b978a15ec5008eac8b2acceefbd93dde1a89faf41ca47ef80360b1f170e"
+hash = "37c0f6d5c21ceb9d4fd0763b28a181acdd87bba4323a07281de201dbb0842d6a"
 
 [[files]]
 file = "config/fastitemframes-client.toml"
@@ -5345,10 +5443,6 @@ file = "config/generatorgalore-server.toml"
 hash = "b7574d4fc714e91786b643c1df7f0b520a540c998598bd14882e9a2ac8452de8"
 
 [[files]]
-file = "config/generatorgalore/defaults.lock"
-hash = "8afc8d511ecec40ef25d2a09095510b16fe5c80ae91dc83ec4928c029a0d8c1e"
-
-[[files]]
 file = "config/generatorgalore/generator/copper.json"
 hash = "9cf754a47ae96c597a5e95275414eff3435ce04871194a8d47667cd298ee50fc"
 
@@ -5506,7 +5600,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5d8b65399136b62aedf5038785ae5ca09e0e43b9fecbcf6684a4c9b0617ed252"
+hash = "c388b69f406efd013af37b6bd60c75e0c37902eab995182969df7ca8185e39fe"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5614,7 +5708,7 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "9a5448a2288e053a6c1972f51e1f52bedb4ba58f4d4fc3a9425ded563fc8ad9c"
+hash = "7662f72f5c7edeb19e94cf88c8af0bbd77ccd5f187e22fcf810f42f1b0b3ced8"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
@@ -5654,7 +5748,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "829fb5d1380a5f88b4d151c8193d0a0c999de6a2bc0604a69d1c96a5e149198b"
+hash = "30603074ef818b90e3e674254c5244ab9624ad06196bb92fc987988bc8a875fc"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -6014,7 +6108,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "6011741d3c87710102a36955ac90251b5e3bed814cdcb77016b7f65bde157198"
+hash = "b942d0194eb60db00a7caae7fc8cdcf450e08283d7759db9961d93f177ba6845"
 
 [[files]]
 file = "config/particle_effects.json5"
@@ -6177,6 +6271,18 @@ file = "config/rootsclassic-common.toml"
 hash = "4233b0d7c0f8eb04a7b3b5d319bfe80884fd48f0997a063a3e65744f7134a2c4"
 
 [[files]]
+file = "config/rpg_series/loot_equipment_v2.json"
+hash = "cd4df4141ba278255376484507a53faea47a45c8df8bc69cb759aea0b2e6a59f"
+
+[[files]]
+file = "config/rpg_series/loot_scrolls_v2.json"
+hash = "6b812820a3996ecb9294f45c06159ceb93591e5f1bf023b791207695231b461b"
+
+[[files]]
+file = "config/rpg_series/tag_cache.json"
+hash = "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c"
+
+[[files]]
 file = "config/sawmill-common.toml"
 hash = "7fd1d021d8fab9c4b495cc9f62febced1411e819059ffa5b379d87b51a08270c"
 
@@ -6314,7 +6420,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "7b656643dc3a66a58fc982ff24826f2c909d20c10bfc49a9705d97f507563dae"
+hash = "edd447dbeb4213b5910594dc7b4d4ad3efa6e20647b8ca26d8929a8cae0722c3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6335,6 +6441,30 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/sparsestructures.json5"
 hash = "b972fd8a9a875b139df83e36330d71dbea45375b75f26a28872552aa88d1deb8"
+
+[[files]]
+file = "config/spell_engine/client.json5"
+hash = "1300ced14472ea5968e6fd8a1b5497a595c30ae56e7956c53024a3f461f253d3"
+
+[[files]]
+file = "config/spell_engine/elemental_weaknesses.json"
+hash = "6979c988ceab84dfaca3aacb4c60cfe067987f6a323c8eaddb911ffa9a257219"
+
+[[files]]
+file = "config/spell_engine/hud_config.json"
+hash = "b3342d39bea6633b095b67dcb7d6fbccf07ea9ddd19116ea4ca2cd747861f318"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "a1f8cb3071bf9db94ff246eb94607be6e206ae58798555eec04c7ec53ebe0db6"
+
+[[files]]
+file = "config/spell_engine/weapon_fallback.json"
+hash = "9962841ccc06487c97ec1d4bdac6a505fcbece925c978ff9b4e866f2ad6bab8d"
+
+[[files]]
+file = "config/spell_power/attributes.json"
+hash = "d9dac360395eece6921915a07db4743ed9cbfc0f4bb747c780b6484c2299b04e"
 
 [[files]]
 file = "config/springlotus.yaml"
@@ -13485,8 +13615,18 @@ hash = "6ba88b7659c1464ce7fa0185bc1f8c8469c981d46938c4253b71a51dbda9aa5f"
 metafile = true
 
 [[files]]
+file = "mods/arsenal-neoforge-1.5.1+26.1.2.pw.toml"
+hash = "1363753499fb23b315a37576388c89cf18eafe2fdc9200783714e966da6ab7ba"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-neoforge-15.1.3.pw.toml"
 hash = "2af7557b5e1ab47532d394ae8909319f2f3b092498b270e66a3aa51835458636"
+metafile = true
+
+[[files]]
+file = "mods/atbmtimeouts-1.0.0.pw.toml"
+hash = "6ca9a20e5e5451c363502c820c40b5fa5d0f33bad7be02c44bd69f8273b3b1e8"
 metafile = true
 
 [[files]]
@@ -13727,6 +13867,11 @@ metafile = true
 [[files]]
 file = "mods/constructionsticks-26.1.2-3.2.0.pw.toml"
 hash = "35772ef53526c819f2daaa4ed4ee455d14d7ddcca10d15429c90643db6dcfd3c"
+metafile = true
+
+[[files]]
+file = "mods/controlify-3.5.0+mc26.1-universal.pw.toml"
+hash = "59cef7e8ae15f4f0f3ac2046b05b33180db8e8a61cc72fd7d1b082f6cf7c594a"
 metafile = true
 
 [[files]]
@@ -14375,6 +14520,11 @@ hash = "d3c98cebd6a0ba8578f593ed1a9fc82504dfc20d6753a51d5a7d4bb5c380b187"
 metafile = true
 
 [[files]]
+file = "mods/jeb-1.1.0-26.1.2.pw.toml"
+hash = "0ad89da14fe7889dd2f97455be82013d0fbb053d2c7bf40546a999516768af97"
+metafile = true
+
+[[files]]
 file = "mods/jei-26.1.2-neoforge-29.37.0.99.pw.toml"
 hash = "cf2fa7f580ea226341821a353f9f46032376d45de838d745e64fe9632a361cfb"
 metafile = true
@@ -14910,6 +15060,11 @@ hash = "07d40d584838ca69e02b8ef3a15609a2b6e54b3427689db3790156d340a43058"
 metafile = true
 
 [[files]]
+file = "mods/ranged_weapon_api-neoforge-4.0.0+26.1.2.pw.toml"
+hash = "f4b60da036545e9d767ff96fafcb7e40e5f936e6e78b1b0f4f8912c0db013d37"
+metafile = true
+
+[[files]]
 file = "mods/rangedpumps-2.0.0.pw.toml"
 hash = "4a9ed2144786a8e98177a82d2d6b2db6ec0e2fd19228349ff35c3a5dee1f5b94"
 metafile = true
@@ -15122,6 +15277,16 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures-neoforge-26.1.2-3.1.2.pw.toml"
 hash = "d8cf4b908d896fa9239752398b0f0fb445fa79869999a4ee03e8a8f1a255a196"
+metafile = true
+
+[[files]]
+file = "mods/spell_engine-neoforge-1.10.5+26.1.2.pw.toml"
+hash = "d06bc1e596fdfe1e2516d524395f04c234a9cdf82af4a860cad32d9840f2b7bb"
+metafile = true
+
+[[files]]
+file = "mods/spell_power-neoforge-1.6.2+26.1.2.pw.toml"
+hash = "f8146b40e2f4f8398294968a76d29b832668d8bd07e021e1b52003cd5d7e74dd"
 metafile = true
 
 [[files]]

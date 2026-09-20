@@ -285,7 +285,7 @@
   "history": {
     "previewOverlay": true,
     "hintOverlayToggle": true,
-    "hintNarratorToggle": true,
+    "hintNarratorToggle": false,
     "accessibilityModMemory": false,
     "themesHash": -825076755,
     "usersHash": [
