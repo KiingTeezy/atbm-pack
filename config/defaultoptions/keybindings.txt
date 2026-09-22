@@ -463,3 +463,4 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown:
 key_keybindings.spell_engine.tooltip_details:key.keyboard.unknown:
+key_key.puffish_skills.open:key.keyboard.k:CONTROL

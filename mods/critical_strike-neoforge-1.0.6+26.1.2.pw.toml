@@ -1,0 +1,13 @@
+name = "Critical Strike"
+filename = "critical_strike-neoforge-1.0.6+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilvNBzFn/versions/JU16Al8Y/critical_strike-neoforge-1.0.6%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "0808353172ce239264b58fd37248b2883f1f055ae22391c1c7e14a6b10c137743c8c6f69f50091d24acec973521d5e6957779783114fd89d449656d98f617817"
+
+[update]
+[update.modrinth]
+mod-id = "ilvNBzFn"
+version = "JU16Al8Y"

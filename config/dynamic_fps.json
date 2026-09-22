@@ -1,1 +1,17 @@
-{}
+{
+  "enabled": true,
+  "states": {
+    "hovered": {
+      "frame_rate_target": 30,
+      "volume_multiplier": 1.0
+    },
+    "unfocused": {
+      "frame_rate_target": 30,
+      "volume_multiplier": 1.0
+    },
+    "invisible": {
+      "frame_rate_target": 1,
+      "volume_multiplier": 0.0
+    }
+  }
+}

@@ -4,7 +4,7 @@
 	#Link which will be opened in browser on request_help_button pressed.
 	#If equals CHANGE_ME, will open Forge/NeoForge/Fabric/Quilt discord link. Names of communities/channels also will be used not from config, but according to this link.
 	#Must start with 'https://' or 'www.'
-	help_link = "https://discord.gg/rK3WEka6tA"
+	help_link = "https://discord.gg/24euSkCfkn"
 	#With this option, you can select the formulation of the GUI (e.g., in the help buttons, title).
 	#Currently supported:
 	#   - DISCORD: Uses terminology like 'join the Discord' and 'post in #channel'.
@@ -217,7 +217,7 @@
 [too_many_changes_warning]
 	#Set to the positive integer to enable feature. Set to negative integer to disable.
 	#How many changes end user should make for warning to be displayed.
-	count = 5
+	count = 10
 	#With this option, you can select the formulation of this warning, currently supported:
 	#   - NOTIFY: Just saying to the end user that what they made many changes and adding random mods or clicking
 	#the "Update All" button is not a good idea without proper testing. It is expected to crash.

@@ -1,0 +1,13 @@
+name = "Armor Model API"
+filename = "armor_model_api-neoforge-1.1.2+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onz2NN2n/versions/svadmLPv/armor_model_api-neoforge-1.1.2%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "7fe4f94cd0fbc6d9765035ba452976ba8be4eda4870e77a58eca32a5412504cf0cc537f28ae635c463917f32a3bb5cc170ebd616ebdcf0ce009faf08109cf74d"
+
+[update]
+[update.modrinth]
+mod-id = "onz2NN2n"
+version = "svadmLPv"
