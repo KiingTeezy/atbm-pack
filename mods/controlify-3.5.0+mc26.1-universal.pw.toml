@@ -2,6 +2,11 @@ name = "Controlify (Controller support)"
 filename = "controlify-3.5.0+mc26.1-universal.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Controller support (Steam Deck, Xbox, PlayStation controllers). Untick this if you use Steam Input, Xpadder or another controller tool instead."
+
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/oEMsb0wo/controlify-3.5.0%2Bmc26.1-universal.jar"
 hash-format = "sha512"
