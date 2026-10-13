@@ -494,7 +494,7 @@ hash = "2bf86fa5d0be8ba1aec135bf98de31bdf797c94987e564ba9d48d399a8a8708f"
 
 [[files]]
 file = "config/archers/summoned_entities.json"
-hash = "c29a0f6757de63a6104e91de2f5b72751d1645dc957ab5973bd46b2c5daa4745"
+hash = "a0ae6cfde9e98689c55293c2c26fe8505de26509c9ae168190d4c6e22b6bbf6c"
 
 [[files]]
 file = "config/archers/tweaks.json"
@@ -1206,7 +1206,7 @@ hash = "5e6e611da2226b1007e47f9ea64109569721132b61cf416bf74a49a2c08c4edf"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "a1fa391c5fde482d4d3a2b17dd4cbaf0c586fca8672139c1a8db1a00f857a112"
+hash = "1e902ad7d7106f14afad477c67053d5a06eba3e7bf03e1ad7e26ccb35d3707ec"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1385,6 +1385,10 @@ file = "config/carryon-common.toml"
 hash = "8dd38763dc9cdbe47d4520d701b801b0c3bb09d641e9b24a720d30d8140384a8"
 
 [[files]]
+file = "config/cave_dweller-server.json"
+hash = "5f2e916036be3e61a6d7440bf38c88dfbdacd4340a143f42d4bb44452b93f4a2"
+
+[[files]]
 file = "config/charginggadgets-server.toml"
 hash = "d792ef7b1befb0bc7c9d673af847f87847fd78bb9cad8f8bd8d4d4808d026351"
 
@@ -1504,7 +1508,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0e0273b9204f68e9d4eddcfad75ec3ac757f426e61353316df82b54427a60807"
+hash = "81c567bd61580247bd5cd1e5826ec5cd8399ed545da0e0d333c22cbf78efa7ee"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -1831,6 +1835,14 @@ file = "config/cristellib/railcraft/structure_toggle_config.json5"
 hash = "ffd8e9c1a0c3d1c065cdbdda7d29b3bf4b7c8ab53c93655707726f04f50252d4"
 
 [[files]]
+file = "config/cristellib/serversidehorror/structure_placement_config.json5"
+hash = "3dc8c4babec5fac23cddc55cc5d8e0b334af32a4a04b43e96d78e54d9326adfa"
+
+[[files]]
+file = "config/cristellib/serversidehorror/structure_toggle_config.json5"
+hash = "d2e38a8c76139b8d80ce2ed0a0e47d391f6438089d81b51df73521b113111d0e"
+
+[[files]]
 file = "config/cristellib/spider_overhaul/structure_placement_config.json5"
 hash = "a7515f43ba08cc753a85edcfd5c68d3a16fe6e503366b26283979d551323e0f8"
 
@@ -1877,6 +1889,14 @@ hash = "3919a13b827008422867f0c7f404ef94430fc0db2773676913cb91b1e2cb5d71"
 [[files]]
 file = "config/cristellib/underwater_village/structure_toggle_config.json5"
 hash = "f4da64df494316c1b7412fdf455f652c6f2c2f4b20ff4f92fb6910932ce01b5e"
+
+[[files]]
+file = "config/cristellib/watching/structure_placement_config.json5"
+hash = "a27539db21cde122f930df44a19e61047f586e1e76ebc74daa51804d52ef6809"
+
+[[files]]
+file = "config/cristellib/watching/structure_toggle_config.json5"
+hash = "0077712fcda4b1fdc1a0b1e80a71a60d70148b7c1a2e7faa3a0e38dd95bbc54a"
 
 [[files]]
 file = "config/critical_strike/client_config.json"
@@ -2344,7 +2364,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4e9c88b7a76fb19097939c2b215896b7a09aeb1153c788cc22626b68682ac31a"
+hash = "8e3c02b743bef6fc4e36a1b60d197b6569daf752e20c16c2f4ad39cacd0e4d8f"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2393,6 +2413,34 @@ hash = "7ccea6ca89ad3874ea43b5d338666d15241305d905b413042b1bcca4120d4684"
 [[files]]
 file = "config/fancymenu/slideshows/atbm_backgrounds/properties.txt"
 hash = "69bec9f19cdd50db3fcd80f3ccd8b284dd2d911a8089c06f13c1ac5f4fe178a2"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/01_crossroads.jpg"
+hash = "6c526a66807e61dbca089fcbc1a4a57ce3a330e26edaed8a0857ee2a59317651"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/02_cherry_valley.jpg"
+hash = "0b0edbbaeea229285d3a9d8417c831f602883bfd9b2375a1e0b3accc838c4655"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/03_desert_oasis.jpg"
+hash = "14511a25152448b2ff5b7ce7c9abc33184555671564ff9bacfe5f3f76ddb7e3b"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/04_frozen_kingdom.jpg"
+hash = "bb575ca628bbd12077734cb9e18af374e0f9fefbdd9ac3e4dfb0ca186ed46cfe"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/05_nether_fortress.jpg"
+hash = "8b3aa2bfaf249411d6d66130b66457c0c4a787d37b583466e3a2d6987bd47f16"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/images/06_deep_dark.jpg"
+hash = "eb4f3eadb37a8fd62a15250f5123c67ed858ba4c937c4511afbc67768af8fa00"
+
+[[files]]
+file = "config/fancymenu/slideshows/atbm_halloween/properties.txt"
+hash = "02cb1b19514cd68d3ceec8324d59fbcc17563ffdfe88c5ebe3538f9ce184f858"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -2673,6 +2721,10 @@ hash = "362295d0b19170f8c0ba3041acf12752153d7c8910f76043afef948987c538de"
 [[files]]
 file = "config/ftbquests/quests/chapters/generators.json5"
 hash = "0b8f1a3ad6abd3b97aa2d7f6b78c64620316d2b2e00151cc15e3097f2ed35aa1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/halloween_2026.json5"
+hash = "c69a3860ca010a686879e5bd62c3b000a734772a26ea1b5b4d21ae7dd92a8458"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hostile_neural_networks.json5"
@@ -5595,6 +5647,10 @@ file = "config/highlighter.toml"
 hash = "8fe25a06991fb387c08663b895898691e0bdbadf4139f6d81748a20372ff32c8"
 
 [[files]]
+file = "config/hollowsteve.json"
+hash = "e3641172bff15623f577af7dd9cdee8b649aa5cd1ac7720edfd2602bb80a5685"
+
+[[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
@@ -5648,7 +5704,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a1a373c3d06762040e937fc3a1f004ad5e14008d24526494957dd85ccedc9ed9"
+hash = "f2186a081f2d287fce1fddcbd73c72044f5499fdd2e9d7b042dcac2f2670464e"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -5796,7 +5852,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "77a5bb37c9e572349d884182148b298ddd574cc26d623935cd503baf201f9b3f"
+hash = "1bdd6dac048db34bf4b1f332cd9d815a33cbffc189c9e8f85e9d94e7beebd1eb"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -5987,6 +6043,10 @@ file = "config/moonlight-common.toml"
 hash = "f6fcfcb4e6af2a761f1868fc3519fc8418f94b497e3bae20f0dce60d528b7fb7"
 
 [[files]]
+file = "config/more_darkness.json"
+hash = "1cb1314ead7316709ecd0ff28da97937628050a3e0de8d7f0b0738ea0013443b"
+
+[[files]]
 file = "config/moredragoneggs-server.toml"
 hash = "71e75da590def131ef484d184195a9b84f6879557117e5204fec4fa43f4290c4"
 
@@ -6160,7 +6220,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8db351d243073defe38678b9b6f1a9b0ae7c7bc5fa5f2e5690ec58fa4ef60b9b"
+hash = "fe687968c4c8e231082c7e208a5c4bc3efa32c268782cfd4150f51fa2f4ab82c"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -6176,7 +6236,7 @@ hash = "8eca4858bcf929a62a891674f932a23eaa35638666cf19c031e2176332f07e2f"
 
 [[files]]
 file = "config/paladins/summoned_entities.json"
-hash = "f37c79642eac66a62c35c53c6b134f2c095a3b7bdccb9ef57abcae74e1b2389e"
+hash = "9462b9ea5e54ec02b1b2c27aca64f99c26b2e830bbd4bb44c1420a7091b7ad3f"
 
 [[files]]
 file = "config/paladins/tweaks.json"
@@ -6399,6 +6459,10 @@ file = "config/selling_bin-server.toml"
 hash = "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
 
 [[files]]
+file = "config/serversidehorror.json"
+hash = "c4d64f1266fdd03235857c2dcc745751454185e16b3d1f8dfa62467b606cd036"
+
+[[files]]
 file = "config/sfm-client-program-editor.toml"
 hash = "833e77df6264c4536117e22e212252470f11234e5f681452fb758de0c123635c"
 
@@ -6524,7 +6588,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "052561280671d50994a2680cedb68c601e7b25543369c599ccc2f852ddfefe88"
+hash = "e9f7eb2e861270a25f32012728f126cb5024f345ddab6cdd845e1b7f43d6e63f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6573,6 +6637,10 @@ hash = "9962841ccc06487c97ec1d4bdac6a505fcbece925c978ff9b4e866f2ad6bab8d"
 [[files]]
 file = "config/spell_power/attributes.json"
 hash = "d9dac360395eece6921915a07db4743ed9cbfc0f4bb747c780b6484c2299b04e"
+
+[[files]]
+file = "config/splatter-client.toml"
+hash = "27dcf34a5988788914e91bfc945c8c1f42f0b61a77d7447d5fab1e58268146b5"
 
 [[files]]
 file = "config/springlotus.yaml"
@@ -6751,6 +6819,18 @@ file = "config/trophymanager-server.toml"
 hash = "245d2a34886dc7d957e2f0b3a9d203bc57af384cd69aef1b331eea7ccf70facc"
 
 [[files]]
+file = "config/undeadnights-server.toml"
+hash = "f928868e24ab9e71d5f70e1026ae9a3b6da8816f063ac402678f706b3abb4a5d"
+
+[[files]]
+file = "config/undeadnights_difficulty_config.json"
+hash = "c3042404166ae50f9357b3b0f42869906dcc2193c80b99d3536f51a1dae179dc"
+
+[[files]]
+file = "config/undeadnights_horde_mobs_config.json"
+hash = "1239bd3f4c4f94fe873a07b19c95a114d02e47b1d401cf47734ea50557cebb7c"
+
+[[files]]
 file = "config/undergarden-client.toml"
 hash = "19b4cb4a0cd4de957dd0753ad734b05becb186767dbd76167cc4aee42d91a1c6"
 
@@ -6861,7 +6941,7 @@ hash = "ecca3e91dd3eba89a4e02f29bfd9f4cef13a1bb3761e2a09e3c4756c3ded3139"
 
 [[files]]
 file = "config/wizards/summoned_entities.json"
-hash = "964e40b8f2546da2cd21d4b0c3e4655d90b94cc48abf18f916b630978cab95c6"
+hash = "177d6e60c92f76f62806a5bbde167f2ac6a0eb752cbee91adecbca6fb97489c2"
 
 [[files]]
 file = "config/wizards/tweaks.json"
@@ -14410,6 +14490,11 @@ hash = "f1f3b325e449451697ae9ffcbb0fd6e0d302c76be949aae69c992f66d6a2fb76"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog-forge-fabric-26.1-26.1.2-v1.11.3.pw.toml"
+hash = "09d8c16bd32f79789e589e1dd148f5e6596fc8ac1e948513960aef08db46000d"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-neoforge-26.1.2.8.pw.toml"
 hash = "d571f341066cd5a79ee2dbe27c821b4ad7c5599eaac31059226c976e1bd5a07c"
 metafile = true
@@ -14547,6 +14632,11 @@ metafile = true
 [[files]]
 file = "mods/hobbit_hill_village-0.0.4.pw.toml"
 hash = "2082ff4a3163f90d9356ee5a9a873c4a917c89ea82a0a7e1fbb13a43fa4e2731"
+metafile = true
+
+[[files]]
+file = "mods/hollowsteve-2.0.0-neoforge+mc26.1.2.pw.toml"
+hash = "3f8d0294883f507b7f40cb027d5e9274b75e0c861c7def9f92be6f3f7d58e66b"
 metafile = true
 
 [[files]]
@@ -15005,6 +15095,11 @@ hash = "0d22cf896825a5076fddf08032f4b3f78fc7a35ca7b2dd1375bf39ad89ae1144"
 metafile = true
 
 [[files]]
+file = "mods/more_darkness-neoforge-26.1.2-2.0.0+26.1.2.pw.toml"
+hash = "30a6451d26e22235665df414c973f3abdde2dc2227cdfcb8d86ad251aac58033"
+metafile = true
+
+[[files]]
 file = "mods/moredragoneggs-6.0.pw.toml"
 hash = "07db3f3a29f93e9e23b748e0bdced544e71f5e94139eb7f2a0cd14051050674b"
 metafile = true
@@ -15370,8 +15465,18 @@ hash = "889c5575aff8a103e1dbbf5e7eec56718affd9b4f9e564b0807f043fd934ac1a"
 metafile = true
 
 [[files]]
+file = "mods/schizo-cave-dweller-1.6.4-neoforge-26.1.2.pw.toml"
+hash = "0299d5c8fc316f8046d34344370853cd41ea52a8b82379dfa7f19f63e31c620c"
+metafile = true
+
+[[files]]
 file = "mods/searchables-neoforge-26.1.2-1.0.2.pw.toml"
 hash = "6c88191f6fd85a532645982c56ebe71ad36b4ac4948da7b8d952a10bcc885b4e"
+metafile = true
+
+[[files]]
+file = "mods/serversidehorror-26.1.2-neoforge-4.2.pw.toml"
+hash = "ed996130e664ab44e0109aa088dde6a58040f328c204cf9ff7366a20ba1c93db"
 metafile = true
 
 [[files]]
@@ -15497,6 +15602,11 @@ metafile = true
 [[files]]
 file = "mods/spideroverhaul-0.0.6-neoforge-v26.1.pw.toml"
 hash = "46fb83082cb7513792c71d52fb220d14d15e029c1fb446955cf0c96a2e4440c1"
+metafile = true
+
+[[files]]
+file = "mods/splatter-26.1.2-0.3.1-neoforge.pw.toml"
+hash = "b0bdba2cf38cbfafa231994feb86a5f72b2f7f88dcf8100814374f47a4aa2d0c"
 metafile = true
 
 [[files]]
@@ -15637,6 +15747,11 @@ metafile = true
 [[files]]
 file = "mods/trophymanager-26.1.2-3.0.0.pw.toml"
 hash = "daab8b2f13fd3a9fbfe3152d0dd8a3d2c04928c9c93523aced65797928eb381c"
+metafile = true
+
+[[files]]
+file = "mods/undeadnights-2.2.5-neoforge-mc26.1.pw.toml"
+hash = "daef6e9a89b96f86461f42d12986f05d7608b4b285defeccfe66834b83d1c1b2"
 metafile = true
 
 [[files]]

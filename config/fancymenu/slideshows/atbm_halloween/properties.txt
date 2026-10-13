@@ -1,0 +1,10 @@
+type = slideshow
+
+slideshow-meta {
+  name = atbm_halloween
+  duration = 18
+  fadespeed = 1.6
+  randomize = true
+  width = 1920
+  height = 1080
+}

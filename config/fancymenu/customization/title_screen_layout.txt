@@ -47,7 +47,7 @@ menu_background {
 menu_background {
   instance_identifier = 873d951f-154c-4afc-acd6-8337440e5aa3-1782179073959
   background_type = slideshow
-  slideshow_name = atbm_backgrounds
+  slideshow_name = atbm_halloween
   show_background = true
 }
 
@@ -670,18 +670,18 @@ element {
   sticky_anchor = false
   anchor_point = bottom-left
   x = 2
-  y = -44
+  y = -54
   width = 220
-  height = 42
+  height = 52
   stay_on_screen = true
   enable_parallax = false
   load_once_per_session = false
   base_opacity = 1.0
-  source = All The Better Mooks v3.2.7%n%{"placeholder":"loadedmods"} Mods Loaded%n%NeoForge 26.1.2.109%n%Minecraft 26.1.2
+  source = All The Better Mooks v3.3.0%n%HALLOWEEN SEASON - something is out there%n%{"placeholder":"loadedmods"} Mods Loaded%n%NeoForge 26.1.2.109%n%Minecraft 26.1.2
   source_mode = direct
   shadow = true
   scale = 1.0
-  base_color = #FFFFFF
+  base_color = #FF9A3C
   line_spacing = 1
   text_border = 0
   enable_scrolling = false

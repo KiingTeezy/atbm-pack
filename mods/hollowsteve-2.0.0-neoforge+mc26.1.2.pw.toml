@@ -1,0 +1,13 @@
+name = "Hollow Steve [HORROR]"
+filename = "HollowSteve-2.0.0-NeoForge+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rfgvBkts/versions/EwIorXKO/HollowSteve-2.0.0-NeoForge%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "d8a3249b242713fb0752797ad221c4169d8223edc29786cf7eb25564d2153a3d19caa0d4c7417f8daa12f0805a97691b4d4c87a86a4efe72703534af26be38dc"
+
+[update]
+[update.modrinth]
+mod-id = "rfgvBkts"
+version = "EwIorXKO"

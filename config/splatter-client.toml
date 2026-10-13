@@ -1,0 +1,124 @@
+[general]
+	#Extra entities that never bleed, on top of the #splatter:bloodless entity tag. The tag is the better place for this when you can edit a datapack; use the list for mobs you just want silenced on your own client.
+	bloodless_entities = []
+	#This is a list. Add more entries with syntax [[...]]
+	#Blocks that stop a spray with the shape you'd walk into rather than with their texture, written as block ids or #block_tags. Blood is normally blocked by a block's opaque texels, which sends a spray straight through a window: glass has its faces, but every texel bar the frame is see-through, so nothing stops the ray. List a block here and its collision shape does the blocking instead, and blood covers it rather than only catching on the odd opaque texel.
+	collision_occluders = ["#minecraft:impermeable", "#c:glass_panes"]
+	#Scales how big a mob reads when its blood picks a size tier, so this is the one dial for how much blood everything bleeds. A mob's size is measured as the cube root of its hitbox volume, meaning bulk counts and not just height: at 1 a chicken measures 0.48, a player 0.87, a cow 1.13 and a ravager 2.03. Above 1 pushes every mob up the tiers (at 2 a player pools like a ravager), below 1 pushes them all down.
+	# Default: 1.0
+	# Range: 0.25 ~ 4.0
+	body_size_scale = 1.0
+	#Draws a wireframe marker at every spray source: the projection's start cross-section and the direction it was cast along. Debug aid for tuning splatter shape.
+	debug_projection = false
+
+[rendering]
+	#Shape of the projector volume a stain is cast through. Cylinder keeps the splatter the same size on every surface it touches, cone makes it grow with distance like a real spray.
+	#Allowed Values: CYLINDER, CONE
+	projection_mode = "CYLINDER"
+	#Subdivide decal geometry so the texture follows curved and angled surfaces instead of stretching across them. Costs a little performance.
+	uv_tessellation = false
+	#How finely tessellated decals are subdivided. Higher looks better on oblique faces and costs more.
+	# Default: 4
+	# Range: 2 ~ 8
+	uv_tess_level = 4
+	#Snaps decal pixels onto the world block grid so blood reads as chunky, axis aligned pixels like a vanilla texture instead of smearing along surfaces the spray hit at an angle. Has no effect while a shaderpack is overriding our shader.
+	grid_snap = true
+	#Pixels per block the snap grid uses. 16 matches vanilla block texture resolution; higher keeps more of the splat's detail but snaps less visibly.
+	# Default: 16
+	# Range: 4 ~ 64
+	grid_snap_resolution = 16
+	#Speed, in blocks per tick, at which a stain appears outward from the spray source, so fragments show up in the order their droplets would have landed. 0 shows the whole stain at once.
+	# Default: 0.550000011920929
+	# Range: 0.0 ~ 4.0
+	blood_reveal_speed = 0.550000011920929
+	#How often, in ticks, a stain resamples the light it sits in. Block light only ever changes on a tick, so 1 is already exact and costs nothing extra to keep. Raising it trades accuracy for speed when a lot of stains are on screen: a stain can then lag behind a torch being placed or a door opening by up to this many ticks.
+	# Default: 1
+	# Range: 1 ~ 40
+	relight_interval_ticks = 1
+
+[fade]
+	#Ticks a stain stays at full opacity before it starts fading.
+	# Default: 200
+	# Range: 0 ~ 72000
+	grace_ticks = 200
+	#Ticks over which a stain fades out once the grace period is over. 0 makes stains disappear instantly instead of fading.
+	# Default: 40
+	# Range: 0 ~ 72000
+	duration_ticks = 40
+
+[runoff]
+	#How blood runs down a vertical face. Off disables it, stretch anchors the top edge and elongates the stain, slide moves the whole stain down, no stretch only dries the top without moving anything.
+	#Allowed Values: OFF, STRETCH, SLIDE, NO_STRETCH
+	mode = "OFF"
+	#How far, in blocks per tick, blood runs down a fully vertical face.
+	# Default: 3.9999998989515007E-4
+	# Range: 0.0 ~ 0.0010000000474974513
+	speed = 3.9999998989515007E-4
+	#Faces flatter than this never run. 0 means only perfectly vertical faces run, 1 means even floors do.
+	# Default: 0.6499999761581421
+	# Range: 0.0 ~ 1.0
+	max_tilt = 0.6499999761581421
+
+[ceiling_drip]
+	#Blood pooled on a ceiling drips down onto whatever is below it.
+	enabled = true
+	#Ticks between drip attempts for each stain.
+	# Default: 20
+	# Range: 1 ~ 1200
+	interval_ticks = 20
+	#Chance that a given attempt actually spawns a drip.
+	# Default: 0.3499999940395355
+	# Range: 0.0 ~ 1.0
+	chance = 0.3499999940395355
+	#How steeply a face must point downward to count as a ceiling. 1 accepts only perfectly flat ceilings.
+	# Default: 0.75
+	# Range: 0.5 ~ 1.0
+	min_normal_y = 0.75
+	#Fraction of a stain that must sit on ceiling faces before it can drip at all.
+	# Default: 0.550000011920929
+	# Range: 0.0 ~ 1.0
+	min_ceiling_coverage = 0.550000011920929
+	#What a drip leaves where it lands. On casts a small floor stain that blends with existing blood, off spawns a flat splotch particle.
+	land_decal = true
+
+[flecks]
+	#Base number of blood flecks a hit throws. The blow's damage scales this up, to at most three times as many, and every spray is jittered around that so no two hits throw the exact same amount. 0 turns flecks off.
+	# Default: 14
+	# Range: 0 ~ 64
+	count = 14
+	#How far apart, in blocks, flecks start from each other around the wound. 0 fires them all from one exact point, which reads as a single point emitter on dense sprays.
+	# Default: 0.09000000357627869
+	# Range: 0.0 ~ 0.5
+	start_spread = 0.09000000357627869
+	#Launch speed of a fleck, in blocks per tick, randomized per droplet either side of this. Worth keeping near blood_reveal_speed so droplets arrive along with the stain they painted.
+	# Default: 0.46000000834465027
+	# Range: 0.0 ~ 2.0
+	start_speed = 0.46000000834465027
+
+[gibs]
+	#Dying mobs burst into chunks of meat that tumble, bounce off the world and leave little stains where they slap the floor.
+	enabled = true
+	#Base number of chunks a death throws. Bigger bodies throw up to three times this, smaller ones down to half.
+	# Default: 6
+	# Range: 0 ~ 48
+	count = 6
+	#Launch speed of a chunk, in blocks per tick, randomized per chunk. Also decides how far from the body chunks land.
+	# Default: 0.30000001192092896
+	# Range: 0.0 ~ 2.0
+	start_speed = 0.30000001192092896
+
+[entity_overlay]
+	#Blood is painted directly onto a wounded mob's skin, not just onto the world around it.
+	enabled = true
+	#How bloody a single hit makes a mob, before the damage bonus below.
+	# Default: 0.4000000059604645
+	# Range: 0.0 ~ 1.0
+	intensity_per_hit = 0.4000000059604645
+	#Extra bloodiness per point of damage, up to 20 damage, so harder blows leave more behind.
+	# Default: 0.03999999910593033
+	# Range: 0.0 ~ 1.0
+	intensity_per_damage = 0.03999999910593033
+	#Ticks a fully bloodied mob takes to come clean. Mobs that keep getting hit stay bloody.
+	# Default: 240
+	# Range: 20 ~ 12000
+	linger_ticks = 240

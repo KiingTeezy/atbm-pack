@@ -1,0 +1,22 @@
+{
+	"letter/base": {
+		"letter": {
+			"base": true
+		}
+	},
+	"mossy_pyramid/base": {
+		"mossy_pyramid": {
+			"base": true
+		}
+	},
+	"sand_pyramid/base": {
+		"sand_pyramid": {
+			"base": true
+		}
+	},
+	"wooden_cross/base": {
+		"wooden_cross": {
+			"base": true
+		}
+	}
+}

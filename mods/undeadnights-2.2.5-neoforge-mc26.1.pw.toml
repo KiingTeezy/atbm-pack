@@ -1,0 +1,13 @@
+name = "Undead Nights - Zombie Horde Nights / Hordes"
+filename = "UndeadNights-2.2.5-NeoForge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g0mmcQV2/versions/a0Lh4LC0/UndeadNights-2.2.5-NeoForge-mc26.1.jar"
+hash-format = "sha512"
+hash = "981b61c74042955e2b090988410df3b466b0535cbfa409bb31799f8cdda4436ab93ad71b114a5bf3e83938bfec75ff5730ce692c0deceef2282b0fa5b5abe092"
+
+[update]
+[update.modrinth]
+mod-id = "g0mmcQV2"
+version = "a0Lh4LC0"

@@ -348,6 +348,13 @@
     "version": "11.4.0",
     "modrinthHash": "92402555bba5423cd96aaf23262e320c00d8b845"
   },
+  "From-The-Fog-Forge-Fabric-26.1-26.1.2-v1.11.3.jar": {
+    "jarName": "From-The-Fog-Forge-Fabric-26.1-26.1.2-v1.11.3.jar",
+    "modId": "watching",
+    "name": "From The Fog",
+    "version": "1.11.3",
+    "modrinthHash": "cf72afb63044f659249f05d0303bb3423432065a"
+  },
   "GatewaysToEternity-26.1.2-6.0.2.jar": {
     "jarName": "GatewaysToEternity-26.1.2-6.0.2.jar",
     "modId": "gateways",
@@ -396,6 +403,13 @@
     "name": "Highlighter",
     "version": "1.2.1",
     "modrinthHash": "706e90f6a9be49edacd8806280a9a17c816f6307"
+  },
+  "HollowSteve-2.0.0-NeoForge+mc26.1.2.jar": {
+    "jarName": "HollowSteve-2.0.0-NeoForge+mc26.1.2.jar",
+    "modId": "hollowsteve",
+    "name": "Hollow Steve",
+    "version": "2.0.0",
+    "modrinthHash": "1bf9361c558a561100866d60e24e4bb905cd9a2b"
   },
   "Iceberg-26.1.2-neoforge-1.4.1.1.jar": {
     "jarName": "Iceberg-26.1.2-neoforge-1.4.1.1.jar",
@@ -802,6 +816,13 @@
     "name": "Trading Post",
     "version": "26.1.0",
     "modrinthHash": "1da0fa5f8a28120c16d4b8f524333a593027b506"
+  },
+  "UndeadNights-2.2.5-NeoForge-mc26.1.jar": {
+    "jarName": "UndeadNights-2.2.5-NeoForge-mc26.1.jar",
+    "modId": "undeadnights",
+    "name": "UndeadNights",
+    "version": "2.2.5-NeoForge-mc26.1",
+    "modrinthHash": "a21a257b8ef8ae5e33bd9f1cf2c4eb76214ba402"
   },
   "UndergroundVillages-neoforge-26.1.2-11.0.0.jar": {
     "jarName": "UndergroundVillages-neoforge-26.1.2-11.0.0.jar",
@@ -2287,6 +2308,13 @@
     "version": "26.1.2-4.0.7",
     "modrinthHash": "26dee76b513d3fb5fae99bf946a2be50045d72df"
   },
+  "more_darkness-neoforge-26.1.2-2.0.0+26.1.2.jar": {
+    "jarName": "more_darkness-neoforge-26.1.2-2.0.0+26.1.2.jar",
+    "modId": "more_darkness",
+    "name": "More Darkness",
+    "version": "2.0.0+26.1.2",
+    "modrinthHash": "d4e401bac6110e1f3d00d341ab8feba9a6535119"
+  },
   "moredragoneggs-6.0.jar": {
     "jarName": "moredragoneggs-6.0.jar",
     "modId": "moredragoneggs",
@@ -2637,6 +2665,20 @@
     "version": "26.1.2-1.9.1",
     "modrinthHash": "59e68fce93afeaa13c3e48144a280c66da0c95a2"
   },
+  "schizo-cave-dweller-1.6.4-neoforge-26.1.2.jar": {
+    "jarName": "schizo-cave-dweller-1.6.4-neoforge-26.1.2.jar",
+    "modId": "cave_dweller",
+    "name": "Cave Dweller",
+    "version": "1.6.4-neoforge-26.1.2",
+    "modrinthHash": "ff8dc15b1b448269516d7ecf69a58f9bb3eafdcc"
+  },
+  "serversidehorror-26.1.2-neoforge-4.2.jar": {
+    "jarName": "serversidehorror-26.1.2-neoforge-4.2.jar",
+    "modId": "serversidehorror",
+    "name": "Server-Side Horror",
+    "version": "4.2",
+    "modrinthHash": "d47b1163daf190b14fe894eba5ef9f1023a6546d"
+  },
   "sgearmetalworks-26.1.2-1.6.0.jar": {
     "jarName": "sgearmetalworks-26.1.2-1.6.0.jar",
     "modId": "sgearmetalworks",
@@ -2783,6 +2825,13 @@
     "name": "Spell Power Attribute",
     "version": "1.6.2",
     "modrinthHash": "1513238d4e3e9da6fc1e86f52705cdb3537ac002"
+  },
+  "splatter-26.1.2-0.3.1-neoforge.jar": {
+    "jarName": "splatter-26.1.2-0.3.1-neoforge.jar",
+    "modId": "splatter",
+    "name": "Splatter",
+    "version": "26.1.2-0.3.1",
+    "modrinthHash": "48c0c683be73c6428e08841219b7061e7b0a4cf2"
   },
   "springlotus-neoforge-1.2.2+26.1.2.jar": {
     "jarName": "springlotus-neoforge-1.2.2+26.1.2.jar",

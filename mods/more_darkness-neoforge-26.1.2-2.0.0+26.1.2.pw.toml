@@ -1,0 +1,13 @@
+name = "More Darkness"
+filename = "more_darkness-neoforge-26.1.2-2.0.0+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ghnOnAJe/versions/t3YDEjr2/more_darkness-neoforge-26.1.2-2.0.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "e99b8659baede587a9055381ff198b5103a1db7524b9e7d619e6aefca8ead2a22a352ae4ff66e9f989b4f722866f5292656de779debbee9b93178ee686a6ea75"
+
+[update]
+[update.modrinth]
+mod-id = "ghnOnAJe"
+version = "t3YDEjr2"

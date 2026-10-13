@@ -1,0 +1,13 @@
+name = "Schizo Cave Dweller"
+filename = "schizo-cave-dweller-1.6.4-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aidFhK1D/versions/j9i9oywa/Schizo%20Cave%20Dweller%2026.1.2%20neoforge.jar"
+hash-format = "sha512"
+hash = "fcf9fa01acec250df40316a2bf40a4d52cc5f3d18224d6a2048c5544aea776011b4edd0911c0690aef910105a46b673919168058aa68ec28e5a1074ac6206e70"
+
+[update]
+[update.modrinth]
+mod-id = "aidFhK1D"
+version = "j9i9oywa"

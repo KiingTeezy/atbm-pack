@@ -1,0 +1,13 @@
+name = "Server-Side Horror"
+filename = "serversidehorror-26.1.2-neoforge-4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJ4U0qmn/versions/Kf4LrjIP/serversidehorror-26.1.2-neoforge-4.2.jar"
+hash-format = "sha512"
+hash = "11d463f5adf1dba0479677855498a255972e3fa3eaaaade37e8dbf9904951278521c48ddbb04317861151d5661a6e81a7ddcca54e5eabe0c0793ed3758debdbd"
+
+[update]
+[update.modrinth]
+mod-id = "RJ4U0qmn"
+version = "Kf4LrjIP"

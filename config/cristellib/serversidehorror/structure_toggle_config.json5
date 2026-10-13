@@ -1,0 +1,24 @@
+{
+  "traps": {
+    "traps": {
+      "trap_1": false,
+      "trap_10": false,
+      "trap_11": false,
+      "trap_12": false,
+      "trap_13": false,
+      "trap_14": false,
+      "trap_15": false,
+      "trap_2": false,
+      "trap_3": false,
+      "trap_4": false,
+      "trap_5": false,
+      "trap_6": false,
+      "trap_7": false,
+      "trap_8": false,
+      "trap_9": false
+    }
+  },
+  "villages_old": {
+    "village_old_plains": true
+  }
+}

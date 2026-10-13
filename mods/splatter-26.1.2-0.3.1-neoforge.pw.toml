@@ -1,0 +1,13 @@
+name = "Immersive Blood Splatters"
+filename = "splatter-26.1.2-0.3.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M93DtNU5/versions/8Npm8FA0/splatter-26.1.2-0.3.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fed96dbd0ec2990779d96780c39da3fcc8c6a9f296cbfa1ffcfbb7cd19a62843c72bda398509d3fa34a5e2c450f26786936cffa407a86607144d05c777aa2f93"
+
+[update]
+[update.modrinth]
+mod-id = "M93DtNU5"
+version = "8Npm8FA0"

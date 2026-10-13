@@ -1,0 +1,382 @@
+{
+  id: "3DEFD3CF4E4665D2",
+  group: "5A4775CCD6D26C80",
+  order_index: 0,
+  icon: {
+    id: "mcwholidays:lit_evil_pumpkin",
+    count: 1,
+  },
+  filename: "halloween_2026",
+  title: "&6Halloween 2026&r",
+  subtitle: ["Seasonal. Gone on November 1st."],
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  progression_mode: "flexible",
+  quests: [
+    {
+      icon: {
+        id: "mcwholidays:lit_evil_pumpkin",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      size: 2.0,
+      title: "Season of the Witch",
+      subtitle: "Something changed when October came.",
+      description: [
+        "The nights are longer now, and darker than they have any right to be.",
+        "Nothing has happened yet. &7Yet.&r",
+        "&8Everything added for October is gone again on November 1st. Build with Macaw's Holidays if you want it to last.&r",
+      ],
+      id: "BBDC79EFC388D17B",
+      tasks: [
+        {
+          id: "C2309A74DF6407F7",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "FCB4FC74C396AF32",
+          type: "item",
+          item: {
+            id: "mcwholidays:lit_evil_pumpkin",
+            count: 8,
+          },
+        },
+        {
+          id: "085AE8C69639A735",
+          type: "xp",
+          xp: 100,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "mcwholidays:carved_screaming_pumpkin",
+        count: 1,
+      },
+      x: -3.0,
+      y: 2.0,
+      shape: "rsquare",
+      size: 1.0,
+      title: "Carve Something Horrible",
+      subtitle: "A face for the dark to wear.",
+      description: [
+        "Pumpkins are easy. &6Screaming&r ones take commitment.",
+      ],
+      dependencies: [
+        "BBDC79EFC388D17B",
+      ],
+      id: "12A294BC602AB29C",
+      tasks: [
+        {
+          id: "3A82CEB64541DBCE",
+          type: "item",
+          item: {
+            id: "mcwholidays:carved_screaming_pumpkin",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3A970264143F27CC",
+          type: "item",
+          item: {
+            id: "mcwholidays:ghost",
+            count: 4,
+          },
+        },
+        {
+          id: "799DB6559031FB3E",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "mcwholidays:gravestone",
+        count: 1,
+      },
+      x: 0.0,
+      y: 2.0,
+      shape: "rsquare",
+      size: 1.0,
+      title: "Hallowed Ground",
+      subtitle: "Somewhere to put what is left.",
+      description: [
+        "Every good horror story needs a graveyard.",
+        "Make one before you need it.",
+      ],
+      dependencies: [
+        "BBDC79EFC388D17B",
+      ],
+      id: "0A76589383346BA8",
+      tasks: [
+        {
+          id: "C5DB956E2EC2BFA5",
+          type: "item",
+          item: {
+            id: "mcwholidays:gravestone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "60C4D484F5CE5038",
+          type: "item",
+          item: {
+            id: "mcwholidays:flat_gravestone",
+            count: 4,
+          },
+        },
+        {
+          id: "ABDC9CC7DF83FFA0",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:torch",
+        count: 1,
+      },
+      x: 3.0,
+      y: 2.0,
+      shape: "rsquare",
+      size: 1.0,
+      title: "Keep The Lights On",
+      subtitle: "You will want more than you think.",
+      description: [
+        "Torches have a habit of going out this time of year.",
+        "&7Carry spares.&r",
+      ],
+      dependencies: [
+        "BBDC79EFC388D17B",
+      ],
+      id: "3F42840F356FDC04",
+      tasks: [
+        {
+          id: "CDAF9DF15C1216C8",
+          type: "item",
+          item: {
+            id: "minecraft:torch",
+            count: 1,
+          },
+          count: 64,
+        },
+      ],
+      rewards: [
+        {
+          id: "3D5818959D1F7841",
+          type: "item",
+          item: {
+            id: "minecraft:lantern",
+            count: 8,
+          },
+        },
+        {
+          id: "0ABD5D711B2641B3",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "mcwholidays:chaotic_cobweb",
+        count: 1,
+      },
+      x: -3.0,
+      y: 4.0,
+      shape: "square",
+      size: 1.0,
+      title: "Cobwebs and Corners",
+      subtitle: "Nobody has cleaned in a long time.",
+      description: [
+        "Decorate something until it stops looking lived in.",
+      ],
+      dependencies: [
+        "12A294BC602AB29C",
+      ],
+      id: "389EEF2F79D0ED1D",
+      tasks: [
+        {
+          id: "28C9AD966C67DAD3",
+          type: "item",
+          item: {
+            id: "mcwholidays:chaotic_cobweb",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+      rewards: [
+        {
+          id: "6A39A63EA1FB9834",
+          type: "item",
+          item: {
+            id: "mcwholidays:bat_wall_deco_1",
+            count: 4,
+          },
+        },
+        {
+          id: "F928A4687D40B3DA",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:cookie",
+        count: 1,
+      },
+      x: 0.0,
+      y: 4.0,
+      shape: "square",
+      size: 1.0,
+      title: "Trick or Treat",
+      subtitle: "Mostly treat.",
+      description: [
+        "Bake enough to share with twenty people and whatever else shows up.",
+      ],
+      dependencies: [
+        "0A76589383346BA8",
+      ],
+      id: "28959AD6A19E2F62",
+      tasks: [
+        {
+          id: "54E0A04389729C66",
+          type: "item",
+          item: {
+            id: "minecraft:cookie",
+            count: 1,
+          },
+          count: 32,
+        },
+      ],
+      rewards: [
+        {
+          id: "5D178E78747A54BF",
+          type: "item",
+          item: {
+            id: "minecraft:cake",
+            count: 2,
+          },
+        },
+        {
+          id: "5F997A216334579B",
+          type: "item",
+          item: {
+            id: "minecraft:golden_apple",
+            count: 3,
+          },
+        },
+        {
+          id: "650BE66FA60DAD38",
+          type: "xp_levels",
+          xp_levels: 10,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:rotten_flesh",
+        count: 1,
+      },
+      x: 3.0,
+      y: 4.0,
+      shape: "square",
+      size: 1.0,
+      title: "The Dead Walk",
+      subtitle: "Thirty-one of them. One for each night.",
+      description: [
+        "Count them off. You have until the end of the month.",
+      ],
+      dependencies: [
+        "3F42840F356FDC04",
+      ],
+      id: "E969650A1B9F42F3",
+      tasks: [
+        {
+          id: "1DF313D95E29F180",
+          type: "kill",
+          entity: "minecraft:zombie",
+          value: 31,
+        },
+      ],
+      rewards: [
+        {
+          id: "A43B868B8CB7AB96",
+          type: "item",
+          item: {
+            id: "minecraft:golden_apple",
+            count: 3,
+          },
+        },
+        {
+          id: "2F86A3754073967C",
+          type: "xp_levels",
+          xp_levels: 10,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:enchanted_golden_apple",
+        count: 1,
+      },
+      x: 0.0,
+      y: 6.0,
+      shape: "gear",
+      size: 1.5,
+      title: "Survived October",
+      subtitle: "It is November. You are still here.",
+      description: [
+        "Whatever was out there is gone now.",
+        "&8Or it moved on. Hard to say.&r",
+      ],
+      dependencies: [
+        "389EEF2F79D0ED1D",
+        "28959AD6A19E2F62",
+        "E969650A1B9F42F3",
+      ],
+      id: "92C0E0D4C718E1F3",
+      tasks: [
+        {
+          id: "6F0C01030B284BB3",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "4995F6C713416DFB",
+          type: "item",
+          item: {
+            id: "minecraft:enchanted_golden_apple",
+            count: 1,
+          },
+        },
+        {
+          id: "CAF3E77060920A33",
+          type: "item",
+          item: {
+            id: "mcwholidays:haunting_ghost",
+            count: 4,
+          },
+        },
+        {
+          id: "9C71E00E1DA339D0",
+          type: "xp_levels",
+          xp_levels: 20,
+        },
+      ],
+    },
+  ],
+}
