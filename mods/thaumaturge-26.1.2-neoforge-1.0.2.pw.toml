@@ -1,0 +1,8 @@
+name = "thaumaturge-26.1.2-NeoForge-1.0.2"
+filename = "thaumaturge-26.1.2-NeoForge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/thaumaturge-26.1.2-NeoForge-1.0.2.jar"
+hash-format = "sha512"
+hash = "7710f18a2959208eafa6e13e0b411c710a4a891cc86d824a8a7545afc18f75ebd49e203b4c800784ecfd6d6ade83a5228e14bdbb9be9fb374e173e1012d3dc4f"

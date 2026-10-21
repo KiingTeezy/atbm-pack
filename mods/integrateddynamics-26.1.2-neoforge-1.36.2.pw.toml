@@ -1,0 +1,8 @@
+name = "integrateddynamics-26.1.2-neoforge-1.36.2"
+filename = "integrateddynamics-26.1.2-neoforge-1.36.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/integrateddynamics-26.1.2-neoforge-1.36.2.jar"
+hash-format = "sha512"
+hash = "8fc1938217f5f82be0af97ab631b0022cd4341ca604b1f8e6ea2172d2c331de55939d53ae05e5b5bec6ef4231277c2e7a33aacef70556a1ef64106a831b41b6a"

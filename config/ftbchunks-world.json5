@@ -25,7 +25,7 @@
    * If 'disable_protection' is set to true, this setting is ignored.
    * Default: false
    */
-  fire_spread_protection: false,
+  fire_spread_protection: true,
   /*
    * If true, fluids are prevented from flowing horizontally across claims owned by different teams
    * (unless the target claim has public 'edit block' permissions defined).
@@ -34,7 +34,7 @@
    * If 'disable_protection' is set to true, this setting is ignored.
    * Default: false
    */
-  flowing_fluid_protection: false,
+  flowing_fluid_protection: true,
   /*
    * Minimap for clients connecting to this server will be disabled
    * Default: false
@@ -80,7 +80,7 @@
    * Default: "always"
    * Valid values: "always", "never", "per_team"
    */
-  pvp_mode: "always",
+  pvp_mode: "per_team",
   /*
    * If true, the player must have the 'ftbchunks_mapping' Game stage to be able to use the map and minimap.
    * Requires KubeJS and/or Gamestages to be installed.
@@ -110,14 +110,14 @@
      * You can override this with FTB Ranks 'ftbchunks.max_claimed' permission
      * Default: 500 | Range: -∞ ~ +∞
      */
-    max_claimed_chunks: 500,
+    max_claimed_chunks: 150,
     /*
      * Maximum time (in real-world days) where if no player in a team logs in, the team automatically loses their claims.
      * Prevents chunks being claimed indefinitely by teams who no longer play.
      * Default of 0 means no automatic loss of claims.
      * Default: 0.0 | Range: 0.0 ~ 3650.0
      */
-    max_idle_days_before_unclaim: 0.0,
+    max_idle_days_before_unclaim: 45.0,
     /*
      * Method by which party claim & force-load limits are calculated.
      * LARGEST: use the limits of the member with the largest limits
@@ -170,14 +170,14 @@
      * You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
      * Default: 25 | Range: -∞ ~ +∞
      */
-    max_force_loaded_chunks: 25,
+    max_force_loaded_chunks: 16,
     /*
      * Maximum time (in real-world days) where if no player in a team logs in, any forceloaded chunks owned by the team are no longer forceloaded.
      * Prevents chunks being forceloaded indefinitely by teams who no longer play.
      * Default of 0 means no automatic loss of forceloading.
      * Default: 0.0 | Range: 0.0 ~ 3650.0
      */
-    max_idle_days_before_unforce: 0.0,
+    max_idle_days_before_unforce: 30.0,
   },
   team_prop_defaults: {
     /*
@@ -252,7 +252,7 @@
      * Default PvP setting in claimed chunks
      * Default: true
      */
-    def_pvp: true,
+    def_pvp: false,
   },
   waypoint_sharing: {
     /*

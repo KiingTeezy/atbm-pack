@@ -10,3 +10,7 @@
 	remove_from_sapling_bag = ["productivetrees:*"]
 	#Whether Strainers consume fluid per recipe
 	strainers_consume_fluid = false
+	#Add flowers to the flower bag. Supports: 'minecraft:dandelion' (block), '#minecraft:flowers' (tag), 'minecraft:*' (all blocks from a mod)
+	add_to_flower_bag = [""]
+	#Remove flowers from the flower bag. Supports: 'minecraft:dandelion' (block), '#minecraft:flowers' (tag), 'minecraft:*' (all blocks from a mod)
+	remove_from_flower_bag = ["minecraft:pitcher_plant", "minecraft:wither_rose", "minecraft:torchflower", "minecraft:golden_dandelion", "minecraft:chorus_flower", "minecraft:flowering_azalea_leaves", "minecraft:flowering_azalea", "minecraft:cherry_leaves", "minecraft:mangrove_propagule"]

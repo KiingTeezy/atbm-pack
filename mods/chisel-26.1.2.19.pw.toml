@@ -1,0 +1,13 @@
+name = "Chisel 3"
+filename = "chisel-26.1.2.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOQwOWlB/versions/An1NpbzI/chisel-26.1.2.19.jar"
+hash-format = "sha512"
+hash = "c617f6a1b17243dbce53269690eaab26f84a4cf8e133a89e40ad84a5206d5bdb6fab9627da4b2339a89ccca97762c19ffe79cd45112fdbc646d12869c31a405c"
+
+[update]
+[update.modrinth]
+mod-id = "GOQwOWlB"
+version = "An1NpbzI"

@@ -4,6 +4,14 @@
 	# Default: 10
 	# Range: 1 ~ 64
 	"Distributor Range" = 10
+	#The most machines a single distributor will share resources between. If more are in range, the closest ones are used.
+	# Default: 64
+	# Range: 1 ~ 1024
+	"Distributor Max Machines" = 64
+	#How often, in ticks, a distributor looks again for the machines around it. A new machine can take up to this long to start receiving.
+	# Default: 100
+	# Range: 1 ~ 1200
+	"Distributor Refresh Ticks" = 100
 
 	#Routers Config
 	[Distributor."RF Upgrades"]
@@ -23,6 +31,50 @@
 		# Default: 128000
 		# Range: > 1
 		"RF Per Operation 4" = 128000
+		#The maximum RF per tick that tier 5 can provide.
+		# Default: 250000000
+		# Range: > 1
+		"RF Per Operation 5" = 250000000
+		#The most essentia per operation that tier 1 can move (needs Thaumaturge). A jar holds 250.
+		# Default: 4
+		# Range: > 1
+		"Essentia Per Operation 1" = 4
+		#The most essentia per operation that tier 2 can move (needs Thaumaturge).
+		# Default: 8
+		# Range: > 1
+		"Essentia Per Operation 2" = 8
+		#The most essentia per operation that tier 3 can move (needs Thaumaturge).
+		# Default: 16
+		# Range: > 1
+		"Essentia Per Operation 3" = 16
+		#The most essentia per operation that tier 4 can move (needs Thaumaturge).
+		# Default: 32
+		# Range: > 1
+		"Essentia Per Operation 4" = 32
+		#The most essentia per operation that tier 5 can move (needs Thaumaturge).
+		# Default: 64
+		# Range: > 1
+		"Essentia Per Operation 5" = 64
+		#The most Rift energy per operation that tier 1 can move (needs BBL Rifts).
+		# Default: 800
+		# Range: > 1
+		"Rift Energy Per Operation 1" = 800
+		#The most Rift energy per operation that tier 2 can move (needs BBL Rifts).
+		# Default: 32000
+		# Range: > 1
+		"Rift Energy Per Operation 2" = 32000
+		#The most Rift energy per operation that tier 3 can move (needs BBL Rifts).
+		# Default: 64000
+		# Range: > 1
+		"Rift Energy Per Operation 3" = 64000
+		#The most Rift energy per operation that tier 4 can move (needs BBL Rifts).
+		# Default: 128000
+		# Range: > 1
+		"Rift Energy Per Operation 4" = 128000
+		#The most Rift energy per operation that tier 5 can move (needs BBL Rifts).
+		# Default: 250000000
+		# Range: > 1
+		"Rift Energy Per Operation 5" = 250000000
 
 	[Distributor."Item Upgrades"]
 		#The maximum items per operation that tier 1 can provide.
@@ -41,6 +93,10 @@
 		# Default: 64
 		# Range: > 1
 		"Items Per Operation 4" = 64
+		#The maximum items per operation that tier 5 can provide.
+		# Default: 25000000
+		# Range: > 1
+		"Items Per Operation 5" = 25000000
 
 	[Distributor."Fluid Upgrades"]
 		#The maximum mb per operation that tier 1 can provide.
@@ -59,6 +115,10 @@
 		# Default: 100000
 		# Range: > 1
 		"Fluid Per Operation 4" = 100000
+		#The maximum mb per operation that tier 5 can provide.
+		# Default: 250000000
+		# Range: > 1
+		"Fluid Per Operation 5" = 250000000
 
 	[Distributor."Chemical Upgrades"]
 		#The maximum mB per operation that tier 1 can provide.
@@ -117,3 +177,35 @@
 		# Default: 1000
 		# Range: > 1
 		"Source Per Operation 4" = 1000
+
+	[Distributor.Performance]
+		#The maximum number of slots an exporter/importer will scan in a single operation when looking for a match. 
+		#Large storage inventories (hundreds or thousands of slots) get scanned across multiple operations instead of all at once, to keep any single tick cheap. 
+		#Lower this if you have very large storages and are seeing lag from routers connected to them; raise it if you'd rather have routers find matches faster at the cost of a heavier tick.
+		# Default: 256
+		# Range: > 1
+		"Max Inventory Scan Per Operation" = 256
+		#When an exporter/importer finds nothing to move for a resource type (nothing matches, or everything that 
+		#matches gets rejected), it waits at least this many real ticks before checking that type again - regardless of 
+		#speed tier, so a Speed 4 router backing off still gets a meaningful break instead of retrying almost immediately. 
+		#This also doubles as the growth step: each consecutive miss adds another one of these, up to Max Backoff Ticks. 
+		#Resets instantly to checking every operation the moment something actually moves. Set to 0 to disable backoff entirely.
+		# Default: 20
+		# Range: > 0
+		"Min Backoff Ticks" = 20
+		#The upper cap on how many ticks a persistently empty/blocked exporter or importer will wait between checks for one resource type.
+		# Default: 400
+		# Range: > 0
+		"Max Backoff Ticks" = 400
+
+	#Router Manager
+	[Distributor."Router Manager"]
+		#Routers within this many blocks of a Router Manager are where its flow chart starts. 
+		#From there it follows every link to chart the whole connected network, even far away or in other dimensions.
+		# Default: 16
+		# Range: 1 ~ 128
+		"Seed Radius" = 16
+		#The most routers a single Router Manager flow chart will include. Larger networks are cut off at this many.
+		# Default: 256
+		# Range: 1 ~ 4096
+		"Max Routers Charted" = 256

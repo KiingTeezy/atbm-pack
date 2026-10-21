@@ -1,21 +1,21 @@
 {
   "traps": {
     "traps": {
-      "trap_1": false,
-      "trap_10": false,
-      "trap_11": false,
-      "trap_12": false,
-      "trap_13": false,
-      "trap_14": false,
-      "trap_15": false,
-      "trap_2": false,
-      "trap_3": false,
-      "trap_4": false,
-      "trap_5": false,
-      "trap_6": false,
-      "trap_7": false,
-      "trap_8": false,
-      "trap_9": false
+      "trap_1": true,
+      "trap_10": true,
+      "trap_11": true,
+      "trap_12": true,
+      "trap_13": true,
+      "trap_14": true,
+      "trap_15": true,
+      "trap_2": true,
+      "trap_3": true,
+      "trap_4": true,
+      "trap_5": true,
+      "trap_6": true,
+      "trap_7": true,
+      "trap_8": true,
+      "trap_9": true
     }
   },
   "villages_old": {

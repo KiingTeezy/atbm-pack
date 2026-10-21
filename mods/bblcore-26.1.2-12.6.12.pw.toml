@@ -1,0 +1,13 @@
+name = "BBL Core"
+filename = "bblcore-26.1.2-12.6.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tfpHINm8/versions/N9uBSYmW/bblcore-26.1.2-12.6.12.jar"
+hash-format = "sha512"
+hash = "814048887f7906cd60ecb7f75f32ec074c8631a4a99d7444bae4e67d9f4b08a17a5dd6ca523b3a9de7fbdf9fd3b32919fcb7994f4a236b91191b7b2a79a6fc00"
+
+[update]
+[update.modrinth]
+mod-id = "tfpHINm8"
+version = "N9uBSYmW"

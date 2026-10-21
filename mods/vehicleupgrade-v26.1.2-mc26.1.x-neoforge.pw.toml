@@ -1,0 +1,13 @@
+name = "Vehicle Upgrade"
+filename = "VehicleUpgrade-v26.1.2-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9B9c6QcJ/versions/HG6Or8Gz/VehicleUpgrade-v26.1.2-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "a11d7c0d874bb951a07d0692755f859fa27b86d5134a2f5a5b17201319a2092f0377a34161e90bc13ec345c65787b8e69d621d9401f4cf82373f0f229cd5f7c9"
+
+[update]
+[update.modrinth]
+mod-id = "9B9c6QcJ"
+version = "HG6Or8Gz"

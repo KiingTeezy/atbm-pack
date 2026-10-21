@@ -464,3 +464,18 @@ key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown:
 key_keybindings.spell_engine.tooltip_details:key.keyboard.unknown:
 key_key.puffish_skills.open:key.keyboard.k:CONTROL
+key_Cycle Attack Type Up:key.keyboard.page.up:
+key_Cycle Attack Type Down:key.keyboard.page.down:
+key_Laser Attack:key.keyboard.0:
+key_key.apotheosis.toggle_attribute_bonuses:key.keyboard.unknown:
+key_key.arsmagicalegacy.spell_customization:key.keyboard.c:CONTROL
+key_key.hostilenetworks.open_deep_learner:key.keyboard.unknown:
+key_key.sky_aesthetics.open_editor:key.keyboard.unknown:
+key_key.stellaris.night_vision:key.keyboard.m:CONTROL
+key_key.thaumaturge.change_focus:key.keyboard.f:CONTROL
+key_key.thaumaturge.misc_toggle:key.keyboard.unknown:
+key_key.thaumaturge.thaumonomicon:key.keyboard.unknown:
+key_key.witchery.edit_hud:key.keyboard.unknown:
+key_key.witchery.toggle_quest_hud:key.keyboard.unknown:
+key_key.witchery.open_ability_selection:key.keyboard.v:CONTROL
+key_key.witchery.utility_button:key.keyboard.g:CONTROL

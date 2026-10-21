@@ -1,4 +1,10 @@
 {
+  "behavior": {
+    "class_affiliation_enabled": true,
+    "class_affiliation_extra_weight": 3.0,
+    "class_affiliation_weight_operation": "MULTIPLY",
+    "class_affiliation_include_team": true
+  },
   "injectors": {
     "minecraft:chests/ruined_portal": {
       "rolls": 2.0,
@@ -6499,8 +6505,10 @@
   },
   "fallback": {
     "rolls_multiplier": 1.0,
+    "max_rolls": 1.0,
     "tables": "~:chests/",
     "blacklist": [],
+    "skip_tables_with_rpg_loot": true,
     "entries": [
       {
         "reference": "#rpg_series:loot_reference/golden_weapons",

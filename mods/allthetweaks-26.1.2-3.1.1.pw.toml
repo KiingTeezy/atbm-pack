@@ -1,0 +1,8 @@
+name = "allthetweaks-26.1.2-3.1.1"
+filename = "allthetweaks-26.1.2-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/allthetweaks-26.1.2-3.1.1.jar"
+hash-format = "sha512"
+hash = "787ffe3bc669dcf990af3b2537e0c64fddbd9bdcfdfa5ad78d42a9645b72364ba217471f994dd19b3b37590af2addef1a5761a0e39211e1103c75266e6be2dd5"

@@ -1,0 +1,14 @@
+[flowGrid]
+	#Allowed Values: ASCENDING, DESCENDING
+	sortingDirection = "DESCENDING"
+	#Allowed Values: NAME, QUANTITY
+	sortingType = "QUANTITY"
+	#Allowed Values: TICK, SECOND, MINUTE, HOUR, DAY
+	granularity = "SECOND"
+	#Allowed Values: BLOCKY, EXACT
+	lineStyle = "EXACT"
+	#Allowed Values: CHANGED, ALL_STORED
+	resourceView = "CHANGED"
+	# Default: 5
+	# Range: 1 ~ 1200
+	minimumRefreshIntervalTicks = 5

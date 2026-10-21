@@ -20,7 +20,12 @@
         // If true, containers that exist outside of the world border will be ignored and not considered for conversion. [default: true]
         "check_world_border": true,
         // If true, features that check structures, such as refresh or decay structure tags, will check each piece of a structure to determine if the container is located in that structure. [default: true]
-        "perform_piecewise_check": true
+        "perform_piecewise_check": true,
+        /*
+         * The default delay between ticks. The higher this value, the slower it is for containers to recognise that they have refreshed or decayed while ticking. A random value from 0 to 20 is added to this by each block entity. [default: 20]
+         * Range: 0 - 2147483647
+         */
+        "tick_delay": 20
     },
     "Restrictions": {
         /*
@@ -53,8 +58,11 @@
          * List Type: String
          */
         "loot_table_modid_blacklist": [],
-        // Use Problematic Loot Tables
-        "use_problematic_loot_tables": true
+        /*
+         * List of loot tables which should be forcefully removed from the blacklist, regardless of whether or not other mods or add-ons add them to the list.
+         * List Type: String
+         */
+        "loot_table_force_whitelist": []
     },
     "Breaking": {
         /*
@@ -74,7 +82,9 @@
         // If true, Lootr's item frames do not break when their supporting blocks are broken. [default: false]
         "item_frames_self_support": false,
         // If true, when a container is broken by a player, the contents of that player's inventory (if not generated, it will be generated) for the container will also be dropped on the ground. [default: false]
-        "should_drop_player_loot": false
+        "should_drop_player_loot": false,
+        // If true, breaking a container will mark it as opened and drop the player's loot, if broken while sneaking. [default: false]
+        "break_to_drop_loot": false
     },
     "Redstone": {
         // If true, comparators will emit a redstone signal. [default: true]
@@ -85,13 +95,6 @@
     "Notifications": {
         // If true, when opening a container with an unresolved loot tables (loot tables that resolve to empty), a message will be sent to the player opening to indicate the issue. [default: true]
         "report_unresolved_tables": true,
-        // If true, notifications related to ticking (such as decay or refresh) will not be sent to players. [default: false]
-        "disable_notifications": false,
-        /*
-         * If the remaining duration of a ticking container (such as one refreshing or decaying) in ticks is more than this value, notifications will not be sent to the player. [default: 30 * 20 (30 seconds), -1 disables the limit and will always send notifications.]
-         * Range: -1 - 2147483647
-         */
-        "maximum_notification_delay": 600,
         // If true, the style and formatting of messages related to ticking (such as decay or refresh) will be removed. [default: false]
         "disable_message_styles": false
     },
@@ -156,5 +159,11 @@
         "start_refresh_while_ticking": false,
         // If true, all containers will refresh after being opened for the first time. [default: false]
         "refresh_all": false
+    },
+    "Team": {
+        // If true, containers will create one inventory for each player's team, rather than for each player [default: false]
+        "team_loot": false,
+        // If blank, this will resolve to `lootr:default`, which will use the highest priority resolver. If you have multiple resolvers installed with the same priority, you can use this to specifically select the one you want to use. [default: blank]
+        "pinned_team_resolver": ""
     }
 }

@@ -1,0 +1,8 @@
+name = "integratedcrafting-26.1.2-neoforge-1.8.0"
+filename = "integratedcrafting-26.1.2-neoforge-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/integratedcrafting-26.1.2-neoforge-1.8.0.jar"
+hash-format = "sha512"
+hash = "fb0f91e091f47eaab146923883420402fce2f3e0b301943b6a5387e7e5cb18713851108356eaa9b56dfdf71db4372d2efa29bfc6d99a8df24d03e07edbc5e958"

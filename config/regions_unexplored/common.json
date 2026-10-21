@@ -178,7 +178,6 @@
         "group": "boreal_taigas"
       },
       "regions_unexplored:chalk_cliffs": {
-        // This biome has special placement rules. It can only be enabled or disabled.
         "special_enabled": true
       },
       "regions_unexplored:clover_plains": {
@@ -367,7 +366,6 @@
         "weight": 60
       },
       "regions_unexplored:inferno": {
-        // This biome has special placement rules. It can only be enabled or disabled.
         "special_enabled": true
       },
       "regions_unexplored:joshua_desert": {
@@ -536,7 +534,6 @@
         "weight": 100
       },
       "regions_unexplored:prismachasm": {
-        // This biome has special placement rules. It can only be enabled or disabled.
         "special_enabled": true
       },
       "regions_unexplored:rainforest": {
@@ -547,7 +544,6 @@
         "group": "jungles"
       },
       "regions_unexplored:redstone_caves": {
-        // This biome has special placement rules. It can only be enabled or disabled.
         "special_enabled": true
       },
       "regions_unexplored:redwoods": {

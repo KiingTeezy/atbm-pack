@@ -93,7 +93,7 @@
 	#Maximum action range (in blocks, as distance from interdiction matrix). 0 indicates no limit.
 	# Default: 0
 	# Range: > 0
-	maxActionRange = 0
+	maxActionRange = 32
 	#Maximum warning range (in blocks, as distance from interdiction matrix). 0 indicates no limit.
 	# Default: 0
 	# Range: > 0

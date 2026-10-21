@@ -1,0 +1,13 @@
+name = "Stellaris"
+filename = "stellaris-26.1.2-neoforge-2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItTQpuBn/versions/c5hVcYlm/stellaris-26.1.2-neoforge-2.0.7.jar"
+hash-format = "sha512"
+hash = "8966add5c0db586597f8882a6aa4cae4bfef563f41d7026bdb18961369bc11900775d410826937c8fa1c12211b47ba7ca234ae2f8b75373ea135efd5531f350e"
+
+[update]
+[update.modrinth]
+mod-id = "ItTQpuBn"
+version = "c5hVcYlm"

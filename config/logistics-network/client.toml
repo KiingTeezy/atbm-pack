@@ -10,13 +10,27 @@ maxRenderedNodes = 200
 maxVisibleNodes = 500
 #Render logistics nodes as connected textures when neighboring nodes are visible.
 connectedNodeTextures = true
-#Show resource transfer particles while holding a wrench.
-showTransferVisuals = true
-#Maximum simultaneous resource transfer paths.
-# Default: 100
-# Range: 1 ~ 1000
-maxTransferVisuals = 100
 #GUI theme for logistics node screens: light, dark, redstone, nebula, glass, terminal, pastel, brutalist
 theme = "dark"
 #Use the classic green terminal look for the network computer instead of the selected GUI theme.
 computerClassicTheme = true
+#Invert the wrench copy/paste controls so right-click pastes and modifier 1 + right-click copies.
+invertCopyPasteControls = false
+flowLinesEnabled = true
+# Default: 6.0
+# Range: 1.0 ~ 20.0
+flowLineThickness = 6.0
+# Default: 3.0
+# Range: 0.1 ~ 60.0
+flowLineSpeed = 3.0
+# Default: 0.95
+# Range: 0.05 ~ 1.0
+flowLineOpacity = 0.95
+flowLinePulses = true
+# Default: 3.0
+# Range: 0.5 ~ 32.0
+flowLinePulseSpacing = 3.0
+# Default: 0.6
+# Range: 0.1 ~ 8.0
+flowLinePulseLength = 0.6
+flowLinesThroughBlocks = true

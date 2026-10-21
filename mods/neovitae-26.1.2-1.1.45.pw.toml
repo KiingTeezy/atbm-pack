@@ -1,0 +1,13 @@
+name = "Neo Vitae"
+filename = "neovitae-26.1.2-1.1.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvaW4C93/versions/H0sjsldJ/neovitae-26.1.2-1.1.45.jar"
+hash-format = "sha512"
+hash = "c1efbe9d47f9f58a7c8badcc095f5c53b0dcca622bdc6e3d9818b90477f4ce48f8e21fbaca8324f07513b96ed7b5c92bb54bb8377dfebe29d8c03378afd359ad"
+
+[update]
+[update.modrinth]
+mod-id = "rvaW4C93"
+version = "H0sjsldJ"

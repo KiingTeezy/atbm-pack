@@ -1,0 +1,8 @@
+name = "alexsmobsneoforge-26.1-1.3.1"
+filename = "alexsmobsneoforge-26.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/alexsmobsneoforge-26.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "1c94d134dd7abd5c6cc84cfc1cb7085df48cded075644c1849190e72c2c2948183bce933313f0e7fb0426d867b8b69b443c9c8effa34bca0c154022c59b130ec"

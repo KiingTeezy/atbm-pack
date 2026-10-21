@@ -1,0 +1,13 @@
+name = "Paladins & Priests (RPG Series)"
+filename = "paladins-neoforge-3.1.3.002+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/85ctJoZB/paladins-neoforge-3.1.3.002%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "809266dff1cfed89724e690d53b87f9a9655fe78cec703e368da3b5c9fed01649b00d470c12d4edac3e136ad096b6770d071d4b8c70c27fba1eaa8738efe8526"
+
+[update]
+[update.modrinth]
+mod-id = "FxXkHaLe"
+version = "85ctJoZB"

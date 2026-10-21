@@ -1,0 +1,13 @@
+name = "Archers (RPG Series)"
+filename = "archers-neoforge-3.1.3.002+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/P6oURMhk/archers-neoforge-3.1.3.002%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "0893e5ef1965ceb69c4bb14c14b9ff3870199203ba6ecac308556ae9cee11c7374d184fe1261c188fc020bebb19c2293f2448f16f198f383d253bbc97e78d71d"
+
+[update]
+[update.modrinth]
+mod-id = "QgooUXAJ"
+version = "P6oURMhk"

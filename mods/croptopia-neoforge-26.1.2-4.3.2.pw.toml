@@ -1,0 +1,8 @@
+name = "croptopia-neoforge-26.1.2-4.3.2"
+filename = "croptopia-neoforge-26.1.2-4.3.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/croptopia-neoforge-26.1.2-4.3.2.jar"
+hash-format = "sha512"
+hash = "4da3e326585fd0122ac008eee328d837b21db8dd9c98cfca33b130bffe77adcedd241196a28f28c2ac375cf1c0b6dc5626e98a2c72b9fd154c0fedc26aaa6b39"

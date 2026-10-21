@@ -1,0 +1,8 @@
+name = "allthemodium-26.1.2-4.2.0"
+filename = "allthemodium-26.1.2-4.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/allthemodium-26.1.2-4.2.0.jar"
+hash-format = "sha512"
+hash = "a0c16149af34b3f60a6a5609300384de7dd3e9ca06d6e29c47cb5cd1acc7b80cc121319d8447ce6ef68d9d1a75f13d280a44e594878b4155da0e6be6fc96be84"

@@ -1,0 +1,13 @@
+name = "Railcraft Reborn"
+filename = "railcraft-reborn-26.1.2-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rO6kKst6/versions/qPWscOSx/railcraft-reborn-26.1.2-1.4.6.jar"
+hash-format = "sha512"
+hash = "b8d93adbc93f49af6c00941856863127fe4d748516dbe706a438dc413c5034f01c0b976816349289baec4ad0f47b1f98cc90519b4205fb8b1b50e70b6c713785"
+
+[update]
+[update.modrinth]
+mod-id = "rO6kKst6"
+version = "qPWscOSx"

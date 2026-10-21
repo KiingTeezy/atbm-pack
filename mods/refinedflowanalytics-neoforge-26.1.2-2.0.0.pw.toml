@@ -1,0 +1,8 @@
+name = "refinedflowanalytics-neoforge-26.1.2-2.0.0"
+filename = "refinedflowanalytics-neoforge-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/refinedflowanalytics-neoforge-26.1.2-2.0.0.jar"
+hash-format = "sha512"
+hash = "4c5553e98befc7b109a31e1d3c3a6b548c35d682ba69a3ebcad9b09660ef75d82f7f2b89640e93ed4f327e2901fd5bb9bf9db7361fb22894a2e3b3f14d6d2fb2"

@@ -1,0 +1,8 @@
+name = "ftb-xmod-compat-neoforge-26.1.2.5"
+filename = "ftb-xmod-compat-neoforge-26.1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-xmod-compat-neoforge-26.1.2.5.jar"
+hash-format = "sha512"
+hash = "d5d0b85b8b17c5792ebee43a3db6810b5f92be59679acf98291806137e5a3d0dcf054dfa052cc05846589fd67b7ebf040a06271bf532e7e9014303bf90da5428"

@@ -1,0 +1,13 @@
+name = "BBL Routers"
+filename = "routers-26.1.2-2.14.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g69ApBz2/versions/c7sAnPg8/routers-26.1.2-2.14.2.jar"
+hash-format = "sha512"
+hash = "8e1026377220fa8debc2e8ddd7348735bf9c16e703c9d68ca772b95aec16667d26fb24832da77975eb74ab140d89b8c5ef71fc90773fb7dd7319f3fef1bfc8e3"
+
+[update]
+[update.modrinth]
+mod-id = "g69ApBz2"
+version = "c7sAnPg8"

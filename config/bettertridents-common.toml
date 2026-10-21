@@ -1,0 +1,3 @@
+#Tridents can be repaired in an anvil using prismarine shards.
+#Default Value: true
+repair_tridents = true

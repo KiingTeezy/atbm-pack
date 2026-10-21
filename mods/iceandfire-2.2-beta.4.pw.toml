@@ -1,0 +1,8 @@
+name = "iceandfire-2.2-beta.4"
+filename = "iceandfire-2.2-beta.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/iceandfire-2.2-beta.4.jar"
+hash-format = "sha512"
+hash = "e4c3b0b8d98d7ee1c88f3c128a5a1a06806533565f922e5cc0cd08c1649ee61a031aac5d7e8cae7c5eea650fcf7716246abd3e66b684916879c1a78dd15d9863"

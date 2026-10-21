@@ -1,0 +1,13 @@
+name = "Configurable"
+filename = "configurable-3.5.3+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/szql66EQ/configurable-3.5.3%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "19d55201fc8e5da0ad6b63a591066a96d491d0597ca489dab947c8550bbed70a38705945bca22e8191f06ec5e4cb5a6985c21484bf8736ab4118ba929ff04b69"
+
+[update]
+[update.modrinth]
+mod-id = "lGffrQ3O"
+version = "szql66EQ"

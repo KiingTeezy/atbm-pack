@@ -1,0 +1,8 @@
+name = "productivebees-26.1.2-15.3.0"
+filename = "productivebees-26.1.2-15.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/productivebees-26.1.2-15.3.0.jar"
+hash-format = "sha512"
+hash = "7ed347ace24c6268869cc739acd1755395a56c3ff2e4ae7c904258ee6e9120f39c4dff76e1fbc396d4f532a63a165427a410f9f97ef1f07b407589a06984ed58"

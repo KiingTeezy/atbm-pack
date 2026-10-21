@@ -1,7 +1,7 @@
 #Options related to player's death
 [player_death]
 	#Whether to unlock access to a grave if the player has been killed by another player [false/true|default:true]
-	pvp_unlock_grave = true
+	pvp_unlock_grave = false
 	#Whether to restore beneficial effects after a player dies [false/true|default:true]
 	restore_effects_on_death = false
 	#Only abandoned graves can have losses of items (based on the decay_time) [false/true|default:true]

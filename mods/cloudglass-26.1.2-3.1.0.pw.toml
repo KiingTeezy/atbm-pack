@@ -1,0 +1,8 @@
+name = "CloudGlass-26.1.2-3.1.0"
+filename = "CloudGlass-26.1.2-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/CloudGlass-26.1.2-3.1.0.jar"
+hash-format = "sha512"
+hash = "a2c8d185b480c02435eb0c93331d313c55af7ec8db7a944ed3b3c1f696c54eae653007027f1e0cac875cb5ceb82858c736870420751ad7a15c1cb20b28503d77"

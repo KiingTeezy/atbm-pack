@@ -1,0 +1,13 @@
+name = "All The Heads"
+filename = "alltheheads-v26.1.4-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ax17wp3L/versions/tKWWSsUt/alltheheads-v26.1.4-mc26.1.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "042f68acf521e1afb84a1b2d5113dd177cb5333ffbca847ef779c144241a66764ab74790f21074e5d2e6e5bf93deb48c18230b27b684e4fe8d7261a0c3ad4697"
+
+[update]
+[update.modrinth]
+mod-id = "Ax17wp3L"
+version = "tKWWSsUt"

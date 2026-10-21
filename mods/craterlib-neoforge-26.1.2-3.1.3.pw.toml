@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Neoforge-26.1.2-3.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/mYLFBVQA/CraterLib-Neoforge-26.1.2-3.1.3.jar"
+hash-format = "sha512"
+hash = "23857a5b230e78903e5c0100195ab807e53e207f6fb5631e5ae139aa8860dfd75484a50c5da65330d131ee3d4c5e9f5e05ee9061cef1b5a38823b6f2100ebc18"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "mYLFBVQA"

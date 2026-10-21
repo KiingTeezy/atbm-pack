@@ -1,0 +1,13 @@
+name = "In World Recipes"
+filename = "inworldrecipes-26.1.2-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mxPMwdbs/versions/l6EHZsbN/inworldrecipes-26.1.2-2.6.2.jar"
+hash-format = "sha512"
+hash = "4e48ca5ae3c1bfc828f907847d50e9e5b046299b0d590eaceda732c305be05def342a5bb2afc4440e6a0d932bd288cd3da7f87225b34c792affa10dba6938eaa"
+
+[update]
+[update.modrinth]
+mod-id = "mxPMwdbs"
+version = "l6EHZsbN"

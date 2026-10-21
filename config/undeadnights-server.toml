@@ -10,7 +10,7 @@ undeadNightsEnabled = false
 # Range: > 0
 gracePeriod = 0
 #If true, each night a message will be sent to the player with how many nights are left before the next Horde Night | default: false
-sendHordeNightsCountdownMessage = false
+sendHordeNightsCountdownMessage = true
 #If true, the horde has spawned message and the horde sound are enabled | default: true
 hordeSpawnedMessageAndSound = true
 #Minimum distance a horde will spawn away from the player | default: 70
@@ -24,7 +24,7 @@ distanceMax = 75
 #Maximum amount of horde mobs that can be loaded in the world at the same time | default: 80
 # Default: 80
 # Range: 1 ~ 2048
-hordeMobsSpawnCap = 80
+hordeMobsSpawnCap = 50
 #If true, the vanilla gamerule doMobSpawning will be ignored | default: true
 ignoreDoMobSpawningGamerule = true
 #If true, horde waves can spawn in water | default: false

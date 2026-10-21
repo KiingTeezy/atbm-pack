@@ -1,0 +1,8 @@
+name = "power_armor-1.0.7"
+filename = "power_armor-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/power_armor-1.0.7.jar"
+hash-format = "sha512"
+hash = "cdf997a3a203ed7bdd169da5893d67b2abb073d32ad80a06ee2ab3dbe11c55ffeb4d320d7726cfbb6b45c87a9852dae834e3b0998b32b4915389720881f26ff5"

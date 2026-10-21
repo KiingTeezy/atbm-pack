@@ -1,0 +1,13 @@
+name = "Dyed Flames"
+filename = "dyedflames-v26.1.1-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/66H5fc9R/versions/pSoY9whe/dyedflames-v26.1.1-mc26.1.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "45c29441c6736fb76c40b38ff4ea11dd830fe540e037fad8311390bce5c4b571e6871de4c02a172aba02d0b709207934bdda8c96d6ce04293f44fc2cee0089de"
+
+[update]
+[update.modrinth]
+mod-id = "66H5fc9R"
+version = "pSoY9whe"

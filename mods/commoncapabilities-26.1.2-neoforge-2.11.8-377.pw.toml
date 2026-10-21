@@ -1,0 +1,8 @@
+name = "commoncapabilities-26.1.2-neoforge-2.11.8-377"
+filename = "commoncapabilities-26.1.2-neoforge-2.11.8-377.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/commoncapabilities-26.1.2-neoforge-2.11.8-377.jar"
+hash-format = "sha512"
+hash = "a880284c78e17d52d48e46ddc9fb9576d62e24d7700b87560c5771299ac4f31fd38fe50cd08cb08b4eaf84c21f3c94b634937c00b74635127fd29c8dc98530f9"

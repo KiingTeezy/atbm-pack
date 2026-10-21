@@ -1,0 +1,8 @@
+name = "GeOre-26.1.2-8.1.0"
+filename = "GeOre-26.1.2-8.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/GeOre-26.1.2-8.1.0.jar"
+hash-format = "sha512"
+hash = "d1e43e1deb00bc33a5605c0c37dd7a81cb104409bb82ae3bc11adacf5dd19f36178be9e2add4e866235f88dd895f45a70311529b8bc4813b2e10ecce615c0cd5"

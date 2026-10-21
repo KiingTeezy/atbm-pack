@@ -1177,8 +1177,10 @@
   "regex_injectors": {},
   "fallback": {
     "rolls_multiplier": 1.0,
+    "max_rolls": 1.0,
     "tables": "~:chests/",
     "blacklist": [],
+    "skip_tables_with_rpg_loot": true,
     "entries": [
       {
         "reference": "#rpg_series:loot_reference/tier_1_weapons",

@@ -1,0 +1,8 @@
+name = "DungeonsArise-26.1.2-2.1.71-release"
+filename = "DungeonsArise-26.1.2-2.1.71-release.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/DungeonsArise-26.1.2-2.1.71-release.jar"
+hash-format = "sha512"
+hash = "af5795b8ed8766ac6941abd046a73f4dc39586118565996eb0468f32d157785e722ac3bfc20c9c0587147a13b5f4350c0d9988d04cad5c48b4b0eac48fd8ed74"

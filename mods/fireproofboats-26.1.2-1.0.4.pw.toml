@@ -1,0 +1,8 @@
+name = "fireproofboats-26.1.2-1.0.4"
+filename = "fireproofboats-26.1.2-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/fireproofboats-26.1.2-1.0.4.jar"
+hash-format = "sha512"
+hash = "1c9652bd564b6879bec0da8cc08d9dc2222391a70267c556a420f63200be595d5bd2152592ebffafc2f2d27f70627b5be98e08551f801488869f0bc652d9a380"

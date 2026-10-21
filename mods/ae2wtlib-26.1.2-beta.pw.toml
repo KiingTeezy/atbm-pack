@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "ae2wtlib-26.1.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/oB0wuNDF/ae2wtlib-26.1.2-beta.jar"
+hash-format = "sha512"
+hash = "45f8a9cc9e4b786857640dfbe8bdee8d0addc812785c6835cbed9a0c42de682dfe34c51040658d1a62139e6ff7bfaf007847ebcbcd1f72164052de7694e47d4e"
+
+[update]
+[update.modrinth]
+mod-id = "pNabrMMw"
+version = "oB0wuNDF"

@@ -1,0 +1,13 @@
+name = "Puzzles Lib"
+filename = "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/ntQknrEC/puzzleslib-v26.1.16-mc26.1.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "73f88f6a25712a6d11b4f45dded52721a755348bf932525b2a7d3ff84adea4659460f21da88894d69df541a87a079c467d46c6920a6b77016c7b4cc6741755fa"
+
+[update]
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "ntQknrEC"

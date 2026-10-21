@@ -1,0 +1,8 @@
+name = "ConstructionSticks-26.1.2-3.2.1"
+filename = "ConstructionSticks-26.1.2-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ConstructionSticks-26.1.2-3.2.1.jar"
+hash-format = "sha512"
+hash = "ea341643dbd1144a4ecf46c7fb781191f24d563cbb12fd06fdce0993c943e2e480b4d8c7db72fb4dc0f7be0a29b2c3936f8b5409a491c86fcd5ece39dea55a5a"

@@ -1,0 +1,13 @@
+name = "Better Archeology"
+filename = "betterarcheology-neoforge-26.1.2-1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/eWsVMFv4/betterarcheology-neoforge-26.1.2-1.3.9.jar"
+hash-format = "sha512"
+hash = "9f51e87f31c8623542e1b6bb532a3d57d2a490159b0a349deacffb1d23ed82523cc3c4d347c186f9e0dee3fb2ce5911c2863d6c3378aa47f60bbdc16d85331de"
+
+[update]
+[update.modrinth]
+mod-id = "zCh7omyG"
+version = "eWsVMFv4"

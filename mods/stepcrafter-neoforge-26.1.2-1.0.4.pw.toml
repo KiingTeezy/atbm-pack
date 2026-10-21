@@ -1,0 +1,13 @@
+name = "Step Crafter"
+filename = "stepcrafter-neoforge-26.1.2-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DI2geZT1/versions/2vJ3IJY2/stepcrafter-neoforge-26.1.2-1.0.4.jar"
+hash-format = "sha512"
+hash = "c5473510a238a43c1dd567dab9ec954507f788cb4d2e7d97a8111b1f3d3a33adc80e2219d815bf4662197f805aa6bd8775d526ce7c4cdcc7c7e6a57bd204f8e3"
+
+[update]
+[update.modrinth]
+mod-id = "DI2geZT1"
+version = "2vJ3IJY2"

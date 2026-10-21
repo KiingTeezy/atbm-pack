@@ -1,0 +1,8 @@
+name = "appliedthaumaturge-1.0.0"
+filename = "appliedthaumaturge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/appliedthaumaturge-1.0.0.jar"
+hash-format = "sha512"
+hash = "2132a9581e887de2825d32896be2fac07b580331bdc8119d38934499b1ad8a4295d5ce259e0e61363cac1ae2c3bf81a58d14e854c709bb49dd324eef478d052a"

@@ -1,0 +1,13 @@
+name = "Hostile Neural Networks"
+filename = "HostileNeuralNetworks-26.1.2-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6bLUlbZn/versions/KaeR2HQK/HostileNeuralNetworks-26.1.2-7.0.0.jar"
+hash-format = "sha512"
+hash = "05e8e984042306a0bce5ace662cf548eb3bc01dbd37a24f02dfdad1010d3a1641c29cdd9d8b2eb629a0d78af756af5ec7bf4ec8f7f1fbcf1674ed5a1556bd21d"
+
+[update]
+[update.modrinth]
+mod-id = "6bLUlbZn"
+version = "KaeR2HQK"

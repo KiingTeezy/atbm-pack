@@ -1,0 +1,8 @@
+name = "dyenamics-26.1.2-3.5.0"
+filename = "dyenamics-26.1.2-3.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/dyenamics-26.1.2-3.5.0.jar"
+hash-format = "sha512"
+hash = "43ebf5758a63bffac911ce4024d81b8823bcce5acaadd6e02be6ab5566b03d437e5306a834b141ece371141bcc5c343f2cb24f4fc8ef9b9036acaf5781ad8d87"
