@@ -90,3 +90,5 @@ com.matyrobbrt.keybindbundles.render.EditBoxScreen {
 org.embeddedt.embeddium.impl.gui.EmbeddiumVideoOptionsScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}

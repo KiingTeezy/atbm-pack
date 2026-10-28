@@ -12,3 +12,38 @@ custom_gui {
   pause_game = true
 }
 
+custom_gui {
+  identifier = atbm_guide_1
+  title = Server Guide
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = atbm_guide_2
+  title = Server Guide
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = atbm_guide_3
+  title = Server Guide
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = atbm_guide_4
+  title = Server Guide
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}

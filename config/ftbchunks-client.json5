@@ -231,6 +231,7 @@
         "minecraft:creeper": true,
         "alexsmobs:fly": true,
         "minecraft:horse": true,
+        "minecraft:bee": true,
         "minecraft:bat": true,
         "aquaculture:carp": false,
         "minecraft:witch": true,

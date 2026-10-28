@@ -1262,7 +1262,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "6b3220f67b04bab77efe5bd3ff0d5b673d3149ce5e94e6b8ef2d735561ad9b70"
+hash = "204370db434f43203882dbb3afcf5943e8ea87c493f5762beb4c5d52384332c0"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -2080,7 +2080,7 @@ hash = "a1d7ce1bf07d787b9468423697c89a096ed7198d2b74dd55f47b709adf76352a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e8fdb1290a2b16de598967bba433a81ac300241a0849bb98673edbee93ef9ff9"
+hash = "a95c909455639506cfd1ab9fe396ec551f7930677a28509b4d6aa2cdddb42b29"
 
 [[files]]
 file = "config/diagonalblocks-common.toml"
@@ -2343,6 +2343,22 @@ file = "config/fancymenu/assets/atbm_btn_singleplayer_hover.png"
 hash = "a0a3c6a58842fc570c148ce402cc081b02592543d7f36d94b3e3116206fe32c5"
 
 [[files]]
+file = "config/fancymenu/assets/atbm_guide_1.jpg"
+hash = "7756e030460e50b7d2835dfa9ea45c9f3af62c84d1a7eac795ef49064e07426a"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_guide_2.jpg"
+hash = "dc5bd62a170865efd0bd36380de869f6eae29b8040a75d4ae6ecbe23d4339a6f"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_guide_3.jpg"
+hash = "50cf1d8f5f87455951222f8cc158a3f98a407b8e485b26cd107a722e8d48014f"
+
+[[files]]
+file = "config/fancymenu/assets/atbm_guide_4.jpg"
+hash = "a49e76904f8c04f5e0e3b1664a3d8e1f0d152ae9b61b6e823913572d211a2078"
+
+[[files]]
 file = "config/fancymenu/assets/atbm_icon_128.png"
 hash = "7a95df849283926d6525a3707476dfb5df04a2184d767c0909bce1b8d542c34c"
 
@@ -2460,19 +2476,39 @@ hash = "30d600141f05b09c3d8db25b064683a628dfd8a631d685c62f1094c93bc3cacd"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "7daa45a7b3882149f9ccbe9be3592c94987f386ed6384b1f82f2cade1fa8304c"
+hash = "0e03d3fd7637b841227d7a14883c7d7c2620fc12f51a1a08cbddd29a2463e53e"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f398b9b5dba89d2bd7aed54e87cb9f24339a6dca232b34c78c121c408e5aba3f"
+hash = "e708feca37405084aa841160b9af9f76d10405037885dba42dec239e4254677b"
+
+[[files]]
+file = "config/fancymenu/customization/atbm_guide_1_layout.txt"
+hash = "c36c4a3e9c4384d6ceec5e8783be515c118bb79f21efd83db151af5a487f6aad"
+
+[[files]]
+file = "config/fancymenu/customization/atbm_guide_2_layout.txt"
+hash = "05595edfe5351b9990d3eb8ec27b51fb33a3b45f3a88893673db03043d4b01bc"
+
+[[files]]
+file = "config/fancymenu/customization/atbm_guide_3_layout.txt"
+hash = "6476e0f08ad2e71597c3d484d7f3f63f9043202612f4bb222e69178ac2b13126"
+
+[[files]]
+file = "config/fancymenu/customization/atbm_guide_4_layout.txt"
+hash = "47d642b574cf59cc5fe5a7a1ccb7459f54b809cb3adf2b451dfb7c42bd4ccc1e"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "5fdcea0931fad40fc29cb0726b71caafc5f25086e0b272fab54959bb9aec1b74"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "576768f0ed013f76dad586021051c552a07be4bf0da47e85b3223594c788c1b1"
+hash = "69f76c97a880c32ecf23d546aee8b9765b4538b28380773123e22edb2134869a"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2660,7 +2696,7 @@ hash = "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179"
 
 [[files]]
 file = "config/ftbchunks-client.json5"
-hash = "e3fae7b33ac207640ee344d62bad93f5cc3622518a6d5559d8cd92c6296c4a15"
+hash = "0ce1c2fa7dba51671f98d7d62c8c2f55ecb5ca6fa2158e25facf7012d12f10c1"
 
 [[files]]
 file = "config/ftbchunks-world.json5"
@@ -5824,7 +5860,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2a18404a86ab287748bd2b8afcadb2af2b31c2d4e86a47a804d8733f6572783c"
+hash = "1b3de67d6c94aeae1c6e9c3aa7950b57a32991c2dd9cd516a75d88e2f6c2714b"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -6348,7 +6384,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "91d4a148c32b0721dc2407c0fc05ca3acc170296ac26d00cb825d7c30c1b14b0"
+hash = "e33f8efc0d83275377f4045d11138c36ab5d71a3839ac54c71bb4842a63e433e"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -13106,6 +13142,10 @@ file = "kubejs/data/agritechevolved/recipe/planter/tree/biomesoplenty/rainbow_bi
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
+file = "kubejs/data/atbm/function/open_guide.mcfunction"
+hash = "9538daa6c98a869a107bd2a31fc99793f3c346122666967722b366c767cc7e18"
+
+[[files]]
 file = "kubejs/data/atm/tags/item/unbreakable.json"
 hash = "c8e20f7aaf309381535305a2123d1c1cc23abfb8d2b51f0ba99c11b0403056f9"
 
@@ -13199,7 +13239,7 @@ hash = "7b66a64131678eb3b5025622a288af3ab0a5e3a96f1346f6e7f4c24505ee1c6a"
 
 [[files]]
 file = "kubejs/server_scripts/atbm_welcome.js"
-hash = "1a79b0098ed998c5578f3ab91c7fd44eb610ba38511d3028488bc84695aec266"
+hash = "a61d3df302dfe7b4dda2df6453a27f67b9dc98966c4f6957537f7078bebd34d9"
 
 [[files]]
 file = "kubejs/server_scripts/banlist_script.js"

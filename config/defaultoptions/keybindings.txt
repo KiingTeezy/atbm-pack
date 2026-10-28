@@ -130,7 +130,7 @@ key_key.dragon_change_view:key.keyboard.f7:
 key_key.crystalix.pick_block:key.keyboard.unknown:
 key_key.crystalix.highlight_blocks:key.keyboard.unknown:
 key_key.crystalix.open_wand_editor:key.keyboard.unknown:
-key_key.push_to_talk:key.keyboard.unknown:
+key_key.push_to_talk:key.keyboard.caps.lock:
 key_key.whisper:key.keyboard.unknown:
 key_key.mute_microphone:key.keyboard.m:
 key_key.disable_voice_chat:key.keyboard.unknown:
