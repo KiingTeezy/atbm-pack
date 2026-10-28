@@ -1,5 +1,5 @@
 #If true, Nights of the Undead (horde nights) are enabled | default: true
-undeadNightsEnabled = false
+undeadNightsEnabled = true
 #Grace period in days before the first horde night | default: 0
 #After the grace period the first horde night will happen and
 #after the first horde night only the config values daysBetweenHordeNights

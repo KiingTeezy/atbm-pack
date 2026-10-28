@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/BBEConfig.json"
-hash = "cd2b07054b5d0b0dca5be6529a36b3064fd9f2e76f49f30aa6f080c54f3e324c"
+hash = "0cd633fb99905eb76ce85ec0e6ec0bbdaa9847d4670a70a8a1bee266f5c9b8f5"
 
 [[files]]
 file = "config/JEB.json"
@@ -1262,7 +1262,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "6bba14239300088f354262cda6d92a1c2d172c21ca9f286f7c80b5be87d65c83"
+hash = "6b3220f67b04bab77efe5bd3ff0d5b673d3149ce5e94e6b8ef2d735561ad9b70"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1450,7 +1450,7 @@ hash = "8dd38763dc9cdbe47d4520d701b801b0c3bb09d641e9b24a720d30d8140384a8"
 
 [[files]]
 file = "config/cave_dweller-server.json"
-hash = "5630f5b712a883e6c53452eb2a1acd13c2a5021ab9e92f1608875a7c763e10cd"
+hash = "0a30fd6ecf2d42b6f414ebf60f9747606213a0ef6abbc46a64c88d842c5bdafa"
 
 [[files]]
 file = "config/charginggadgets-server.toml"
@@ -1576,7 +1576,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e6a458d906a6feb5cb5d217ed2a37629d7e8194dad13c929bbe839b2c0ec248b"
+hash = "d6052e863aa79b5a99e8c6fb65403e6df2f18d71b2dde23419d1537f5f8a3609"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -2472,7 +2472,7 @@ hash = "dfda269741f94340ad40d1df0a03d0d934bd251c0bfb90362767d8f405a404ba"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "dba450c33244224c3eede280628dda2ec829c964a19050596f3de304b2792d72"
+hash = "576768f0ed013f76dad586021051c552a07be4bf0da47e85b3223594c788c1b1"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -5760,7 +5760,7 @@ hash = "8fe25a06991fb387c08663b895898691e0bdbadf4139f6d81748a20372ff32c8"
 
 [[files]]
 file = "config/hollowsteve.json"
-hash = "9e361183b1ef4ba6ac91a5dd72ce06d5dfe6f6763d3f706c1a6bbccc7128b113"
+hash = "78247ced496c42ce02f63827aa1cf787e6fe1e3e3b706a2bb9ab1806a6a5d82f"
 
 [[files]]
 file = "config/hostilenetworks.cfg"
@@ -5824,7 +5824,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "86921c39ab42a57790a9fbf29128ecd4f8005a75fc49a5626eb6b04f71ef2b79"
+hash = "2a18404a86ab287748bd2b8afcadb2af2b31c2d4e86a47a804d8733f6572783c"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -6348,7 +6348,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "6bf2e19167eb6c1c946a6364157189b351acd69930e43e5c905c1d4d146f8367"
+hash = "91d4a148c32b0721dc2407c0fc05ca3acc170296ac26d00cb825d7c30c1b14b0"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -6600,7 +6600,7 @@ hash = "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
 
 [[files]]
 file = "config/serversidehorror.json"
-hash = "b17191114508c197087a14b1d1c196878ff5579f826335cc499ea5820631d92b"
+hash = "3f4f5af0baa1281116d1ce1da528f28d4af9a03f0904516e3c6dceb547cee62b"
 
 [[files]]
 file = "config/sfm-client-program-editor.toml"
@@ -6984,7 +6984,7 @@ hash = "245d2a34886dc7d957e2f0b3a9d203bc57af384cd69aef1b331eea7ccf70facc"
 
 [[files]]
 file = "config/undeadnights-server.toml"
-hash = "128caba555902acb4d2a4a14a335b7e74538b140bb6817258c389ef395364b5a"
+hash = "404e71d91509a4f5eb0e7e014c94650422590b32940320c1f119e30a6c5e0cea"
 
 [[files]]
 file = "config/undeadnights_difficulty_config.json"
@@ -7073,6 +7073,7 @@ hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 [[files]]
 file = "config/voicechat/player-volumes.properties"
 hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+preserve = true
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -7081,6 +7082,7 @@ hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 [[files]]
 file = "config/voicechat/username-cache.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+preserve = true
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"

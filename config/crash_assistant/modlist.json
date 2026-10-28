@@ -740,6 +740,10 @@
     "version": "26.1.2-1.6.7",
     "modrinthHash": "b2d1cad526715364a0340486a4c35433c6f20b98"
   },
+  "ScalableCatsForce-NeoForge-5.0.3-mc26.1.2-3.8.4-all.jar": {
+    "jarName": "ScalableCatsForce-NeoForge-5.0.3-mc26.1.2-3.8.4-all.jar",
+    "modrinthHash": "961ceca2df96e0c15599605a61cebf2550c143fd"
+  },
   "Searchables-neoforge-26.1.2-1.0.2.jar": {
     "jarName": "Searchables-neoforge-26.1.2-1.0.2.jar",
     "modId": "searchables",
@@ -2153,6 +2157,10 @@
     "name": "Konkrete",
     "version": "1.10.1",
     "modrinthHash": "9d7c67fbb015296236dcc56816ae604815721379"
+  },
+  "kotlinforforge-6.4.0-all.jar": {
+    "jarName": "kotlinforforge-6.4.0-all.jar",
+    "modrinthHash": "4e5da9058aea1c882974b1c9b9d30e2db651c272"
   },
   "kreno-neoforge-26.1.2-26.3.2-26.1.2.jar": {
     "jarName": "kreno-neoforge-26.1.2-26.3.2-26.1.2.jar",

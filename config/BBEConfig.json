@@ -18,7 +18,7 @@
     },
     {
       "option": "optimize.sign",
-      "value": true
+      "value": false
     },
     {
       "option": "optimize.decoratedpot",

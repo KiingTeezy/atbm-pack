@@ -1,9 +1,9 @@
 {
-  "grace_period": 3,
+  "grace_period": 0,
   "grace_period_applies_to_traps": false,
   "herobrine_starer_chance": 120000,
   "herobrine_starer_enable": false,
-  "fake_joiner_chance": 720000,
+  "fake_joiner_chance": 72000,
   "fake_joiner_enable": false,
   "jumpscare_chance": 72000,
   "jumpscare_enable": true,
@@ -48,8 +48,8 @@
     " \nIt hurts to\nbreathe\n ",
     "Leave\n \n \n:)"
   ],
-  "random_fake_joiner_chance": 720000,
-  "random_fake_joiner_enable": false,
+  "random_fake_joiner_chance": 144000,
+  "random_fake_joiner_enable": true,
   "random_fake_joiner_list": [
     "Null;Hello?;Is anyone there?;I remember you",
     "The_Watcher;You left the door open;I can see your base"
