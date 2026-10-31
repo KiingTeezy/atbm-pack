@@ -47,6 +47,7 @@ hash = "dec3ed1e7f0287f5ce5c4a28e8800cc85adf1957268559c9fa656aa71ba6732f"
 [[files]]
 file = "config/ae2-client.toml"
 hash = "c003fb3ac64c789cea15fd44a8f19d1f4f0c925758d376406472294f16a5b52d"
+preserve = true
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -1262,7 +1263,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "204370db434f43203882dbb3afcf5943e8ea87c493f5762beb4c5d52384332c0"
+hash = "4802c01cc57765698a485f8a31507e01c4381aeac060aa2039f464fa6f727281"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -2508,7 +2509,7 @@ hash = "5fdcea0931fad40fc29cb0726b71caafc5f25086e0b272fab54959bb9aec1b74"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "69f76c97a880c32ecf23d546aee8b9765b4538b28380773123e22edb2134869a"
+hash = "e615a67877fe42ce226ebea04cabb151568ef3432c93e70009357b093601aaff"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2660,7 +2661,7 @@ hash = "f5659957a2583f18c9c45c2053e3c3c84022499555c30ed54fa4d36e7bca3ad5"
 
 [[files]]
 file = "config/fireproofboats-client.toml"
-hash = "cc3e5ec902c04dea6d36c2be8dd27d2db60fc9d576f4f1303c27ffb7270d8986"
+hash = "80f422fa3e0e924f53aac2b722f7586079636f5f5520955d617bc8dbe1820298"
 
 [[files]]
 file = "config/fml.toml"
@@ -2697,10 +2698,11 @@ hash = "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179"
 [[files]]
 file = "config/ftbchunks-client.json5"
 hash = "0ce1c2fa7dba51671f98d7d62c8c2f55ecb5ca6fa2158e25facf7012d12f10c1"
+preserve = true
 
 [[files]]
 file = "config/ftbchunks-world.json5"
-hash = "1b339d89c0d8734746eb9c87e31eaa3c0c7ff4f0be5d0d13287969bbe698539c"
+hash = "f3994c0c7cd9f6fef0cbb49c94a850a39d2417890142e646f83b5ac14add6e9c"
 
 [[files]]
 file = "config/ftbessentials.json5"
@@ -2709,6 +2711,7 @@ hash = "ca247aeaa5d10f14ec437143d3e1855f99b4fdb25fe727d95e5822e59aa3c0f1"
 [[files]]
 file = "config/ftblibrary-client.json5"
 hash = "cac92768bc10a85aef4f68cfaf900d5dd54fe09d9cb22d2e765cdf5f13f86930"
+preserve = true
 
 [[files]]
 file = "config/ftbquests-client.json5"
@@ -5860,7 +5863,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1b3de67d6c94aeae1c6e9c3aa7950b57a32991c2dd9cd516a75d88e2f6c2714b"
+hash = "6b485f92a92394399d8fa447a009e999e47fad2afbeae7706522df138bc50d39"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -6384,7 +6387,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "e33f8efc0d83275377f4045d11138c36ab5d71a3839ac54c71bb4842a63e433e"
+hash = "4b37627f81df65a98913d9e78027688486fc07068b03f2dfdc0fe703b85f8643"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -6636,7 +6639,7 @@ hash = "4066c5339cd925118e1a307727a9e37386a325fd257bdbd8f9298655571c95cd"
 
 [[files]]
 file = "config/serversidehorror.json"
-hash = "3f4f5af0baa1281116d1ce1da528f28d4af9a03f0904516e3c6dceb547cee62b"
+hash = "a0c5244f6d73d53c48954d1f5a166222ef4764b26174a3aa2082c53a4a492876"
 
 [[files]]
 file = "config/sfm-client-program-editor.toml"
@@ -6909,6 +6912,7 @@ hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 [[files]]
 file = "config/tombstone-client.toml"
 hash = "a5d75697b44476b81a5abdfa2686a9300d6e619a2573a84541de1639874a4487"
+preserve = true
 
 [[files]]
 file = "config/tombstone-common.toml"
@@ -13018,6 +13022,10 @@ file = "kubejs/assets/kubejs/textures/item/yellow_cell.png"
 hash = "e6579afb1192c474a8d6147d78ebd380bd8dabebe297b3be277fe0ea6bb7d677"
 
 [[files]]
+file = "kubejs/assets/minecraft/atlases/gui.json"
+hash = "3163cb2d8b071639f80d380da91e31d5da64e56a394e0781de89d49514868f76"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
 hash = "4079a6729bbf7ec8f12584e81c53a9f8cb7bcc5ae456c7f3a43d7001f3f60c95"
 
@@ -13140,6 +13148,10 @@ hash = "6c99c1b719894b8baac47ed9048c9e45eb684d22d7786b4610487119f107be4d"
 [[files]]
 file = "kubejs/data/agritechevolved/recipe/planter/tree/biomesoplenty/rainbow_birch.json"
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "kubejs/data/atbm/curios/slots/feet.json"
+hash = "087a7aae08678d50353ea52dc199e6075d8d0b170147e0b27b226e1e51ac5cc4"
 
 [[files]]
 file = "kubejs/data/atbm/function/open_guide.mcfunction"

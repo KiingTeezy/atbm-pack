@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "hostilenetworks:item/empty_learner_slot",
+      "sprite": "hostilenetworks:item/empty_learner_slot"
+    }
+  ]
+}

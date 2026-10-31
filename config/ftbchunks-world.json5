@@ -202,7 +202,7 @@
      * Default: "allies"
      * Valid values: "allies", "private", "public"
      */
-    def_block_interact: "allies",
+    def_block_interact: "public",
     /*
      * Default claim visibility for claimed chunks
      * Default: "public"
