@@ -1,0 +1,13 @@
+name = "GuideME"
+filename = "guideme-26.1.17-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/OTeLaTlN/guideme-26.1.17-beta.jar"
+hash-format = "sha512"
+hash = "9f341f066fad0b49e8d6818f54e0711fa55630abf5c284d9814bf8f5855989e04c51441fea916cae9ea87d699560c43b920cdf06e946251f100e911cd31a7b51"
+
+[update]
+[update.modrinth]
+mod-id = "Ck4E7v7R"
+version = "OTeLaTlN"

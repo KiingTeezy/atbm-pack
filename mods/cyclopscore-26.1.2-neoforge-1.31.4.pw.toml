@@ -1,0 +1,8 @@
+name = "cyclopscore-26.1.2-neoforge-1.31.4"
+filename = "cyclopscore-26.1.2-neoforge-1.31.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/cyclopscore-26.1.2-neoforge-1.31.4.jar"
+hash-format = "sha512"
+hash = "8639f633396429eab2eafcfecf0f158dfa4872b351511c7e803af37c391dc8d0adde41fd87f5d0150b978217730ab74decfe24e97d277022d0ad813bbb89992e"

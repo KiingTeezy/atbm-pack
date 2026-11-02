@@ -1,0 +1,13 @@
+name = "Falling Leaves (NeoForge/Forge)"
+filename = "fallingleaves-26.1.2-3.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/WKteUI1m/fallingleaves-26.1.2-3.1.0.jar"
+hash-format = "sha512"
+hash = "f1071030401d93a9828f0d751cb5890aaab223ba0c23a79dacb98f5ad27f5b4c0752369b7a19a27b8178272aecc8917b9f2610fb86b88b6716ba625b81fa2f6e"
+
+[update]
+[update.modrinth]
+mod-id = "2JAUNCL4"
+version = "WKteUI1m"

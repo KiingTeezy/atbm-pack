@@ -42,3 +42,15 @@ vertical_tooltip_scrolling = "SHIFT"
 #Invert scroll wheel direction for moving items with a container item for single item movement.
 #Default Value: false
 reverse_single_item_scrolling = false
+#Maximum number of rows shown for the previewed contents of a selected item on an item contents tooltip.
+#Default Value: 3
+# Default: 3
+# Range: 1 ~ 9
+max_contents_preview_height = 3
+#Select how the contents of the selected item are previewed on an item contents tooltip, when that item provides an item storage itself.
+#Default Value: COMBINED_ITEMS
+#Allowed Values: NAME_ONLY, INDIVIDUAL_ITEMS, COMBINED_ITEMS
+contents_preview = "COMBINED_ITEMS"
+#Display the total number of items contained inside the selected storage item after its name on any item tooltip.
+#Default Value: false
+item_storage_contents_count = false

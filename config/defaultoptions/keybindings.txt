@@ -479,3 +479,12 @@ key_key.witchery.edit_hud:key.keyboard.unknown:
 key_key.witchery.toggle_quest_hud:key.keyboard.unknown:
 key_key.witchery.open_ability_selection:key.keyboard.v:CONTROL
 key_key.witchery.utility_button:key.keyboard.g:CONTROL
+key_key.pointblack.reload:key.keyboard.r:NONE
+key_key.pointblack.firemode:key.keyboard.b:ALT
+key_key.pointblack.inspect:key.keyboard.n:ALT
+key_key.pointblack.attachments:key.keyboard.u:ALT
+key_key.pointblack.scope_switch:key.keyboard.v:ALT
+key_key.pointblack.interact:key.keyboard.g:ALT
+key_key.pointblack.settings:key.keyboard.y:ALT
+key_key.car_gui:key.keyboard.i:ALT
+key_key.music_disc_maker.open_equipped_boombox:key.keyboard.m:ALT

@@ -1,0 +1,13 @@
+name = "Ars Magica: Legacy"
+filename = "arsmagicalegacy-26.1.2-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hm4S7JIe/versions/xaah1ZYr/arsmagicalegacy-26.1.2-1.7.1.jar"
+hash-format = "sha512"
+hash = "dc4939d436bd94c4d4e2b046f62581120897a313b3d38223d4f606a1e096f90908b5c5dcb3193d9d245ae7544ef9873d7eaa77f1ecd4a6b819935b61d74e277b"
+
+[update]
+[update.modrinth]
+mod-id = "hm4S7JIe"
+version = "xaah1ZYr"

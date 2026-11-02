@@ -1,0 +1,13 @@
+name = "Forbidden and Arcanus "
+filename = "forbidden_arcanus-26.1.2-2.8.0-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdlnLS7Q/versions/Ct4WQf6n/forbidden_arcanus-26.1.2-2.8.0-beta.3.jar"
+hash-format = "sha512"
+hash = "d614feabd16c5faacf3eac89228bd2b2396e501a71fa0cab2b2d71000ddf96b85413d50bdee7141e6d883efc4ed56c7c80cc43122f9860f996a2d2dd3cf89ad1"
+
+[update]
+[update.modrinth]
+mod-id = "MdlnLS7Q"
+version = "Ct4WQf6n"

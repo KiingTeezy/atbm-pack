@@ -1,0 +1,13 @@
+name = "DimStorage"
+filename = "DimStorage-26.1.2-10.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8lnmIJH7/versions/tsOpH5Mt/DimStorage-26.1.2-10.0.2.jar"
+hash-format = "sha512"
+hash = "104404b2b41854be72b3c6a3c1d84f14ad9511c9622e9f21e9f17bae40b7f7ca8c5f543a5e525d6b12bbdbb0e6bf416f3b3090400691ed0fce1961ac5a4519ba"
+
+[update]
+[update.modrinth]
+mod-id = "8lnmIJH7"
+version = "tsOpH5Mt"

@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-neoforge-1.0.51+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/sxRCYCZN/car-neoforge-1.0.51%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "ca39465243028e9247f64585968908386db46d75ca320a0e301d7a3555836fefd6db885078a2d7cf9285ead9834074fedc5d671e6e235fb26679f30e81f82dbe"
+
+[update]
+[update.modrinth]
+mod-id = "DCPUF5Rv"
+version = "sxRCYCZN"

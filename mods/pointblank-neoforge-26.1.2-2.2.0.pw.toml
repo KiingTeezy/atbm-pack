@@ -1,0 +1,13 @@
+name = "Vic's Point Blank"
+filename = "pointblank-neoforge-26.1.2-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/og4KPYmA/versions/XAvbl4Gc/pointblank-neoforge-26.1.2-2.2.0.jar"
+hash-format = "sha512"
+hash = "6c46b468606cf206db405535c9b505fd8ca238aa09f24fc4fb904ada63598ed8cbed5b18d165499f4471c7c70b0d0dcc33a4c917d942d7c8919c97b50e665f86"
+
+[update]
+[update.modrinth]
+mod-id = "og4KPYmA"
+version = "XAvbl4Gc"

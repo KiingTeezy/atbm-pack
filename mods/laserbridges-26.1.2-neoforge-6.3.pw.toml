@@ -1,0 +1,13 @@
+name = "Laser Bridges & Doors"
+filename = "laserbridges-26.1.2-neoforge-6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wz31BboV/versions/hYxFyk2Z/laserbridges-26.1.2-neoforge-6.3.jar"
+hash-format = "sha512"
+hash = "3b4baee489d33275a3dd815a8c8316d03ae13cbeb04eb971ddfaa61aa9525eb2444e7b6707b7b97ad4870de2a350485cd15a87d2b650c8b4182f8e1825a3e77d"
+
+[update]
+[update.modrinth]
+mod-id = "wz31BboV"
+version = "hYxFyk2Z"

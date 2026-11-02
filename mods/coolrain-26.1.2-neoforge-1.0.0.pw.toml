@@ -1,0 +1,13 @@
+name = "Cool Rain Reforged"
+filename = "coolrain-26.1.2-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IgftU6Mn/versions/kfg82PsX/coolrain-26.1.2-NeoForge-1.0.0.jar"
+hash-format = "sha512"
+hash = "ad70189a462eaaaf8e392322458083a87ad56261f41057320d2a36b0aa5ba1b890a9da46ca6d686802a8f79eb77858ffb6b9a52d9ca3443166b5f9ceaa41d3f5"
+
+[update]
+[update.modrinth]
+mod-id = "IgftU6Mn"
+version = "kfg82PsX"

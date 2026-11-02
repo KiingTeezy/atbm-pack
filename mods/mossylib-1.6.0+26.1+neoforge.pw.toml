@@ -1,0 +1,13 @@
+name = "MossyLib"
+filename = "MossyLib-1.6.0+26.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/da72hUYm/MossyLib-1.6.0%2B26.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "e28f56dc4c79b7536727c6bdf5c5a610e5e48af69dbadf8a3887eeb53c2e9084872333749694776fb6c8020ff42ac229d6311052ee77bc1e14cdd653d4cdce1e"
+
+[update]
+[update.modrinth]
+mod-id = "ffLDUGbm"
+version = "da72hUYm"
