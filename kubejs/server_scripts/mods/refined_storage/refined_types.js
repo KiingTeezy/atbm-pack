@@ -130,7 +130,8 @@ ServerEvents.recipes((allthemods) => {
             cir: "processing_unit",
         },
         {
-            num: "65536k",
+            // ATBM 2026-11-05: was 65536k, which made this the same recipe as 65536k -> 262144k
+            num: "262144k",
             out: "1048576k",
             mod: "reinforced_advanced",
             cir: "processing_unit",

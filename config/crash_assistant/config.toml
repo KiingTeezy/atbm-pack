@@ -194,7 +194,7 @@
 	#Warning! This is not displayed anywhere, it's just tech param used for modlist feature to work correctly.
 	#Here must be actual nicknames of people who work with the modpack and publishing releases!
 	#-----------------------------------------------------------------------------------------------------
-	modpack_creators = ["whatthedrunk", "Uncandango"]
+	modpack_creators = ["KiingTeezy", "whatthedrunk", "Uncandango"]
 	#If enabled, modlist.json will be overwritten on every launch(first tick of TitleScreen),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.
@@ -202,10 +202,10 @@
 	auto_update = true
 	#If enabled, will add resourcepacks to modlist.json
 	#After filename where will be ' (resourcepack)' suffix.
-	add_resourcepacks = true
+	add_resourcepacks = false
 	#If enabled, will add datapacks to modlist.json
 	#After filename where will be ' (datapacks)' suffix.
-	add_datapacks = true
+	add_datapacks = false
 	#If enabled, will add modloader jar name to modlist, to easily track if user changed version of modloader.
 	add_modloader_jar_name = true
 	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.

@@ -107,6 +107,8 @@ if (Platform.isLoaded("mysticalagriculture")) {
       })
       .id("allthemods:essence/minecraft/weeping_vines")
 
+    // ATBM 2026-11-05: patterns made unique. ATM gave several logs the same shape (a row at the top, middle or
+    // bottom is the same recipe to the game), so most of these logs could never be crafted.
     if (Platform.isLoaded("regions_unexplored")) {
 // Regions Unexplored Logs
       allthemods
@@ -115,12 +117,12 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/alpha_log")
       allthemods
-        .shaped("8x regions_unexplored:ashen_log", ["   ", "AAA", "   "], {
+        .shaped("8x regions_unexplored:ashen_log", ["AA ", "   ", "A  "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/ashen_log")
       allthemods
-        .shaped("8x regions_unexplored:bamboo_log", ["   ", "   ", "AAA"], {
+        .shaped("8x regions_unexplored:bamboo_log", ["AA ", "   ", "  A"], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/bamboo_log")
@@ -130,12 +132,12 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/silver_birch_log")
       allthemods
-        .shaped("8x regions_unexplored:small_oak_log", [" A ", " A ", " A "], {
+        .shaped("8x regions_unexplored:small_oak_log", ["A A", "A  ", "   "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/small_oak_log")
       allthemods
-        .shaped("8x regions_unexplored:baobab_log", ["  A", "  A", "  A"], {
+        .shaped("8x regions_unexplored:baobab_log", ["A A", "   ", "A  "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/baobab_log")
@@ -145,7 +147,7 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/blackwood_log")
       allthemods
-        .shaped("8x regions_unexplored:brimwood_log", ["  A", " A ", "A  "], {
+        .shaped("8x regions_unexplored:brimwood_log", ["A A", "   ", " A "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/brimwood_log")
@@ -165,12 +167,12 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/dead_log")
       allthemods
-        .shaped("8x regions_unexplored:eucalyptus_log", [" AA", "A  ", "   "], {
+        .shaped("8x regions_unexplored:eucalyptus_log", ["A  ", "A A", "   "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/eucalyptus_log")
       allthemods
-        .shaped("8x regions_unexplored:joshua_log", ["   ", "AA ", "  A"], {
+        .shaped("8x regions_unexplored:joshua_log", ["A  ", "A  ", "  A"], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/joshua_log")
@@ -180,17 +182,17 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/kapok_log")
       allthemods
-        .shaped("8x regions_unexplored:larch_log", ["   ", "A A", " A "], {
+        .shaped("8x regions_unexplored:larch_log", ["A  ", " A ", "A  "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/larch_log")
       allthemods
-        .shaped("8x regions_unexplored:magnolia_log", ["   ", "  A", "AA "], {
+        .shaped("8x regions_unexplored:magnolia_log", ["A  ", "  A", "A  "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/magnolia_log")
       allthemods
-        .shaped("8x regions_unexplored:maple_log", ["   ", " AA", "A  "], {
+        .shaped("8x regions_unexplored:maple_log", ["A  ", "  A", " A "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/maple_log")
@@ -200,17 +202,17 @@ if (Platform.isLoaded("mysticalagriculture")) {
         })
         .id("allthemods:essence/regions_unexplored/mauve_log")
       allthemods
-        .shaped("8x regions_unexplored:palm_log", [" AA", "  A", "   "], {
+        .shaped("8x regions_unexplored:palm_log", ["A  ", "  A", "  A"], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/palm_log")
       allthemods
-        .shaped("8x regions_unexplored:pine_log", ["   ", "A  ", "AA "], {
+        .shaped("8x regions_unexplored:pine_log", ["A  ", "   ", "AA "], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/pine_log")
       allthemods
-        .shaped("8x regions_unexplored:redwood_log", ["   ", "  A", " AA"], {
+        .shaped("8x regions_unexplored:redwood_log", ["A  ", "   ", "A A"], {
           A: "mysticalagriculture:unexplored_wood_essence"
         })
         .id("allthemods:essence/regions_unexplored/redwood_log")

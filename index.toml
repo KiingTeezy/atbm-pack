@@ -1577,7 +1577,7 @@ hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "ae5c9d9bea619dadb80145aff9542dd1ff47dd4dba69314ef6a4124db276db64"
+hash = "2a0cc97f7dff1b8f57d607ba14a2670e41d12d2151194b4016fcf9d73898a55e"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -2145,7 +2145,7 @@ hash = "564e3cbbd044bfcc8c3d58700efeaec8355b8b815777e679dd80e201c1721d92"
 
 [[files]]
 file = "config/eg_particle_interactions.json"
-hash = "736c03260aa42834d5508befc8ff710b0e0027880b4f1e8bf39f3353a1f07244"
+hash = "583ca4f4bc80c1182991cc72f4aeb038c416ab6ac95ff6752cb4e6c49ca8b761"
 
 [[files]]
 file = "config/elevatorid-server.toml"
@@ -5835,7 +5835,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f1749b61ab6380c2e25489a1be3d752ce24cfdea0b31f682c1c762c8310da8fb"
+hash = "701bcd0711b1c1129b7af0cf742b1023ea38acca452bd634f82d7fc1e614a268"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -6359,7 +6359,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "385002f40776237169ac5a0131b3afcd6272e449d63fcb7a88fbc6dd4e3966bb"
+hash = "6e3c2684bdc0bc81e574e7b7ec3bdfcd430798b89c16ba9e37bacdab3ee64e50"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -13130,6 +13130,194 @@ file = "kubejs/data/agritechevolved/recipe/planter/tree/biomesoplenty/rainbow_bi
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/alpha_log.json"
+hash = "c3c83fdd27ada13457b1be038651f31eafa287f0ca00ec967ff4a961a4962744"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/ashen_log.json"
+hash = "d0ec9e69ed33d4b08450615bada3cc404b3ce9705ef821c61c56e18d50b898f7"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/bamboo_log.json"
+hash = "20dc580e12e049350f2540cff71585aa6d420603c9cc06acd3218f9d8e15665a"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/baobab_log.json"
+hash = "89417f731c0788f83e7b87fb76526eeefcc32cf9dc036051e79f6f20d15f6b56"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/blackwood_log.json"
+hash = "81d42b02eff0c366aa343858efb3cafb97e5a30c88205d8aa9d1432daa7121cb"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/brimwood_log.json"
+hash = "bc7890cb1cc9619b36cf6cdb5aac7d1c85176e9cc07a4f1870042955bc2f6929"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/cobalt_log.json"
+hash = "18266e8e5a7a1d502525839c3ab7420c6bbd9448d6c962e60a253354386f5893"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/cypress_log.json"
+hash = "b978c515906d7c71198725dc157c62be323d1b4411231dd3d964794498db3a5a"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/dead_log.json"
+hash = "07b49dfff884170736d531d7bdaf797e02063d69d431388ee9885080dc7a9b39"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/eucalyptus_log.json"
+hash = "3a71d3b5608c22838d80ae1a5bf697795f3a10e3e6625641871499e5991c1763"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/joshua_log.json"
+hash = "070727308dff8a13683275d75245d06ddda214789845e656da432b01c594f1c0"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/kapok_log.json"
+hash = "ac5796aaf2d8b1758e5b90ceb430db8568180753df528623f71f58ef20cf26a4"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/larch_log.json"
+hash = "34805ee5b726c429cd3b789e0f22e848b8b4a9bffee47462021a8a505e436091"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/magnolia_log.json"
+hash = "ae6c71107f6c38c7ac29fae10c9666bde37887895b2f843e487962f2e794a0bb"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/maple_log.json"
+hash = "e07d7655587e379f2eeaec460607a226144e61ae7cf337e2ec8b730be74f8ab1"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/mauve_log.json"
+hash = "f1d93092ff9f424fab671e29e8d7e85d79f51a50e4daf86f837937712056d4ea"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/palm_log.json"
+hash = "42229d6dba2a14857ef403b11445e644a3809795c1f1e480a1acfefb6799e160"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/pine_log.json"
+hash = "d1c543e34d3a42426b16e9b30a0f8089535c27713c163df3d1b415b47eb7b8d5"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/redwood_log.json"
+hash = "f00b6e05deeff226cab6f413ba69e2a0a6bd6f1a50cb349b300eb582d8417d50"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/silver_birch_log.json"
+hash = "b3f91e602571114258b839c827835023041a66749dc73ae969953f01a0d208c8"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/small_oak_log.json"
+hash = "cf5a4b93d8127aee3850ad570b3f44c32018b0d5e196c931954bf94b32cb774e"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/socotra_log.json"
+hash = "7d58a3e4e467b47c4463eceed8b3f77e3b542dbdd32bea0fcbdf40c9696c925b"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/allthemods/essence/regions_unexplored/willow_log.json"
+hash = "dc9618937f94fe2b92d1446a36f131555f0f3feea0d1d0bbf0ca5065a6b764ee"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/car/blastfurnace.json"
+hash = "38ff6de21f757555b94447c13851b23a4f3454971599e73acd7f2479155441da"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/car/iron_stick.json"
+hash = "b2604774afb25970f553a3828eba33f5f21a9f09eb138ccdf8ebd6e2a1cf29ac"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/car/tank.json"
+hash = "d548f36631a5d462238cebc359b3723b599fd75f2aa1183689e27ab7376745e3"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/evilcraft/crafting/undead_wood.json"
+hash = "8c96a934803bab390044513cec8944f507a2ed5edce49ba42c8dfe0a83ce637b"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/evilcraft/crafting/undead_wood_stripped.json"
+hash = "ae46c30b784dde0fcca1a838fc74adc2383752029db2a8f216f54ed770425904"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/acacia_beehive.json"
+hash = "3ce269bceecbbea20744547fccee6d6c9e43768e23a8dbc818e400bc18e5b37d"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/bamboo_beehive.json"
+hash = "435d3c56aa41c1a8b914624be80939a6c010d6b168d9eea140f080e94ab807bf"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/birch_beehive.json"
+hash = "1965f6999126cf5230d652c82b05143362e53839a25afd852d73122e7fe35e7d"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/cherry_beehive.json"
+hash = "7fe637a72a1d9c0a5b10300206c6c0a3c06a20191a461edc201844c2b88c18fd"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/crimson_beehive.json"
+hash = "abdb8647c597e28a4c601661f228eca2be86a939fc4b42198139ea021253e9de"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/dark_oak_beehive.json"
+hash = "1143ef02700ffee90eb8496041886e9f107c83cf6ae505619a9d5f28fcfca744"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/jungle_beehive.json"
+hash = "23b89182ae676e669077a0b2acd14015008ffb66646cb20142ba9ed2c427f94c"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/mangrove_beehive.json"
+hash = "9e04979b5052fe62f8e24a3b1cff4deb386a15a038abf8aabd6965aff3c07db3"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/pale_oak_beehive.json"
+hash = "cfc42e2fbab3b7bb0ec09616d86395f93eadd00ab679ec15b5d5fb91fb7e24a6"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/spruce_beehive.json"
+hash = "40a292545b6c387f3fd052bfde66bb8ea98dbcc65ae0e4cf23f9f6ec2526bd1c"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/friendsandfoes/warped_beehive.json"
+hash = "bbf76aef78ed5b715a308795fb36379e2272f2d1daa8c6289f045b590b05c9e0"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/integrateddynamics/crafting/menril_wood.json"
+hash = "3ccd9e1b665fcf9bc842d3a93f65a6304449b747211522a27dc530922e1144ba"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/integrateddynamics/crafting/menril_wood_stripped.json"
+hash = "6101cfb9d68610084cb358bc85a5951bab03ad5fb60c8aaea9931a556825f9ff"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/kubejs/kjs/refinedtypes_1048576k_energy_storage_part.json"
+hash = "83c70ace07e841d31435c9e8b435ef95926ad79c0187f44a20342b06920d1efe"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/morered/tube_from_copper.json"
+hash = "081ef3f9c2b8bf5dfe758a496728bdd21667cd15ee6283ccd0a3ac08f0dad2d8"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/morered/tube_from_gold.json"
+hash = "3d6fba720c21604c63c20f917d7153e3b5e24519a8fe6ffbb7dedd8d02f6dd2e"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/stellaris/iron_pillar.json"
+hash = "31fa7141829ea75e39ce79c5548114fbce483bc4b46a3aa35a7f9ceb4095a750"
+
+[[files]]
+file = "kubejs/data/atbm/advancement/recipes/conflict_fixes/stellaris/iron_plating_block.json"
+hash = "e141b9aa6bcdc6f75daf3a841aa4a23524aa8bfda88a77a39b839f75389838d7"
+
+[[files]]
+file = "kubejs/data/atbm/curios/entities/curio.json"
+hash = "53cbcaf0d76d6250adf3e2a0989eab4666e00d27f077e489135fc5f1d99baf55"
+
+[[files]]
 file = "kubejs/data/atbm/curios/slots/feet.json"
 hash = "087a7aae08678d50353ea52dc199e6075d8d0b170147e0b27b226e1e51ac5cc4"
 
@@ -13222,8 +13410,12 @@ file = "kubejs/server_scripts/atbm_attack_speed.js"
 hash = "82a7b2ee212c8faa8ac047cbb1db4042eb04728be8730a375e9a7efb454b498e"
 
 [[files]]
+file = "kubejs/server_scripts/atbm_recipe_conflicts.js"
+hash = "5737d33d12bd2288805b3c97ffa5e088b1e25f836b39288986a39466c0e1e431"
+
+[[files]]
 file = "kubejs/server_scripts/atbm_recipe_fixes.js"
-hash = "7b66a64131678eb3b5025622a288af3ab0a5e3a96f1346f6e7f4c24505ee1c6a"
+hash = "d649b5ee860be87c3998f6f3de696cc85a20c1874152035eb537d5d5552f11f1"
 
 [[files]]
 file = "kubejs/server_scripts/atbm_welcome.js"
@@ -13647,7 +13839,7 @@ hash = "4537ce61b59276a82097e9400a1ac7ef60dbba592d06f771c9ecc03986f28342"
 
 [[files]]
 file = "kubejs/server_scripts/mods/mysticalagriculture/recipes.js"
-hash = "847a016ff76e3961c2419930ece44799bdce462253fd87dfb7376d0e48f7c735"
+hash = "e65aec78eea36244210f7436b4739d15752659edc5ec78c40e80fa1e7c115ab6"
 
 [[files]]
 file = "kubejs/server_scripts/mods/mysticalagriculture/tags.js"
@@ -13703,7 +13895,7 @@ hash = "e8578494e705b0fe3ff8c7502944ca982d90fa564ea4f4343ee28b9c127407ad"
 
 [[files]]
 file = "kubejs/server_scripts/mods/refined_storage/refined_types.js"
-hash = "238167bacb10aa0159a0ce4fcd302412ad1bb3119797073495ecf53c90bafe9f"
+hash = "584fc0582bd4d942dd49a3e3875abf4234b3e5b2857d92c2994cdcdd8cf9d6d7"
 
 [[files]]
 file = "kubejs/server_scripts/mods/regions_unexplored/recipes.js"

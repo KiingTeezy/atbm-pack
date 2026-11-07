@@ -1,8 +1,8 @@
 {
   "config_version": 2,
-  "item_interactions": {},
-  "fluid_ambient": {},
   "general": {},
-  "entity": {},
-  "block_interactions": {}
+  "fluid_ambient": {},
+  "item_interactions": {},
+  "block_interactions": {},
+  "entity": {}
 }
