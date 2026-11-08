@@ -1,5 +1,5 @@
+#General settings for AEInfinityBooster
 [general]
-	#General settings for AEInfinityBooster
 	#The amount of power the Dimension Card drains per tick
 	# Default: 100
 	# Range: > 0
@@ -8,3 +8,6 @@
 	# Default: 50
 	# Range: > 0
 	infinityCardDrain = 50
+	#If true, inserting a Dimension Card or Infinity Card into a Wireless Access Point
+	#will keep the chunk loaded even when no players are nearby.
+	chunkLoadingEnabled = true

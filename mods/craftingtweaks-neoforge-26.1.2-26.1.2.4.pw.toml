@@ -1,0 +1,13 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-neoforge-26.1.2-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/opEK6KOi/craftingtweaks-neoforge-26.1.2-26.1.2.4.jar"
+hash-format = "sha512"
+hash = "51db23a402d7e874e686e72b3a9ff1e9e97f9bb9159b0409aecddb76c5edacf1c9183c09c5e7c8da79268b9177a6966a4e534d4103153bf1ca708cbd7588c95e"
+
+[update]
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "opEK6KOi"

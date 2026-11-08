@@ -1,0 +1,13 @@
+name = "Neo Vitae"
+filename = "neovitae-26.1.2-1.1.52.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvaW4C93/versions/yuEmYise/neovitae-26.1.2-1.1.52.jar"
+hash-format = "sha512"
+hash = "4eb7f0ac89a3bca46b488219f906111b2bc3790de18096e0b0786652a87c879b3a235770cd171111c40e359df34146e294881b3590d195b844756c56a31ad0c5"
+
+[update]
+[update.modrinth]
+mod-id = "rvaW4C93"
+version = "yuEmYise"

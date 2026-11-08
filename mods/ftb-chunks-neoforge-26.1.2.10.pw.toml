@@ -1,0 +1,8 @@
+name = "ftb-chunks-neoforge-26.1.2.10"
+filename = "ftb-chunks-neoforge-26.1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-chunks-neoforge-26.1.2.10.jar"
+hash-format = "sha512"
+hash = "7402e7b176226154f776c16ffb5c794ac4d7c100d43548022a17e748210dbe120fbdcb24fd4c2d65db0d278f3804d29ad08d57e42a90a2542f2a8454c09924e2"

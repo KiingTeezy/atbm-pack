@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "agritechevolved:crop",
+  "seed": "regions_unexplored:saguaro_cactus_flower",
+  "soils": [
+    "#agritechevolved:sand_soils"
+  ],
+  "drops": [
+    {
+      "item": "regions_unexplored:saguaro_cactus",
+      "chance": 1.0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "item": "regions_unexplored:saguaro_cactus_flower",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

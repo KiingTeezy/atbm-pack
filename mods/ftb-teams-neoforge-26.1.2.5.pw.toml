@@ -1,0 +1,8 @@
+name = "ftb-teams-neoforge-26.1.2.5"
+filename = "ftb-teams-neoforge-26.1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-teams-neoforge-26.1.2.5.jar"
+hash-format = "sha512"
+hash = "c1146deca14d6428bce6eeae4a1fcac2f14495298a1f1778df787ee4a34ac3b84fd98f4a18eaee16e3402015a88d1d386934ee9c0111fe986c45cee7483220a8"

@@ -1,0 +1,13 @@
+name = "Simply Alcohol"
+filename = "beer-1.0.0-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S6xVv5UW/versions/6VwWuXZd/beer-1.0.0-neoforge-26.1.2.jar"
+hash-format = "sha512"
+hash = "2d162d80eb0a74b7eeca942968186dbe410416096bdd79ff831ab9dba717a33babc18f6fdc66019944338cf88f4f36213230718e7550a9d5d34eae5b5eeb695a"
+
+[update]
+[update.modrinth]
+mod-id = "S6xVv5UW"
+version = "6VwWuXZd"

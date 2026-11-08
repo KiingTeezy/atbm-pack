@@ -1,0 +1,13 @@
+name = "Oritech"
+filename = "oritech-2.0.0-exp12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/eCP3mBH7/oritech-2.0.0-exp12.jar"
+hash-format = "sha512"
+hash = "b8c611aa3f0480db3081fa1fcd050753b5c582968f418f6871166f3289db48dc8b0b0152436ce87933d889a4084336fa2934abb8b221398b6fe8b0421a2150d4"
+
+[update]
+[update.modrinth]
+mod-id = "4sYI62kA"
+version = "eCP3mBH7"

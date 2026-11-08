@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "stellaris:lunar_dirt",
+      "required": false
+    },
+    {
+      "id": "stellaris:lunar_grass",
+      "required": false
+    }
+  ]
+}

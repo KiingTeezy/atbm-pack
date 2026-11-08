@@ -488,3 +488,9 @@ key_key.pointblack.interact:key.keyboard.g:ALT
 key_key.pointblack.settings:key.keyboard.y:ALT
 key_key.car_gui:key.keyboard.i:ALT
 key_key.music_disc_maker.open_equipped_boombox:key.keyboard.m:ALT
+key_key.the_bumblezone.beehemoth_up:key.keyboard.space:
+key_key.the_bumblezone.beehemoth_down:key.keyboard.x:
+key_key.immersive_aircraft.dismount:key.keyboard.r:
+key_key.immersive_aircraft.boost:key.keyboard.b:CONTROL
+key_key.immersive_aircraft.mouse_control:key.keyboard.grave.accent:
+key_key.immersive_aircraft.free_look:key.mouse.4:

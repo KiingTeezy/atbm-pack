@@ -1,0 +1,8 @@
+name = "sophisticatedstorageinmotion-26.1.2-0.10.39.388"
+filename = "sophisticatedstorageinmotion-26.1.2-0.10.39.388.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/sophisticatedstorageinmotion-26.1.2-0.10.39.388.jar"
+hash-format = "sha512"
+hash = "60c240550f5a4464b2b1d072190a7a12bdf65257e7f6ac8a82cb9537615d8407e93f10079692994d9f392dd421677891f8840ef80244278f7908f70caff11054"

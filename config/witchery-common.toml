@@ -27,6 +27,7 @@ mutandisBlacklist = []
 vampireSunSafeDimensions = ["twilightforest:twilight_forest"]
 #Whether vampires are kept at half a heart instead of dying from most damage sources.
 #Drowning and freezing always deal no damage to vampires.
-#Fire, sunlight, the void and wooden weapons can always kill them.
+#Bosses, Fire, sunlight, the void and wooden weapons can always kill them.
+#Fire resistance makes them mortal
 #When disabled, all other damage sources can kill vampires.
 enableVampireImmortality = true

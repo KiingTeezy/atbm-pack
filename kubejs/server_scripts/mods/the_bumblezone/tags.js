@@ -7,11 +7,11 @@ if (Platform.isLoaded("the_bumblezone")) {
   })
 
   ServerEvents.tags("item", (event) => {
-    // TODO: Fix this with neoforge tag system
-    const saplings = event.get("minecraft:saplings").getObjectIds()
-    const blacklist = Ingredient.of(/productivetrees.*/)
-    saplings.forEach((sapling) => {
-      if (!blacklist.test(sapling)) event.add("the_bumblezone:tradeable_saplings", sapling)
+    // ATBM 3.5.2: KubeJS 8 has no getObjectIds(), so a tag's contents cannot be read here. Take every item
+    // named like a sapling instead, still leaving out Productive Trees as ATM intended.
+    event.getElementIds().forEach((id) => {
+      let s = String(id)
+      if (/(_sapling|_propagule)$/.test(s) && !s.startsWith("productivetrees:")) event.add("the_bumblezone:tradeable_saplings", s)
     })
 
     event.add("megacells:compression_overrides", "the_bumblezone:pollen_puff")

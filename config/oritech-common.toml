@@ -1,3 +1,8 @@
+#Horizontal resonator search radius in blocks. Only loaded chunks are searched; higher ranges take longer.
+# Default: 128
+# Range: 16 ~ 1024
+resonatorRange = 128
+
 [machineSettings]
 	#Whether addon bonuses are added additive or multiplicative
 	additiveAddons = true
@@ -151,63 +156,63 @@
 		steamId = "oritech:still_steam"
 
 		[machineSettings.generators.basicGeneratorData]
-			# Default: 50000
+			# Default: 100000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 50000
 			# Default: 0
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyInsertion = 0
-			# Default: 256
+			# Default: 512
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyExtraction = 256
-			# Default: 32
+			# Default: 64
 			# Range: > 0
 			energyPerTick = 32
 
 		[machineSettings.generators.bioGeneratorData]
-			# Default: 100000
+			# Default: 250000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 100000
 			# Default: 0
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyInsertion = 0
-			# Default: 512
+			# Default: 1024
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyExtraction = 512
-			# Default: 64
+			# Default: 128
 			# Range: > 0
 			energyPerTick = 64
 
 		[machineSettings.generators.lavaGeneratorData]
-			# Default: 100000
+			# Default: 250000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 100000
 			# Default: 0
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyInsertion = 0
-			# Default: 512
+			# Default: 1024
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyExtraction = 512
-			# Default: 64
+			# Default: 128
 			# Range: > 0
 			energyPerTick = 64
 
 		[machineSettings.generators.fuelGeneratorData]
-			# Default: 250000
+			# Default: 1000000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 250000
 			# Default: 0
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyInsertion = 0
-			# Default: 2048
+			# Default: 4096
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyExtraction = 2048
-			# Default: 256
+			# Default: 512
 			# Range: > 0
 			energyPerTick = 256
 
 		[machineSettings.generators.steamEngineData]
-			# Default: 100000
+			# Default: 250000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 100000
 			# Default: 50000
@@ -231,16 +236,16 @@
 			steamBoilerCapacityBuckets = 8
 
 		[machineSettings.generators.solarGeneratorData]
-			# Default: 100000
+			# Default: 250000
 			# Range: 0 ~ 9223372036854775807
 			energyCapacity = 100000
 			# Default: 0
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyInsertion = 0
-			# Default: 256
+			# Default: 512
 			# Range: 0 ~ 9223372036854775807
 			maxEnergyExtraction = 256
-			# Default: 32
+			# Default: 64
 			# Range: > 0
 			energyPerTick = 32
 
@@ -394,10 +399,10 @@
 		# Default: 1000000
 		# Range: 0 ~ 9223372036854775807
 		energyCapacity = 1000000
-		# Default: 5000
+		# Default: 10000
 		# Range: 0 ~ 9223372036854775807
 		maxEnergyInsertion = 5000
-		# Default: 5000
+		# Default: 10000
 		# Range: 0 ~ 9223372036854775807
 		maxEnergyExtraction = 5000
 		# Default: 0
@@ -408,10 +413,10 @@
 		# Default: 20000000
 		# Range: 0 ~ 9223372036854775807
 		energyCapacity = 20000000
-		# Default: 10000
+		# Default: 25000
 		# Range: 0 ~ 9223372036854775807
 		maxEnergyInsertion = 10000
-		# Default: 10000
+		# Default: 25000
 		# Range: 0 ~ 9223372036854775807
 		maxEnergyExtraction = 10000
 		# Default: 0
@@ -435,22 +440,26 @@
 	# Default: 3
 	# Range: > 1
 	fluidPipeExtractIntervalDuration = 3
-	#Fluid pipe internal buffer size in buckets
-	# Default: 2.0
-	# Range: 0.0 ~ 1000.0
-	fluidPipeInternalStorageBuckets = 2.0
 	#Energy pipe transfer rate in RF/t
-	# Default: 10000
+	# Default: 25000
 	# Range: 0 ~ 9223372036854775807
 	energyPipeTransferRate = 10000
 	#Superconductor cable transfer rate in RF/t
 	# Default: 4194304
 	# Range: 0 ~ 9223372036854775807
 	superConductorTransferRate = 4194304
+	#Ticks without a successful item, fluid or energy pipe transfer before retry intervals start doubling
+	# Default: 100
+	# Range: > 1
+	pipeIdleThresholdTicks = 100
+	#Maximum ticks between idle pipe retries; never shorter than the normal transfer interval. Also applies to boosted pipes.
+	# Default: 40
+	# Range: > 1
+	pipeMaxIdleIntervalTicks = 40
 
 	[logistics.poleConfig]
 		#Energy transmission rate and capacity in RF/t
-		# Default: 1000000
+		# Default: 5000000
 		# Range: 0 ~ 9223372036854775807
 		energyCapacity = 1000000
 		#Minimum separation distance between poles
@@ -492,7 +501,7 @@
 	# Range: > 0
 	safeModeCooldown = 2400
 	#Maximum reactor multiblock size
-	# Default: 64
+	# Default: 66
 	# Range: > 1
 	maxSize = 64
 	#Maximum energy stored in the reactor in RF
@@ -504,7 +513,7 @@
 	# Range: > 0
 	reactorMaxEnergyOutput = 25000
 	#RF generated per reactor pulse
-	# Default: 64
+	# Default: 128
 	# Range: > 0
 	rfPerPulse = 64
 	#Neutron absorber heat reduction rate

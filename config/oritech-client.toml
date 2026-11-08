@@ -16,3 +16,7 @@ ziplineAcceleration = 0.1
 ziplineAutoJump = true
 #Enable 3rd person camera while ziplining
 ziplineCameraSwitch = true
+#Oritech visual effects: FULL keeps all effects; REDUCED keeps about a quarter of particles, removes beam outer layers and centrifuge splashes; NONE disables particles and beams.
+#Client-only: also filters Oritech particles sent by the server.
+#Allowed Values: FULL, REDUCED, NONE
+visualEffects = "FULL"

@@ -1,0 +1,8 @@
+name = "ftb-library-neoforge-26.1.2.12"
+filename = "ftb-library-neoforge-26.1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-library-neoforge-26.1.2.12.jar"
+hash-format = "sha512"
+hash = "4bf5146bc21ab4e50fe1609d6962ee78848801951163548717a1681dd5ce55ae7bbdff87149b26ac65bf2493cb7f1a47deb6c07ff0ff274eb617fc07208e729c"

@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-3.0.7+26.1.x-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/CAFGzkOP/energizedpower-3.0.7%2B26.1.x-neoforge.jar"
+hash-format = "sha512"
+hash = "519424fd51771c4ef8daff915fdfe0d90127aa0881ee26988ae4ef96d3cdea2c76ae548b47bd2dcc673bc3259ed53a12fa99b8246b3127086c56af8ceb3841a4"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "CAFGzkOP"

@@ -248,6 +248,9 @@
       "decorative_graves": true,
       "player_graves": true
     },
+    "oritech": {
+      "machine_core_controller": true
+    },
     "logisticsnetworks": {
       "logistics_node_entity": true,
       "node_attached": true
@@ -320,7 +323,9 @@
     },
     "stellaris": {
       "proxy_as_main": true,
-      "flag_owner": true
+      "flag_owner": true,
+      "oxygen_distributor": true,
+      "energy_rate": true
     },
     "mysticalagriculture": {
       "infused_farmland": true,

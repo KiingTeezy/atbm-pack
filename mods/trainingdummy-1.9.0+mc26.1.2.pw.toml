@@ -1,0 +1,8 @@
+name = "trainingdummy-1.9.0+mc26.1.2"
+filename = "trainingdummy-1.9.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/trainingdummy-1.9.0%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "3904c486eef4c54010196d13cfcad32e565dc551b55468573fcc3832ef8f21541059680e6d9e408e387d4fb5d6a8b6b5a1292d763e6fdf53b66fe0eb03a9eea8"

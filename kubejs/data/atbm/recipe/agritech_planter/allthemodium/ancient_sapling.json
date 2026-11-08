@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "agritechevolved:tree",
+  "sapling": "allthemodium:ancient_sapling",
+  "soils": [
+    "#atbm:planter_soils/allthemodium"
+  ],
+  "drops": [
+    {
+      "item": "allthemodium:ancient_log_0",
+      "chance": 1.0,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "item": "allthemodium:ancient_sapling",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

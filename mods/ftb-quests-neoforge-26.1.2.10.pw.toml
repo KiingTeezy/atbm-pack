@@ -1,0 +1,8 @@
+name = "ftb-quests-neoforge-26.1.2.10"
+filename = "ftb-quests-neoforge-26.1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-quests-neoforge-26.1.2.10.jar"
+hash-format = "sha512"
+hash = "ff743d9f71fe85dab518f316bdc2103db1fdaaa99a331c4839550170d4956457fa5c577b9e0a94fcd8983623c911ca74192cf1d5c6b0be1f8b09615b5de55076"

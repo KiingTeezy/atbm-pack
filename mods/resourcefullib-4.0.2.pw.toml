@@ -1,0 +1,13 @@
+name = "Resourceful Lib"
+filename = "ResourcefulLib-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/2wWp7MFY/ResourcefulLib-neoforge-4.0.2.jar"
+hash-format = "sha512"
+hash = "497114830f284b7a0de46157d1342e57b0bd15b17348311205e011068298539bc112d8cd20408157f606aa1d7d1015f95613b4e97abdec0abb89dc0c6aa05901"
+
+[update]
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "2wWp7MFY"

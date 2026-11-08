@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "allthemodium:ancient_dirt",
+      "required": false
+    },
+    {
+      "id": "allthemodium:ancient_grass",
+      "required": false
+    },
+    {
+      "id": "allthemodium:ancient_podzol",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "required": false
+    }
+  ]
+}

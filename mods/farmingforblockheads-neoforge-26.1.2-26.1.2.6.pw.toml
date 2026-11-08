@@ -1,0 +1,13 @@
+name = "Farming for Blockheads"
+filename = "farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/z2dkjAZx/farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+hash-format = "sha512"
+hash = "6a5017caefb2416ed4c9f03e60aeab7bfba43d76b7fe04b416dc883b65a21cd72970c29c3cd3f0f682ef5cb1ed47d9a1b83d3382bcfa693347302c27427cd687"
+
+[update]
+[update.modrinth]
+mod-id = "4WJZr8JU"
+version = "z2dkjAZx"

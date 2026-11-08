@@ -1,0 +1,13 @@
+name = "Sky Aesthetics"
+filename = "sky_aesthetics-neoforge-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2zaNpyqY/versions/ZKwxlVGT/sky_aesthetics-neoforge-2.2.0.jar"
+hash-format = "sha512"
+hash = "dd67b6fd03a2d70de21b305cd2b25530e26fb34951bdd5e095bb6bd3b0de0ebb7f1687ac9cfa63ab2bb90e438cad2135736096d0c801895a5423b4c723e80832"
+
+[update]
+[update.modrinth]
+mod-id = "2zaNpyqY"
+version = "ZKwxlVGT"

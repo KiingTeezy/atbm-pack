@@ -3,15 +3,12 @@
 # Range: 0.1 ~ 600.0
 hitResetSeconds = 2.0
 #How long the damage readout stays on screen/in chat after the last hit, in seconds.
-# Default: 1.0
+# Default: 5.0
 # Range: 0.1 ~ 60.0
 displayDurationSeconds = 1.0
 #Where to show the damage readout: SCREEN (HUD overlay) or CHAT (local chat message).
 #Allowed Values: SCREEN, CHAT
 displayLocation = "CHAT"
-#TOTAL shows the summed damage of the current streak; DPS shows that sum divided by the streak's elapsed time.
-#Allowed Values: TOTAL, DPS
-displayMetric = "TOTAL"
 #SCREEN readout only. Horizontal pixel offset from the center of the screen (negative = left, positive = right). Useful if another mod's HUD element sits where the readout would otherwise be.
 # Default: 0
 # Range: -10000 ~ 10000

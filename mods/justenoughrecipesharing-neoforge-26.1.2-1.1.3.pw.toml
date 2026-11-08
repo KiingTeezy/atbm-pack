@@ -1,0 +1,13 @@
+name = "Just Enough Recipe Sharing (JERS)"
+filename = "justenoughrecipesharing-neoforge-26.1.2-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBckKpmw/versions/OZ17SmKp/justenoughrecipesharing-neoforge-26.1.2-1.1.3.jar"
+hash-format = "sha512"
+hash = "08fd1dcfcd4feecd6c86d2180105785a9eea1d995d6538af3cda771a2b72ec63dd96c4a764072ba44e76c12164f29b080a02a5949af11ac441899a720b93dd44"
+
+[update]
+[update.modrinth]
+mod-id = "NBckKpmw"
+version = "OZ17SmKp"

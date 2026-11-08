@@ -1,0 +1,8 @@
+name = "26.1.2-neoforge-Thunder Relics-1.4"
+filename = "26.1.2-neoforge-Thunder Relics-1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/26.1.2-neoforge-Thunder.Relics-1.4.jar"
+hash-format = "sha512"
+hash = "3a66d6559bf6b6b09d0be5522f147c926a30ee2ade44647f0db438a08a8272b800ce54dc38196a2c0e3d048735b66ffe7b2412d4cae0afd82ae051001324c0cd"

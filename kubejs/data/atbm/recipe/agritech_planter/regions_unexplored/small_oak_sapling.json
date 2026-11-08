@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "agritechevolved:tree",
+  "sapling": "regions_unexplored:small_oak_sapling",
+  "soils": [
+    "#agritechevolved:tree_soils"
+  ],
+  "drops": [
+    {
+      "item": "regions_unexplored:small_oak_log",
+      "chance": 1.0,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "item": "regions_unexplored:small_oak_sapling",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

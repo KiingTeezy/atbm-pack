@@ -1,0 +1,8 @@
+name = "generatorgalore-26.1.2-1.8.0"
+filename = "generatorgalore-26.1.2-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/generatorgalore-26.1.2-1.8.0.jar"
+hash-format = "sha512"
+hash = "d18add19cfc367e82b4a5f6755cbd252aa19a1e40323222f2c8fc8871321827a9ca8b1ad5149560083a74407a003335ce064ea97941b02f3cce79b2ffa50cf6f"

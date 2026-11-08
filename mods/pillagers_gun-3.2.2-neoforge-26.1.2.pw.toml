@@ -1,0 +1,13 @@
+name = "Pillager’s Gun (Unofficial Port)"
+filename = "pillagers_gun-3.2.2 NeoForge 26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OU2Rfx0G/versions/wXOyc1dO/pillagers_gun-3.2.2%20NeoForge%2026.1.2.jar"
+hash-format = "sha512"
+hash = "3ab39f121111d243a11672d67008a10e2e3a47c7cfd527f470ee97f4d4d25e66ad6749be69f0f994b3676e6a9aca1225a11c80ff8f70a81771cf02c12be220d7"
+
+[update]
+[update.modrinth]
+mod-id = "OU2Rfx0G"
+version = "wXOyc1dO"

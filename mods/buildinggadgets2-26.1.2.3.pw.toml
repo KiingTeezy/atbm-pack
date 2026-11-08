@@ -1,0 +1,8 @@
+name = "buildinggadgets2-26.1.2.3"
+filename = "buildinggadgets2-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/buildinggadgets2-26.1.2.3.jar"
+hash-format = "sha512"
+hash = "14773d4942435b5396fcccf56215f722727f9efe2a88f966da18ff50b595d70cf19760ba8a909f75d35d018350ea149e7f9b3917d9dc8413c50127de0ceae58b"

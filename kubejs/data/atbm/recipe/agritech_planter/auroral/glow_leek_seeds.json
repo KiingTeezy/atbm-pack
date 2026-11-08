@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "auroral"
+    }
+  ],
+  "type": "agritechevolved:crop",
+  "seed": "auroral:glow_leek_seeds",
+  "soils": [
+    "#agritechevolved:farmland_soils"
+  ],
+  "drops": [
+    {
+      "item": "auroral:glow_leek",
+      "chance": 1.0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "item": "auroral:glow_leek_seeds",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

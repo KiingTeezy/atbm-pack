@@ -1,0 +1,8 @@
+name = "ftb-ultimine-neoforge-26.1.2.7"
+filename = "ftb-ultimine-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ftb-ultimine-neoforge-26.1.2.7.jar"
+hash-format = "sha512"
+hash = "ee2be0edc3815f0a2c6a2f12c5be5e1457be1970983386b515fc26aade54cce3b5cea78ad6c556059a74111f0e80a2211d9a1d16b4c41031613e16404b4bd3ef"

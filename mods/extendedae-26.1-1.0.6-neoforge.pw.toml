@@ -1,0 +1,8 @@
+name = "ExtendedAE-26.1-1.0.6-neoforge"
+filename = "ExtendedAE-26.1-1.0.6-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ExtendedAE-26.1-1.0.6-neoforge.jar"
+hash-format = "sha512"
+hash = "6bc9519f3b753fb2904132e8737a6ea247ca72baad4e68c07a0febbd91a78d7ebf239ccb229161fd15afad139319599db60c4732a31b9f8a269032b1caf52223"

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "undergarden:deepsoil_farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    }
+  ]
+}

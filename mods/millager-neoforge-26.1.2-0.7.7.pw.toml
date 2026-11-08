@@ -1,0 +1,13 @@
+name = "Millager (Village Defenders)"
+filename = "millager-neoforge-26.1.2-0.7.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFGcsxUu/versions/A0zGz44f/millager-neoforge-26.1.2-0.7.7.jar"
+hash-format = "sha512"
+hash = "b6305dcf4ae1a6aff6e427eff187364785fac73fb4a3a76da6bee7331c5f2338c271f9e8c42ff83ad5501bb46b31d1df9393493137d8557e59839933777a2c64"
+
+[update]
+[update.modrinth]
+mod-id = "DFGcsxUu"
+version = "A0zGz44f"

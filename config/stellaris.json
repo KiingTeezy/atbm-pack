@@ -3,7 +3,8 @@
     "chunkOilChance": 32,
     "minOil": 10,
     "maxOil": 50000,
-    "oilExtractionPerTick": 5
+    "oilExtractionPerTick": 5,
+    "pumpjackFluid": "stellaris:oil"
   },
   "gravityConfig": {
     "enableGravityEffects": true,
@@ -43,12 +44,18 @@
     "corrosionTickInterval": 20,
     "corrosionDamage": 1.0
   },
+  "energyConfig": {
+    "energyMultiplier": 15.0
+  },
   "machineConfig": {
     "vacuumatorEnergyPerCraft": 100,
     "vacuumatorDurationMultiplier": 20,
     "vacuumatorWaterPerCraft": 100,
     "blenderEnergyPerCraft": 150,
     "blenderTicksPerCraft": 60
+  },
+  "foodConfig": {
+    "fluidCellWaterPerCan": 100
   },
   "assistantConfig": {
     "enableAssistant": true

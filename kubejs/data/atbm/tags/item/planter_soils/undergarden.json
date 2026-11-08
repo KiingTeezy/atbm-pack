@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "undergarden:deepturf_block",
+      "required": false
+    },
+    {
+      "id": "undergarden:ashen_deepturf_block",
+      "required": false
+    },
+    {
+      "id": "undergarden:frozen_deepturf_block",
+      "required": false
+    },
+    {
+      "id": "undergarden:deepsoil",
+      "required": false
+    },
+    {
+      "id": "undergarden:coarse_deepsoil",
+      "required": false
+    }
+  ]
+}

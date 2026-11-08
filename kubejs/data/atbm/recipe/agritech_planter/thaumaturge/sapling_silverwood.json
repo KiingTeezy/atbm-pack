@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thaumaturge"
+    }
+  ],
+  "type": "agritechevolved:tree",
+  "sapling": "thaumaturge:sapling_silverwood",
+  "soils": [
+    "#agritechevolved:tree_soils"
+  ],
+  "drops": [
+    {
+      "item": "thaumaturge:log_silverwood",
+      "chance": 1.0,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "item": "thaumaturge:sapling_silverwood",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 0.5,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

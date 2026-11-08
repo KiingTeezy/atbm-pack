@@ -1,0 +1,13 @@
+name = "AEInfinityBooster"
+filename = "aeinfinitybooster-neoforge-2.1.2+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VQhDBNs8/versions/16RcW9TO/aeinfinitybooster-neoforge-2.1.2%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "f052f1275a086578c35826ddd60d078b76e168b7808d072fc05c7c2571203e9f7a0f3e598a0cf216fe1d62f19068df566f56251328917b4ef08ebe008b595ae3"
+
+[update]
+[update.modrinth]
+mod-id = "VQhDBNs8"
+version = "16RcW9TO"

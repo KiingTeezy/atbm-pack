@@ -1,0 +1,13 @@
+name = "Chunky"
+filename = "Chunky-NeoForge-1.5.66.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/sDFaDSkE/Chunky-NeoForge-1.5.66.jar"
+hash-format = "sha512"
+hash = "1ec3a20a1338fb3dbfb4c637e2369138e9c5de01e638198c8051c71c86cfdc64ad993cc6e8268beab774969700829efafc8894a6a7656ae4a833e60e05190542"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "sDFaDSkE"
