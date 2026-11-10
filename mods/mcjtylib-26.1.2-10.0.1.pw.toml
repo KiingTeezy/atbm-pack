@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-26.1.2-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Zu0uTEE/versions/ptKwXNrL/mcjtylib-26.1.2-10.0.1.jar"
+hash-format = "sha512"
+hash = "acbcb4025f3d5b4849160bc07830aa8441eca4d61b20b303a0bd79718be5520f199ec3b26e819a3bf787dfbd982f91a17e0139bdb32c2b4bb5ffd042b4451b28"
+
+[update]
+[update.modrinth]
+mod-id = "1Zu0uTEE"
+version = "ptKwXNrL"

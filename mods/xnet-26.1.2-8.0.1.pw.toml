@@ -1,0 +1,13 @@
+name = "XNet"
+filename = "xnet-26.1.2-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iu1jkWqa/versions/2A4XJbO7/xnet-26.1.2-8.0.1.jar"
+hash-format = "sha512"
+hash = "73f7d8ceb7eb8712f843865102ef0620d094b9ef9559edb85580fe51fe38bfba9bc79df1f70d88b3a6fb8107fc2fd6ca893cbbf5fff10b0a8de2612e5e6556f2"
+
+[update]
+[update.modrinth]
+mod-id = "iu1jkWqa"
+version = "2A4XJbO7"

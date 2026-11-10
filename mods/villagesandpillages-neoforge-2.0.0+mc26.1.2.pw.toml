@@ -1,0 +1,13 @@
+name = "Villages&Pillages"
+filename = "villagesandpillages-neoforge-2.0.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/klXONLDA/versions/cSgCb0gE/villagesandpillages-neoforge-2.0.0%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "30bf70da967f785ed08bee8d451c46669874dcf883a073ada544d322d6a94bda1f4d67fd0bbf893dd7caf1211f911fff1035dd5fd2450e30ab3eebf6477aaa8d"
+
+[update]
+[update.modrinth]
+mod-id = "klXONLDA"
+version = "cSgCb0gE"

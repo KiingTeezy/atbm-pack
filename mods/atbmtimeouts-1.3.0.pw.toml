@@ -1,0 +1,8 @@
+name = "atbmtimeouts-1.3.0"
+filename = "atbmtimeouts-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/atbmtimeouts-1.3.0.jar"
+hash-format = "sha512"
+hash = "24fe295ba213742c7a463c7c794d207070aed23af60a2da43750b3ea9d653027894057bf59f6b0ae7e2080b50e2f2caa307f8f32444955ab4de691d873d51a79"

@@ -154,7 +154,7 @@ key_key.railcraft.loco.reverse:key.keyboard.n:
 key_key.railcraft.loco.faster:key.keyboard.period:
 key_key.railcraft.loco.slower:key.keyboard.comma:
 key_key.railcraft.loco.mode:key.keyboard.m:
-key_key.railcraft.loco.whistle:key.keyboard.b:
+key_key.railcraft.loco.whistle:key.keyboard.unknown:
 key_key.occultism.backpack:key.keyboard.unknown:
 key_key.occultism.ender_bag:key.keyboard.unknown:
 key_key.occultism.storage_remote:key.keyboard.unknown:
@@ -491,6 +491,9 @@ key_key.music_disc_maker.open_equipped_boombox:key.keyboard.m:ALT
 key_key.the_bumblezone.beehemoth_up:key.keyboard.space:
 key_key.the_bumblezone.beehemoth_down:key.keyboard.x:
 key_key.immersive_aircraft.dismount:key.keyboard.r:
-key_key.immersive_aircraft.boost:key.keyboard.b:CONTROL
+key_key.immersive_aircraft.boost:key.keyboard.w:CONTROL
 key_key.immersive_aircraft.mouse_control:key.keyboard.grave.accent:
 key_key.immersive_aircraft.free_look:key.mouse.4:
+key_key.icys-better-horses.call:key.keyboard.h:CONTROL
+key_key.icys-better-horses.manage:key.keyboard.h:ALT
+key_key.twilightforest.swap_hotbar:key.keyboard.unknown:

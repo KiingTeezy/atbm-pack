@@ -1,0 +1,13 @@
+name = "Bannerpoint"
+filename = "bannerpoint-1.1.2+26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IfTBNyjQ/versions/OBdlldFM/bannerpoint-1.1.2%2B26.1.2-neoforge.jar"
+hash-format = "sha512"
+hash = "006dc5f4b4efc752fc2677a53e7aa2ed56db938b8399fdc5c61ac05bf740723980ffa0c0c7329ad37370c43611cd419cac5f4ba4d4427f7f6fc21c6f51667e20"
+
+[update]
+[update.modrinth]
+mod-id = "IfTBNyjQ"
+version = "OBdlldFM"

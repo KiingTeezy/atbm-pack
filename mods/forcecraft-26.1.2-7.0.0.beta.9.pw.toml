@@ -1,0 +1,8 @@
+name = "ForceCraft-26.1.2-7.0.0.beta.9"
+filename = "ForceCraft-26.1.2-7.0.0.beta.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/ForceCraft-26.1.2-7.0.0.beta.9.jar"
+hash-format = "sha512"
+hash = "7c20d547a6afe7bb6ce3dabe00f8d71ad7f654cfea741407e3e583dd718984159e0720814bd668a884453731f137573d91f89f9c4fd11d786f0531ba1fc9ac12"

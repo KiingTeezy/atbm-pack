@@ -1,0 +1,13 @@
+name = "Immersive Horse Riding"
+filename = "immersive_horse_riding-26.1.2-NeoForge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MmgRSJ2v/versions/66yMvpgg/immersive_horse_riding-26.1.2-NeoForge-2.0.0.jar"
+hash-format = "sha512"
+hash = "49936a6134357c30cac6c7cf24ea3192960604d03512154f8d5c49640a8b4e5e9a39ef586bd1b19f0e074c004d2c695fc0601d79683d332aec7759435d898ecd"
+
+[update]
+[update.modrinth]
+mod-id = "MmgRSJ2v"
+version = "66yMvpgg"

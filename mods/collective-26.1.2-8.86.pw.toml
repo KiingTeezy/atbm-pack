@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-26.1.2-8.86.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/X6bPOmMW/collective-26.1.2-8.86.jar"
+hash-format = "sha512"
+hash = "bc8a1576351f82f1c21503285c82779061adb9f0e7e0dbd69107f90736a826b1732a4d9dd6103029f2decdd526c14c356c3397f1a36a47e0320d8493fffb1da1"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "X6bPOmMW"

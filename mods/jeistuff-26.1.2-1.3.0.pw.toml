@@ -1,0 +1,8 @@
+name = "jeistuff-26.1.2-1.3.0"
+filename = "jeistuff-26.1.2-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/jeistuff-26.1.2-1.3.0.jar"
+hash-format = "sha512"
+hash = "864d5c305a54ef277e6afd49a31ecd812b22273a9247e46526ae9318efb19ee8a91531ff394163532a9a63e9cea843a98451b349f00719ea86dfa9897bcf0869"

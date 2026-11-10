@@ -1,0 +1,8 @@
+name = "HellishTrials-neoforge-1.0.7"
+filename = "HellishTrials-neoforge-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/HellishTrials-neoforge-1.0.7.jar"
+hash-format = "sha512"
+hash = "58e390a2a960ad8f4a6817c4b921ac0d6f3fc0769e85ef32cf7100182450c5c667ce965faa799a78ac2923222068fac55d46cc3453afb393b09a366107488f1f"

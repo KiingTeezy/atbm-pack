@@ -15,6 +15,14 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	soulHeartReturnChance = 1.0
+	#The maximum amount of heart canisters each slot of the Heart Amulet can hold
+	# Default: 10
+	# Range: 1 ~ 99
+	heartAmuletSlotCapacity = 10
+	#Base value of the bhc:heart_effectiveness player attribute, which multiplies the extra health granted by heart amulets. 0.0 = no extra health unless the attribute is raised by a modifier, 1.0 = normal, 2.0 = double
+	# Default: 1.0
+	# Range: 0.0 ~ 1024.0
+	heartEffectivenessDefault = 1.0
 
 ["Heart Patches"]
 	#Heal amounts are in half-hearts (e.g. 2 = 1 full heart)
@@ -51,3 +59,21 @@
 	# Default: 30
 	# Range: > 0
 	bluePatchCooldown = 30
+
+[Tools]
+	#Extra arrow damage added by the Vigor Bow per heart container stored in it
+	# Default: 0.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	vigorBowDamagePerContainer = 0.5
+	#Extra attack damage added by the Blade of Vitality per heart container stored in it
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	bladeOfVitalityDamagePerContainer = 1.0
+	#The maximum amount of heart canisters each slot of the Vigor Bow can hold
+	# Default: 10
+	# Range: 1 ~ 99
+	vigorBowSlotCapacity = 10
+	#The maximum amount of heart canisters each slot of the Blade of Vitality can hold
+	# Default: 10
+	# Range: 1 ~ 99
+	bladeOfVitalitySlotCapacity = 10

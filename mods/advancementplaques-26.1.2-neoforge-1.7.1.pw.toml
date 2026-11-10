@@ -1,0 +1,13 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-26.1.2-neoforge-1.7.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/aNTD9OYF/AdvancementPlaques-26.1.2-neoforge-1.7.1.jar"
+hash-format = "sha512"
+hash = "fd52754ee154e894a0f07e2b0ecb055c6d2566899f3bc354414043d53dc967a980e65e20c6b1a6b29b7db57aae69096c763d98697de225ad765f2a21a6a5aca9"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "aNTD9OYF"

@@ -5,10 +5,9 @@
   "ingredient": {
     "tag": "c:gems/xychorium"
   },
-
   "textures": {
-    "flower": "mysticalagriculture:block/xychorium_gem_flower",
-    "essence": "mysticalagriculture:item/xychorium_gem_essence",
-    "seeds": "mysticalagriculture:item/xychorium_gem_seeds"
-  }
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  },
+  "color": "3A6FD8"
 }

@@ -1,0 +1,8 @@
+name = "reliquary-26.1.2-2.0.100.1592"
+filename = "reliquary-26.1.2-2.0.100.1592.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/reliquary-26.1.2-2.0.100.1592.jar"
+hash-format = "sha512"
+hash = "3ffe9836d527a19b89a33cb44317188499ff4371badfb1795a8242b71bdb4e63d31e4a79a7cf75ba2b21d709ebc33e7621d6576a75165d6dd4cb31f4ff892994"

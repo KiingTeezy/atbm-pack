@@ -1,0 +1,13 @@
+name = "Drink Beer Refill"
+filename = "drinkbeer-refill-26.1.2-neoforge-1.4.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RZwVw5iA/versions/S8AOAIIU/drinkbeer-refill-26.1.2-neoforge-1.4.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "bdac54b1b1500a611978ab3de569671a75c5a8d9616b3fc3bf4d359b97d0f8f49f485c5bd1b309fcab7da06700bbca852fae0f1d0ccdd25712ecec81596877a9"
+
+[update]
+[update.modrinth]
+mod-id = "RZwVw5iA"
+version = "S8AOAIIU"

@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes"
+filename = "easyshulkerboxes-v26.1.8-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA5euN8S/versions/M15l5ntU/easyshulkerboxes-v26.1.8-mc26.1.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "7c5e6497015955966cbbb2b7876f2ed1a12aee7e939b4416325965b705d948a8b48368fe23dfb63afad13cb67a82e3eaaca8c94dc8c9f3cf7e5d44151d395d6d"
+
+[update]
+[update.modrinth]
+mod-id = "gA5euN8S"
+version = "M15l5ntU"

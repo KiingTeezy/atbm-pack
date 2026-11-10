@@ -1,0 +1,8 @@
+name = "Enderthing-26.1.2-1.10.3"
+filename = "Enderthing-26.1.2-1.10.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/Enderthing-26.1.2-1.10.3.jar"
+hash-format = "sha512"
+hash = "30880df2814cf9ed26be7e8886d51398af4cb5a737c61093631546d0035a63b179b7376718751854ee4c1936bd51a37aeca0ea603227a90e266756a5dfce0689"

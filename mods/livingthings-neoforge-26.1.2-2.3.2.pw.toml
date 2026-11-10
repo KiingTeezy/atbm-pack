@@ -1,0 +1,13 @@
+name = "LivingThings"
+filename = "livingthings-neoforge-26.1.2-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKDLi1GJ/versions/53zuvuaZ/livingthings-neoforge-26.1.2-2.3.2.jar"
+hash-format = "sha512"
+hash = "3c0be5f06516e11b78d0dd89ec452f7a428445490637000a50a99d5e3df7f5aff3a56db8703227c81ab0d0ac52c4bc32b5077e1f9b9864dad6b4cfb19f79e941"
+
+[update]
+[update.modrinth]
+mod-id = "UKDLi1GJ"
+version = "53zuvuaZ"

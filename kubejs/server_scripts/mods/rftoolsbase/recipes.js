@@ -9,6 +9,8 @@ if (Platform.isLoaded("rftoolsbase")) {
       r: "#c:storage_blocks/redstone",
       m: "rftoolsbase:machine_frame"
     })
+    // ATBM: RFTools Utility has no 26.1 build yet; skip its module recipes until it does
+    if (!Platform.isLoaded("rftoolsutility")) return
     // Fix Syringe Display
     allthemods
       .shaped(Item.of("rftoolsutility:flight_module", 1), ["DUD", "DND", "DPD"], {

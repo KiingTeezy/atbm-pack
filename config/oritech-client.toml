@@ -20,3 +20,5 @@ ziplineCameraSwitch = true
 #Client-only: also filters Oritech particles sent by the server.
 #Allowed Values: FULL, REDUCED, NONE
 visualEffects = "FULL"
+#Shake the camera near Space Age launches, landings and rocket impacts
+rocketCameraShake = true

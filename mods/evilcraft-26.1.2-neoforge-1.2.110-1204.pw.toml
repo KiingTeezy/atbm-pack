@@ -1,0 +1,8 @@
+name = "evilcraft-26.1.2-neoforge-1.2.110-1204"
+filename = "evilcraft-26.1.2-neoforge-1.2.110-1204.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/evilcraft-26.1.2-neoforge-1.2.110-1204.jar"
+hash-format = "sha512"
+hash = "4aadd0ea6a16c8726d9a50bbd32643a8747550da3a69025b25a8e616426611ed2e2cb4fe73d0b52c5a57ddfddfa870b672a51273e81279b1395f9f1c8964dc50"

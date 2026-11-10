@@ -1,0 +1,13 @@
+name = "Applied Flow Analytics"
+filename = "appliedflowanalytics-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/64dRMwFs/versions/AZiAxoT5/appliedflowanalytics-26.1.2-2.0.0.jar"
+hash-format = "sha512"
+hash = "1c312e8200f940038b0d9e6f429f9b13ab27b744d2399f5056037fbc74f3b3388a42694b1cd89751434fc8c33240e7936e0c45ac6c95f68786f713cae20e3c29"
+
+[update]
+[update.modrinth]
+mod-id = "64dRMwFs"
+version = "AZiAxoT5"
