@@ -1601,7 +1601,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "494ea7c31df17e76d4c5ef6cb8d48b359e684ee06a672ea47a5884613c8d5499"
+hash = "c9601ec84e152f52b5e40d687b2c19e9fc6eeae586fed389def11632103bf1cf"
 
 [[files]]
 file = "config/crashutilities-server.toml"
