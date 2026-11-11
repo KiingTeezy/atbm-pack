@@ -1,0 +1,8 @@
+name = "audio-improvements-2.0.1-atbmfix-neoforge-26.1.2"
+filename = "audio-improvements-2.0.1-atbmfix-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/audio-improvements-2.0.1-atbmfix-neoforge-26.1.2.jar"
+hash-format = "sha512"
+hash = "d1ac71964688708cb11247be2c37aeff7ea4ad393c0d92040418af88363d79a7b0bf5384d16aa7bfeb517da8ac960dec09210df87f36c092e988f2cbd559a25e"

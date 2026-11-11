@@ -103,13 +103,6 @@
     "version": "26.1.2.3",
     "modrinthHash": "bba72608a77d6c046cb7edead875081cbe851694"
   },
-  "Audio Improvements v2.0.1 (NeoForge 26.1.2).jar": {
-    "jarName": "Audio Improvements v2.0.1 (NeoForge 26.1.2).jar",
-    "modId": "audio_improvements",
-    "name": "Audio Improvements",
-    "version": "2.0.1",
-    "modrinthHash": "48bb1c2359801800ff0fbf09529653b089a74843"
-  },
   "BadOptimizations-2.4.1-26.1-forge.jar": {
     "jarName": "BadOptimizations-2.4.1-26.1-forge.jar",
     "modId": "badoptimizations",
@@ -1198,6 +1191,13 @@
     "name": "Atlas API",
     "version": "26.1.2-1.2.0",
     "modrinthHash": "1cc3ae69add18d462e8d0a72a6bd195ccfa53f8b"
+  },
+  "audio-improvements-2.0.1-atbmfix-neoforge-26.1.2.jar": {
+    "jarName": "audio-improvements-2.0.1-atbmfix-neoforge-26.1.2.jar",
+    "modId": "audio_improvements",
+    "name": "Audio Improvements",
+    "version": "2.0.1",
+    "modrinthHash": "50d5e99dffbb10ced1bdd245c5ca2c72391540b9"
   },
   "auroral-26.1.2-1.5.11.jar": {
     "jarName": "auroral-26.1.2-1.5.11.jar",

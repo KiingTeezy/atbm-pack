@@ -1601,7 +1601,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c9601ec84e152f52b5e40d687b2c19e9fc6eeae586fed389def11632103bf1cf"
+hash = "7392c00c9fc31db4cd4be6b7cdab48e599407c78634696e40093c7b513511359"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -2209,7 +2209,7 @@ hash = "564e3cbbd044bfcc8c3d58700efeaec8355b8b815777e679dd80e201c1721d92"
 
 [[files]]
 file = "config/eg_particle_interactions.json"
-hash = "60baca2036cf1b60b78e4b408a1f4b50a38daab6b52a26e62e48ab1a2177c36d"
+hash = "583ca4f4bc80c1182991cc72f4aeb038c416ab6ac95ff6752cb4e6c49ca8b761"
 
 [[files]]
 file = "config/elevatorid-server.toml"
@@ -6605,7 +6605,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "783b04c0bbea6b67b64f1255ef4afa249f0f13a5a2adfddac738dee9f5760066"
+hash = "1d230f8a4c11e6bf2c0e3a4d148dd7e99c7e499000a2fe85486af031440888a6"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -13909,6 +13909,10 @@ file = "kubejs/data/tombstone/tags/item/essence_of_undeath.json"
 hash = "40d1cc27c06644ca83889af84161f05504f962e836746dd295aedc13e9b38cd8"
 
 [[files]]
+file = "kubejs/data/twilightforest/structure/feature/ruins/stone_circle.nbt"
+hash = "744a417e52843acc2df482f6cddf1bf9390dd51e99efe84cdeff0bdf8ce37f3a"
+
+[[files]]
 file = "kubejs/server_scripts/announcements/announcements.js"
 hash = "c11e4848fbe76726f0a5c1c849cc37eb12ade8af9e6df9322a26a03f3f25dbe3"
 
@@ -14832,8 +14836,8 @@ hash = "06471c9dc7079218acc63eb4187677ed90237bc6b0d96c1beba771b465956efd"
 metafile = true
 
 [[files]]
-file = "mods/audio-improvements-v2.0.1--neoforge-26.1.2-.pw.toml"
-hash = "c0a51173025924be37519a0a97076b664a02c7a45e66b641c19ed4443f470fed"
+file = "mods/audio-improvements-2.0.1-atbmfix-neoforge-26.1.2.pw.toml"
+hash = "2e559b3f40b6b06c414aa4300e28dd47bc762facd60b47fa18174f66e9111218"
 metafile = true
 
 [[files]]
