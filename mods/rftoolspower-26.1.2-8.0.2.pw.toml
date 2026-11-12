@@ -1,0 +1,13 @@
+name = "RFTools Power"
+filename = "rftoolspower-26.1.2-8.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/HlWV17Bn/rftoolspower-26.1.2-8.0.2.jar"
+hash-format = "sha512"
+hash = "00205bbb874490825e886e4f3220aef160f0c40a38c54c0cb8fc96b79623fe09e17153643f796b583cc9d0328ba36179e3df709d7bfd228c545b6a169e713107"
+
+[update]
+[update.modrinth]
+mod-id = "YWbLuPa1"
+version = "HlWV17Bn"

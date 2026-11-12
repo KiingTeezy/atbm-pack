@@ -1,0 +1,13 @@
+name = "JamLib"
+filename = "jamlib-neoforge-2.3.2+26.1.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/rKpDZk3g/jamlib-neoforge-2.3.2%2B26.1.x.jar"
+hash-format = "sha512"
+hash = "bb03e7126078c11989533f2980a0b018b90659e92d436207506ac666de1f55d46b5131b1e1fab569895ec466b0cc89377d4836fd426c8959e1c0fac905f3974a"
+
+[update]
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "rKpDZk3g"

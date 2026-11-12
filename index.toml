@@ -1295,7 +1295,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "7fdbce57a556b9c91f2e5e1e7d4c7191a72428cbadf7eccf17af77977fb16dfb"
+hash = "e84eebe4cb2b15a794035c6be74c06adb4d4c05a94d5bbffb441135e39591d41"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1593,7 +1593,7 @@ hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "2a0cc97f7dff1b8f57d607ba14a2670e41d12d2151194b4016fcf9d73898a55e"
+hash = "9df7c944e19c6c8b1f87c4b5c8f639d5a8d65ccd1e681e6e03df23e367605c52"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -1601,7 +1601,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7392c00c9fc31db4cd4be6b7cdab48e599407c78634696e40093c7b513511359"
+hash = "f5ab5c6e6164ef9c5a8d08834f5bbec7e3d6ba0bc410591fe11db3dc3021a18e"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -2578,7 +2578,7 @@ hash = "5fdcea0931fad40fc29cb0726b71caafc5f25086e0b272fab54959bb9aec1b74"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "fd5a3fa1a2611ee5fde8be5bbff0a3b0943cfca145638b1c439467854e3ac222"
+hash = "1dec8b65e3a03ccc9f0d12dbf4403917a11156e610e5a0eb01923504906fd1e4"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -13309,6 +13309,10 @@ file = "kubejs/assets/minecraft/atlases/gui.json"
 hash = "3163cb2d8b071639f80d380da91e31d5da64e56a394e0781de89d49514868f76"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "ed3cb2147ffe4ab3f076f82d51c5a7edc08b5d2d51361b45f8e31c2ebff480b5"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
 hash = "4079a6729bbf7ec8f12584e81c53a9f8cb7bcc5ae456c7f3a43d7001f3f60c95"
 
@@ -13919,6 +13923,10 @@ hash = "c11e4848fbe76726f0a5c1c849cc37eb12ade8af9e6df9322a26a03f3f25dbe3"
 [[files]]
 file = "kubejs/server_scripts/atbm_attack_speed.js"
 hash = "82a7b2ee212c8faa8ac047cbb1db4042eb04728be8730a375e9a7efb454b498e"
+
+[[files]]
+file = "kubejs/server_scripts/atbm_join_leave.js"
+hash = "12548d90e9e176cb44e9fb751ca2dac07d0e8dd8ccb702bda04cd245fa2e4a51"
 
 [[files]]
 file = "kubejs/server_scripts/atbm_recipe_conflicts.js"
@@ -14621,8 +14629,8 @@ file = "kubejs/startup_scripts/xycraft/compatibility.js"
 hash = "d1c5ab1a1963f1972bbe0edff5929908c059d2b19d5185c8de4f45df28bd681d"
 
 [[files]]
-file = "mods/-neoforge-ctov-26-4.0.0.pw.toml"
-hash = "b914602bce07816869fdc45aa92a9d3f8c30509163a012d2d4e851dcdaebc2de"
+file = "mods/-neoforge-ctov-26-1-4.0.1.pw.toml"
+hash = "a9b0031e81017ced62173afd47584b965206d5e523559d4cc32d3a2923234a52"
 metafile = true
 
 [[files]]
@@ -14666,8 +14674,8 @@ hash = "befd12deaa4b000ae1e56923ea88be50322d39d1c42287164a96d51f2755d984"
 metafile = true
 
 [[files]]
-file = "mods/ae2wtlib-26.1.2-beta.pw.toml"
-hash = "b6f7427cba817f2d81a2ec535dbc0fca81c3a8c4ddd7dcf55465b5136af7cd48"
+file = "mods/ae2wtlib-26.1.3-beta.pw.toml"
+hash = "c72398bacbf954f9942adac7e92a544ffb88e5962a18ce9182c5159c96f8b39a"
 metafile = true
 
 [[files]]
@@ -15381,8 +15389,8 @@ hash = "2a9f5c9489b1fd97cf0e9948a98941a70f7db0667f829ed3b344ffbf6751f57c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-neoforge-1.11.3-mc26.1.2.pw.toml"
-hash = "9c6f1d5dfbf481632b67ec2ecaaf6e935172d46d5dbbf2861ffb274410365536"
+file = "mods/entityculling-neoforge-1.12.0-mc26.1.2.pw.toml"
+hash = "c5e7e58c496047931e83ab846f4a30c7987a91d0496fd8dec4f0006e785f558b"
 metafile = true
 
 [[files]]
@@ -15861,8 +15869,8 @@ hash = "48e7bd44a58440f06c28825b4db06f4faf9d2d72700bedfc1d552d894993fdfa"
 metafile = true
 
 [[files]]
-file = "mods/jamlib-neoforge-2.3.1+26.1.x.pw.toml"
-hash = "b2aefdc2bf8dcd732cf6eac6e77d0e42f6f2fd387e927ee7bef43dacf9823f02"
+file = "mods/jamlib-neoforge-2.3.2+26.1.x.pw.toml"
+hash = "99fd81f917bc201a063dcf33a335dd8b90cb2ed88edd8d55ae53a57be2ff18ea"
 metafile = true
 
 [[files]]
@@ -16041,8 +16049,8 @@ hash = "2d4a6d0c05600a035ccb17418e4126c5722ec441051bc820422a7fc3e85ab772"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib-26.1.2-10.0.1.pw.toml"
-hash = "844713c747afd556bef27e462ff07a266f4e25a36ffe555ce19a992820112232"
+file = "mods/mcjtylib-26.1.2-10.0.3.pw.toml"
+hash = "c689c1e5ab985a58f7f03447ffae6e2e2d62ea3f00f5e0bda0ecb0a5defa37ed"
 metafile = true
 
 [[files]]
@@ -16241,8 +16249,8 @@ hash = "db8f96d36cafb1064a62907697572b78fd0b7448457a9073e22df9c6df091ee8"
 metafile = true
 
 [[files]]
-file = "mods/music_disc_maker-3.1.3+neoforge-26.1.2.pw.toml"
-hash = "00cd0c6b08d3519f5f717de9d6aa3d5ddc6d017a7a5711c298f09ab9ad030654"
+file = "mods/music_disc_maker-3.1.4+neoforge-26.1.2.pw.toml"
+hash = "e0cc08339cd0d32b24e3386ffcae03e7e933953122c20da727ba1fa5a8567ff6"
 metafile = true
 
 [[files]]
@@ -16326,8 +16334,8 @@ hash = "c9e46710c13d24455373c6d04e0ff61425880aefcf900f8b5e24fe56a00240b4"
 metafile = true
 
 [[files]]
-file = "mods/occultism-26.1.2-neoforge-1.262.0.pw.toml"
-hash = "3948915a4f973ce6002e98e8cad68b7eb5a3f52cc167b8285f749df45f393555"
+file = "mods/occultism-26.1.2-neoforge-1.263.0.pw.toml"
+hash = "588f1576b273edf74f3a4926b03c5b2574c2cf0ce6cf589d7053ce9ce595030d"
 metafile = true
 
 [[files]]
@@ -16411,8 +16419,8 @@ hash = "a8bddce6cae71dc013ed2be1988623b722194b01e5523a968c64c08ff14c4676"
 metafile = true
 
 [[files]]
-file = "mods/polytone-26.1.2-6.8.3-neoforge.pw.toml"
-hash = "b62774422177a65d1347c3d363c1fca7aec99431c14a4351644124eed6474e4f"
+file = "mods/polytone-26.1.2-6.9.1-neoforge.pw.toml"
+hash = "7f59144814898105b14c482e7d82b2206aad2a8e646f40a6013ac4c6e1c9b00f"
 metafile = true
 
 [[files]]
@@ -16581,8 +16589,8 @@ hash = "273753a8736234df43856f22dca3ed9afa3d7df796bee58a8ab6abd2af2d934d"
 metafile = true
 
 [[files]]
-file = "mods/rftoolsbase-26.1.2-7.0.1.pw.toml"
-hash = "21ec0f7d1acd4f861a7c5700122ebc9e59757d95b2f41c43bbd68b1fa270db8c"
+file = "mods/rftoolsbase-26.1.2-7.0.2.pw.toml"
+hash = "8b151c2458d2d0b76f32bb9285796babc49ed48447eb7aa8445cddf939fc68b3"
 metafile = true
 
 [[files]]
@@ -16591,8 +16599,8 @@ hash = "ec1190e1155899098e655856481e13d5cccf0f8e3554cb7b0f661051f62f58f6"
 metafile = true
 
 [[files]]
-file = "mods/rftoolspower-26.1.2-8.0.1.pw.toml"
-hash = "6ae523c2c479ed9146292200a0b4cfbae813959253cd715f4505e7f22a494e2a"
+file = "mods/rftoolspower-26.1.2-8.0.2.pw.toml"
+hash = "5502e04d3d272336252c816b8119f57cf6477cab7b535f193bccf601d90bcf4e"
 metafile = true
 
 [[files]]
@@ -16666,11 +16674,6 @@ hash = "5f09231a2a2adde6d987da9a1500ab8825d3daed1fbf85c5ecd7de080886c018"
 metafile = true
 
 [[files]]
-file = "mods/simplebackups-26.1.6.pw.toml"
-hash = "ada358f0c972d22e4be35fc956bc8b45db35a5f5ba9774dde25bba3601849285"
-metafile = true
-
-[[files]]
 file = "mods/simplemagnets-1.1.12-neoforge-mc26.1.pw.toml"
 hash = "1ffc61ae72d44d7e39165c3c2be0e59104bfe9033b06747394f5f0798ab001bd"
 metafile = true
@@ -16721,18 +16724,18 @@ hash = "c03bf1b8f8913bd39fc95c0ffbb75613317b6f45b2c6cf74bf2954901a656406"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-26.1.2-3.26.19.2245.pw.toml"
-hash = "25dd179e2de00f8c756e261d35ff625933a518d4ca0c44b966446293630bbb8d"
+file = "mods/sophisticatedbackpacks-26.1.2-3.26.20.2250.pw.toml"
+hash = "0438a958aa3d96eeb4605be2f50f5f4b98fdbcda10adaee6b8cb394da664e4ac"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-26.1.2-1.5.33.2466.pw.toml"
-hash = "c267e5b93cc375e85008cde2ed1e3409400559ea084b470f90f3db5d6857f290"
+file = "mods/sophisticatedcore-26.1.2-1.5.34.2469.pw.toml"
+hash = "6f4e2f6ec03711480836623fa58276dcdf3a0f82836cb870add0208b96f904b3"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedstorage-26.1.2-1.5.129.2218.pw.toml"
-hash = "d5df44018c4e120066aebd5cd99e2da96480f4630e74b7163bebe8cbb379bad8"
+file = "mods/sophisticatedstorage-26.1.2-1.5.130.2225.pw.toml"
+hash = "83ecb73e8b7cb87edf192ba35017f33c358a93c7c7f0f0f0a9d79cd0e8953576"
 metafile = true
 
 [[files]]
@@ -16946,8 +16949,8 @@ hash = "dcdbd475657a869be2f5e9f5b8116c685bae34900d7b7838bfc292ae00ad361b"
 metafile = true
 
 [[files]]
-file = "mods/universalgrid-neoforge-26.1.2-1.0.2.pw.toml"
-hash = "7d4b2fd2229ad5d2d290625174fb227b29d682d6c3b1e3f25d6a69a0db04ba26"
+file = "mods/universalgrid-neoforge-26.1.2-1.0.3.pw.toml"
+hash = "aabde9e1d5291b1c09102bde307c5b3e193e79f2ba990ae1b124e8fbdae955c5"
 metafile = true
 
 [[files]]

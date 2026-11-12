@@ -793,13 +793,6 @@
     "version": "1.0.2",
     "modrinthHash": "1733d2af5cc00ff2eef566666a29ec5bfdca7407"
   },
-  "SimpleBackups-26.1.6.jar": {
-    "jarName": "SimpleBackups-26.1.6.jar",
-    "modId": "simplebackups",
-    "name": "Simple Backups",
-    "version": "26.1.6",
-    "modrinthHash": "6f73b4831c7de5f6827767eb31c1ea6879691401"
-  },
   "SimpleRPC-4.1.4.jar": {
     "jarName": "SimpleRPC-4.1.4.jar",
     "modId": "simplerpc",
@@ -989,12 +982,12 @@
     "version": "26.1.2-NeoForge-6.1.0",
     "modrinthHash": "f37261ebf49f07192d98f1040f8e9750cc50ffcd"
   },
-  "[Neoforge]ctov-26-4.0.0.jar": {
-    "jarName": "[Neoforge]ctov-26-4.0.0.jar",
+  "[Neoforge]ctov-26-1-4.0.1.jar": {
+    "jarName": "[Neoforge]ctov-26-1-4.0.1.jar",
     "modId": "ctov",
     "name": "ChoiceTheorem's Overhauled Village",
-    "version": "4.0.0",
-    "modrinthHash": "441c87bc1af47131e2f4fa13cce43615d110b13a"
+    "version": "4.0.1",
+    "modrinthHash": "6b383a70808bd876040a7c6426adb82d4dd59a8e"
   },
   "abridged-2.0.2-neoforge-26.1.jar": {
     "jarName": "abridged-2.0.2-neoforge-26.1.jar",
@@ -1017,12 +1010,12 @@
     "version": "26.1.2-2.3.1",
     "modrinthHash": "bff68fd4ac4d6bff7a0e39cbe7857a73e7b9dd36"
   },
-  "ae2wtlib-26.1.2-beta.jar": {
-    "jarName": "ae2wtlib-26.1.2-beta.jar",
+  "ae2wtlib-26.1.3-beta.jar": {
+    "jarName": "ae2wtlib-26.1.3-beta.jar",
     "modId": "ae2wtlib",
     "name": "AE2WTLib",
-    "version": "26.1.2-beta",
-    "modrinthHash": "a7286ffb0c5efa618ab1d82a73c0bb32aa054298"
+    "version": "26.1.3-beta",
+    "modrinthHash": "50e83a1b5e7fe9c21831b0417d5ebcc0d656c9bc"
   },
   "aeinfinitybooster-neoforge-2.1.2+mc26.1.2.jar": {
     "jarName": "aeinfinitybooster-neoforge-2.1.2+mc26.1.2.jar",
@@ -1766,12 +1759,12 @@
     "version": "7.2.7",
     "modrinthHash": "641768a46e317580e7cba46f3beb84d901544fb3"
   },
-  "entityculling-neoforge-1.11.3-mc26.1.2.jar": {
-    "jarName": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
+  "entityculling-neoforge-1.12.0-mc26.1.2.jar": {
+    "jarName": "entityculling-neoforge-1.12.0-mc26.1.2.jar",
     "modId": "entityculling",
     "name": "EntityCulling",
-    "version": "1.11.3",
-    "modrinthHash": "d046b0524606d7b5b7909299ae22b508541865c8"
+    "version": "1.12.0",
+    "modrinthHash": "6907ef2a96147b02bbf90c3649e5851d292857e8"
   },
   "epherolib-neoforge-26.1-1.3.0.jar": {
     "jarName": "epherolib-neoforge-26.1-1.3.0.jar",
@@ -2214,12 +2207,12 @@
     "version": "1.1.12+a",
     "modrinthHash": "9a1ca25f2cf5cb4ac5ab10035298e0a0f5aa6286"
   },
-  "jamlib-neoforge-2.3.1+26.1.x.jar": {
-    "jarName": "jamlib-neoforge-2.3.1+26.1.x.jar",
+  "jamlib-neoforge-2.3.2+26.1.x.jar": {
+    "jarName": "jamlib-neoforge-2.3.2+26.1.x.jar",
     "modId": "jamlib",
     "name": "JamLib",
-    "version": "2.3.1+26.1.x",
-    "modrinthHash": "75a93c6df883327dc11607863097667353020e8f"
+    "version": "2.3.2+26.1.x",
+    "modrinthHash": "af49b89f4c0334d65e6c94ce73f7160e1b2587e3"
   },
   "jearchaeology-26.1.2-1.3.0.jar": {
     "jarName": "jearchaeology-26.1.2-1.3.0.jar",
@@ -2421,12 +2414,12 @@
     "version": "1.8.0",
     "modrinthHash": "eb3896a965b21c3e055a73540dcad8d8f5028272"
   },
-  "mcjtylib-26.1.2-10.0.1.jar": {
-    "jarName": "mcjtylib-26.1.2-10.0.1.jar",
+  "mcjtylib-26.1.2-10.0.3.jar": {
+    "jarName": "mcjtylib-26.1.2-10.0.3.jar",
     "modId": "mcjtylib",
     "name": "McJtyLib",
-    "version": "26.1.2-10.0.1",
-    "modrinthHash": "d3caa99ea979fadc4d2ee74563f86e703fff6f94"
+    "version": "26.1.2-10.0.3",
+    "modrinthHash": "a946d1d16a23f69b9d7e1db3cf4a838ac5cc3c67"
   },
   "mcw-bridges-3.1.2-mc26.1neoforge.jar": {
     "jarName": "mcw-bridges-3.1.2-mc26.1neoforge.jar",
@@ -2610,12 +2603,12 @@
     "version": "1.0.43+26.1.2",
     "modrinthHash": "d6c79a024a86852c0514e76f22330433874a310c"
   },
-  "music_disc_maker-3.1.3+neoforge-26.1.2.jar": {
-    "jarName": "music_disc_maker-3.1.3+neoforge-26.1.2.jar",
+  "music_disc_maker-3.1.4+neoforge-26.1.2.jar": {
+    "jarName": "music_disc_maker-3.1.4+neoforge-26.1.2.jar",
     "modId": "music_disc_maker",
     "name": "Music Disc Maker",
-    "version": "3.1.3",
-    "modrinthHash": "7f6250f677738a6049a503c335084c90f097eee7"
+    "version": "3.1.4",
+    "modrinthHash": "0f2bc1280a488650f4f5971e72b7ab097310c8cc"
   },
   "neobeefix-26.1-3.0.2.jar": {
     "jarName": "neobeefix-26.1-3.0.2.jar",
@@ -2673,12 +2666,12 @@
     "version": "1.12.7",
     "modrinthHash": "60ac42790829f753fc5427d339686d3ebd44697c"
   },
-  "occultism-26.1.2-neoforge-1.262.0.jar": {
-    "jarName": "occultism-26.1.2-neoforge-1.262.0.jar",
+  "occultism-26.1.2-neoforge-1.263.0.jar": {
+    "jarName": "occultism-26.1.2-neoforge-1.263.0.jar",
     "modId": "occultism",
     "name": "Occultism",
-    "version": "1.262.0",
-    "modrinthHash": "4a53d9200f70ecda966466804b4075eec8bb69ec"
+    "version": "1.263.0",
+    "modrinthHash": "8c3a60b3ccf02b6d1a5764f7840e62f11acf42c5"
   },
   "occultism_kubejs-26.1.2-neoforge-1.11.0.jar": {
     "jarName": "occultism_kubejs-26.1.2-neoforge-1.11.0.jar",
@@ -2750,12 +2743,12 @@
     "version": "2.2.0",
     "modrinthHash": "e7f3214f722fa6d617dd996c53fe653558546f00"
   },
-  "polytone-26.1.2-6.8.3-neoforge.jar": {
-    "jarName": "polytone-26.1.2-6.8.3-neoforge.jar",
+  "polytone-26.1.2-6.9.1-neoforge.jar": {
+    "jarName": "polytone-26.1.2-6.9.1-neoforge.jar",
     "modId": "polytone",
     "name": "Polytone",
-    "version": "26.1.2-6.8.3",
-    "modrinthHash": "93be08ecf45320abb87f70f98bec74f309649211"
+    "version": "26.1.2-6.9.1",
+    "modrinthHash": "3683523637f66f6ef7b98ab35264702d08a761d5"
   },
   "portingdeadlibs-1.1.14-26.1.jar": {
     "jarName": "portingdeadlibs-1.1.14-26.1.jar",
@@ -2960,12 +2953,12 @@
     "version": "26.1.2-25.1.0",
     "modrinthHash": "0fbf139512f683b3c992e3ac2b99f6680781e539"
   },
-  "rftoolsbase-26.1.2-7.0.1.jar": {
-    "jarName": "rftoolsbase-26.1.2-7.0.1.jar",
+  "rftoolsbase-26.1.2-7.0.2.jar": {
+    "jarName": "rftoolsbase-26.1.2-7.0.2.jar",
     "modId": "rftoolsbase",
     "name": "RFToolsBase",
-    "version": "26.1.2-7.0.1",
-    "modrinthHash": "c58d3671b6284968a84d57980bb6859964991932"
+    "version": "26.1.2-7.0.2",
+    "modrinthHash": "d2d91dd2b244ccae89521a8b8ce0a32d65149c69"
   },
   "rftoolsbuilder-26.1.2-8.0.0.jar": {
     "jarName": "rftoolsbuilder-26.1.2-8.0.0.jar",
@@ -2974,12 +2967,12 @@
     "version": "26.1.2-8.0.0",
     "modrinthHash": "94c855ac623357851368ed1cd14d048340db2003"
   },
-  "rftoolspower-26.1.2-8.0.1.jar": {
-    "jarName": "rftoolspower-26.1.2-8.0.1.jar",
+  "rftoolspower-26.1.2-8.0.2.jar": {
+    "jarName": "rftoolspower-26.1.2-8.0.2.jar",
     "modId": "rftoolspower",
     "name": "RFToolsPower",
-    "version": "26.1.2-8.0.1",
-    "modrinthHash": "56328d46c7cf3e0f305d6714124eaaeef05e2c44"
+    "version": "26.1.2-8.0.2",
+    "modrinthHash": "6d9e177f00c7e655ba6842b6ccba2fc9d180892e"
   },
   "rhino-2101.2.8-build.91.jar": {
     "jarName": "rhino-2101.2.8-build.91.jar",
@@ -3114,26 +3107,26 @@
     "version": "1.19.0",
     "modrinthHash": "0ea384f84ea3b31c62d13fdd0b58f0d1430c35f0"
   },
-  "sophisticatedbackpacks-26.1.2-3.26.19.2245.jar": {
-    "jarName": "sophisticatedbackpacks-26.1.2-3.26.19.2245.jar",
+  "sophisticatedbackpacks-26.1.2-3.26.20.2250.jar": {
+    "jarName": "sophisticatedbackpacks-26.1.2-3.26.20.2250.jar",
     "modId": "sophisticatedbackpacks",
     "name": "Sophisticated Backpacks",
-    "version": "3.26.19",
-    "modrinthHash": "a686531ccd2a6c52637429d3a65dcdb56d615592"
+    "version": "3.26.20",
+    "modrinthHash": "c60a7aac65145cec0039c7bcd181d1829b22bda9"
   },
-  "sophisticatedcore-26.1.2-1.5.33.2466.jar": {
-    "jarName": "sophisticatedcore-26.1.2-1.5.33.2466.jar",
+  "sophisticatedcore-26.1.2-1.5.34.2469.jar": {
+    "jarName": "sophisticatedcore-26.1.2-1.5.34.2469.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.5.33",
-    "modrinthHash": "7580bcbed9e63581701b0f1d74ee611c1d86ce6f"
+    "version": "1.5.34",
+    "modrinthHash": "abe0343417248aafa19ca37ea5e97a7dcd850e09"
   },
-  "sophisticatedstorage-26.1.2-1.5.129.2218.jar": {
-    "jarName": "sophisticatedstorage-26.1.2-1.5.129.2218.jar",
+  "sophisticatedstorage-26.1.2-1.5.130.2225.jar": {
+    "jarName": "sophisticatedstorage-26.1.2-1.5.130.2225.jar",
     "modId": "sophisticatedstorage",
     "name": "Sophisticated Storage",
-    "version": "1.5.129",
-    "modrinthHash": "dbebcc2bb09783ec191d9964eccd75d84c9d6f00"
+    "version": "1.5.130",
+    "modrinthHash": "01b85dd8d300ecdd6bba6e39ba162a15ccfd642f"
   },
   "sophisticatedstorageinmotion-26.1.2-0.10.39.388.jar": {
     "jarName": "sophisticatedstorageinmotion-26.1.2-0.10.39.388.jar",
@@ -3359,12 +3352,12 @@
     "version": "1.0.0",
     "modrinthHash": "51c5c36c1aedbd175b9c19821de5010f66b838e4"
   },
-  "universalgrid-neoforge-26.1.2-1.0.2.jar": {
-    "jarName": "universalgrid-neoforge-26.1.2-1.0.2.jar",
+  "universalgrid-neoforge-26.1.2-1.0.3.jar": {
+    "jarName": "universalgrid-neoforge-26.1.2-1.0.3.jar",
     "modId": "universalgrid",
     "name": "Universal Grid",
-    "version": "26.1.2-1.0.2",
-    "modrinthHash": "0e2123f8c4be32336654d2f9ad91e07889490e9f"
+    "version": "26.1.2-1.0.3",
+    "modrinthHash": "a86816f16465af8d977483e113c96abcce0f7778"
   },
   "uranus-3.0-alpha.1.jar": {
     "jarName": "uranus-3.0-alpha.1.jar",

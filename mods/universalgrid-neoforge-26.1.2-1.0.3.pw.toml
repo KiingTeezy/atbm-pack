@@ -1,0 +1,13 @@
+name = "Universal Grid"
+filename = "universalgrid-neoforge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kpMfA312/versions/nrrdvNFB/universalgrid-neoforge-26.1.2-1.0.3.jar"
+hash-format = "sha512"
+hash = "bb550dc1868a953adb972f79cf53a3219a39021085b7b0a41a6af31d1426156281c5af219ccc00613bb0b17c3faa42a3de20193c448dcba572f303fdb289c865"
+
+[update]
+[update.modrinth]
+mod-id = "kpMfA312"
+version = "nrrdvNFB"

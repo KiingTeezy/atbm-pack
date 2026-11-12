@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-26.1.2-1.5.130.2225"
+filename = "sophisticatedstorage-26.1.2-1.5.130.2225.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/sophisticatedstorage-26.1.2-1.5.130.2225.jar"
+hash-format = "sha512"
+hash = "56383c1557cc17803762420301a8de22a8c17938fb9b9f2b125a1f961bac3fd0a8cc3616edbeac5aafffdc0daf1a33c945a01531525c2e787bd5f70a998e9dfa"

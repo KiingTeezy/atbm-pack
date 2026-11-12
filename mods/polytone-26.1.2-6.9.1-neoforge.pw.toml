@@ -1,0 +1,13 @@
+name = "Polytone"
+filename = "polytone-26.1.2-6.9.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/ekMj4lt3/polytone-26.1.2-6.9.1-neoforge.jar"
+hash-format = "sha512"
+hash = "849c6d305a67394c1efa15161eba0accdfdde0bce3d58c8d6a09f4f61730df094ac44c2e95ebe8c0eeed56df775c8c771fda09c123171e9ee399243d6bac978d"
+
+[update]
+[update.modrinth]
+mod-id = "3qAYkBMB"
+version = "ekMj4lt3"
