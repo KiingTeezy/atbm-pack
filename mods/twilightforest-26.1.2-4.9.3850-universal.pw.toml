@@ -1,8 +1,0 @@
-name = "twilightforest-26.1.2-4.9.3850-universal"
-filename = "twilightforest-26.1.2-4.9.3850-universal.jar"
-side = "both"
-
-[download]
-url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/twilightforest-26.1.2-4.9.3850-universal.jar"
-hash-format = "sha512"
-hash = "7bca348437b2fa8064bc0f5e0f329e801dbd0a433abcb28d37b4d166b702049e0c6ab7e9a648eee809548c009045919e9087827274396dcd49b0d47bcfb3abad"

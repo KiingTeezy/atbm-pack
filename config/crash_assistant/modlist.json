@@ -376,12 +376,12 @@
     "version": "10.0.0",
     "modrinthHash": "89ae845448305df0f1ba69d507b3b6254cfbe182"
   },
-  "ForceCraft-26.1.2-7.0.0.beta.9.jar": {
-    "jarName": "ForceCraft-26.1.2-7.0.0.beta.9.jar",
+  "ForceCraft-26.1.2-7.0.3.jar": {
+    "jarName": "ForceCraft-26.1.2-7.0.3.jar",
     "modId": "forcecraft",
     "name": "ForceCraft",
-    "version": "7.0.0.beta.9",
-    "modrinthHash": "8d515fea9b748d8193e15f26bd2bb86fb920a790"
+    "version": "7.0.3",
+    "modrinthHash": "5954e4df6b526afa255c73c8c2334ab2645d5330"
   },
   "ForgeConfigAPIPort-v26.1.5-mc26.1.x-NeoForge.jar": {
     "jarName": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-NeoForge.jar",
@@ -1220,12 +1220,12 @@
     "version": "1.1.2",
     "modrinthHash": "38b1541620562e47e07f679e176636ce547614cf"
   },
-  "baubley-heart-canisters-26.1.2-1.8.0.jar": {
-    "jarName": "baubley-heart-canisters-26.1.2-1.8.0.jar",
+  "baubley-heart-canisters-26.1.2-1.9.0.jar": {
+    "jarName": "baubley-heart-canisters-26.1.2-1.9.0.jar",
     "modId": "bhc",
     "name": "Baubley Heart Canisters",
-    "version": "26.1.2-1.8.0",
-    "modrinthHash": "463f31e27315915653e2adea622779fed6aad594"
+    "version": "26.1.2-1.9.0",
+    "modrinthHash": "8efbf14b2d1a2b0e4599c96103cdffbd8691d015"
   },
   "bbe-neoforge-1.3.7-beta.1+mc26.1.2.jar": {
     "jarName": "bbe-neoforge-1.3.7-beta.1+mc26.1.2.jar",
@@ -1577,12 +1577,12 @@
     "version": "15.0.0+26.1.2",
     "modrinthHash": "7d9d228d1224238750fd3924737c6734b58eb344"
   },
-  "cyclopscore-26.1.2-neoforge-1.31.4.jar": {
-    "jarName": "cyclopscore-26.1.2-neoforge-1.31.4.jar",
+  "cyclopscore-26.1.2-neoforge-1.31.4-1229.jar": {
+    "jarName": "cyclopscore-26.1.2-neoforge-1.31.4-1229.jar",
     "modId": "cyclopscore",
     "name": "Cyclops Core",
-    "version": "1.31.4",
-    "modrinthHash": "552beaa7d832c7a7bc5508f8e34dd92de0f899f0"
+    "version": "1.31.4-1229",
+    "modrinthHash": "a62c7283d3f419da418736dc1e5b2c8af795ff6e"
   },
   "deepnull-reforged-4.2.1-beta.jar": {
     "jarName": "deepnull-reforged-4.2.1-beta.jar",
@@ -2025,12 +2025,12 @@
     "version": "26.1.17-beta",
     "modrinthHash": "856a13f4373cfb6edd97a1c5959f5a0010e4eec5"
   },
-  "hephaestus_tools-neoforge-26.1.2-1.0.11.jar": {
-    "jarName": "hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
+  "hephaestus_tools-neoforge-26.1.2-1.0.12.jar": {
+    "jarName": "hephaestus_tools-neoforge-26.1.2-1.0.12.jar",
     "modId": "hephaestus_tools",
     "name": "Hephaestus Tools",
-    "version": "1.0.11",
-    "modrinthHash": "a3181746d675557b4c558ac4a9cdbebecb340cfd"
+    "version": "1.0.12",
+    "modrinthHash": "72515decb972508607dafc32a80c1630736892c5"
   },
   "hephaestusmetalworks-26.1.2-1.0.2.jar": {
     "jarName": "hephaestusmetalworks-26.1.2-1.0.2.jar",
@@ -2932,12 +2932,12 @@
     "version": "1.4.1",
     "modrinthHash": "f95bd338e96fdbaf2fb381474446ea4f3f0876c4"
   },
-  "reliquary-26.1.2-2.0.100.1592.jar": {
-    "jarName": "reliquary-26.1.2-2.0.100.1592.jar",
+  "reliquary-26.1.2-2.0.101.1598.jar": {
+    "jarName": "reliquary-26.1.2-2.0.101.1598.jar",
     "modId": "reliquary",
     "name": "Reliquary Reincarnations",
-    "version": "2.0.100",
-    "modrinthHash": "05c017f679f58e71f3f14f3f36219209a710580c"
+    "version": "2.0.101",
+    "modrinthHash": "c6f803656992c5150e4ef890ae27de4893687b76"
   },
   "repeatable_trial_vaults-neoforge-26.1.2-1.0.3.jar": {
     "jarName": "repeatable_trial_vaults-neoforge-26.1.2-1.0.3.jar",
@@ -2981,12 +2981,12 @@
     "version": "2101.2.8-build.91",
     "modrinthHash": "56eab1d464ed0811c64040c64bd047df5cbc3aad"
   },
-  "rightclickharvest-neoforge-4.6.2+26.1.x.jar": {
-    "jarName": "rightclickharvest-neoforge-4.6.2+26.1.x.jar",
+  "rightclickharvest-neoforge-4.7.0+26.1.x.jar": {
+    "jarName": "rightclickharvest-neoforge-4.7.0+26.1.x.jar",
     "modId": "rightclickharvest",
     "name": "Right Click Harvest",
-    "version": "4.6.2+26.1.x",
-    "modrinthHash": "afb97548c237131102a6613d39389346c177a241"
+    "version": "4.7.0+26.1.x",
+    "modrinthHash": "ee99162a5d33044aa3dc15a57726191b7a14ea9e"
   },
   "rogues-neoforge-3.1.3.002+26.1.2.jar": {
     "jarName": "rogues-neoforge-3.1.3.002+26.1.2.jar",
@@ -3114,12 +3114,12 @@
     "version": "3.26.20",
     "modrinthHash": "c60a7aac65145cec0039c7bcd181d1829b22bda9"
   },
-  "sophisticatedcore-26.1.2-1.5.34.2469.jar": {
-    "jarName": "sophisticatedcore-26.1.2-1.5.34.2469.jar",
+  "sophisticatedcore-26.1.2-1.5.36.2474.jar": {
+    "jarName": "sophisticatedcore-26.1.2-1.5.36.2474.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.5.34",
-    "modrinthHash": "abe0343417248aafa19ca37ea5e97a7dcd850e09"
+    "version": "1.5.36",
+    "modrinthHash": "c25fd3740a094e0a08dc138fa4110cfaecbe9761"
   },
   "sophisticatedstorage-26.1.2-1.5.130.2225.jar": {
     "jarName": "sophisticatedstorage-26.1.2-1.5.130.2225.jar",
@@ -3338,12 +3338,12 @@
     "version": "26.1.2-3.0.0",
     "modrinthHash": "0ac774de8ca515960ddc4696ae7e03cc3bcf7fb8"
   },
-  "twilightforest-26.1.2-4.9.3850-universal.jar": {
-    "jarName": "twilightforest-26.1.2-4.9.3850-universal.jar",
+  "twilightforest-26.1.2-4.9.3912-universal.jar": {
+    "jarName": "twilightforest-26.1.2-4.9.3912-universal.jar",
     "modId": "twilightforest",
     "name": "The Twilight Forest",
-    "version": "4.9.3850",
-    "modrinthHash": "df626da939c3d6174b3e85917fc748ec6bf5572c"
+    "version": "4.9.3912",
+    "modrinthHash": "f70eab820ad0afbf2586de8528a03089dfdff3ce"
   },
   "underwater_village-1.0.0 Neoforge 26.1.2.jar": {
     "jarName": "underwater_village-1.0.0 Neoforge 26.1.2.jar",

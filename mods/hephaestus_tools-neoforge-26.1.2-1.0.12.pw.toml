@@ -1,0 +1,8 @@
+name = "hephaestus_tools-neoforge-26.1.2-1.0.12"
+filename = "hephaestus_tools-neoforge-26.1.2-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/hephaestus_tools-neoforge-26.1.2-1.0.12.jar"
+hash-format = "sha512"
+hash = "468db8b211a09734a67a53632519d4848c72c8c7e54e7218c9c8eb52a0f00918cc0d39171f79e9d2453ba41b7c2ab298481a08fec908f51ed336e3d8cf400730"

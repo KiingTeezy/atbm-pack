@@ -1,0 +1,8 @@
+name = "baubley-heart-canisters-26.1.2-1.9.0"
+filename = "baubley-heart-canisters-26.1.2-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/baubley-heart-canisters-26.1.2-1.9.0.jar"
+hash-format = "sha512"
+hash = "f1888ebee4391b5ee50ccebc993f641eaf1ad3bb2bebc3d8caca62f6c2973300175cc247b89456a2f301e17a2a869fe8e583816a44636f8f97838256787e54c3"

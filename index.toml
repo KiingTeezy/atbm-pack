@@ -1295,7 +1295,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "e84eebe4cb2b15a794035c6be74c06adb4d4c05a94d5bbffb441135e39591d41"
+hash = "79fc91859f0c2fe172a7a4b9e8979278f090cfec96e7a295056f5d67a9d75983"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -1601,7 +1601,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f5ab5c6e6164ef9c5a8d08834f5bbec7e3d6ba0bc410591fe11db3dc3021a18e"
+hash = "debc7e3d2e7221de129775cf2b3e830fd566f741d1ef9e0055f20db30ac94a3b"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -2578,7 +2578,7 @@ hash = "5fdcea0931fad40fc29cb0726b71caafc5f25086e0b272fab54959bb9aec1b74"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "1dec8b65e3a03ccc9f0d12dbf4403917a11156e610e5a0eb01923504906fd1e4"
+hash = "9e3aeb251878d4ab06a1338c1fefa7c75344bff1629c743c6e29169f870e98cd"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -14879,8 +14879,8 @@ hash = "803141bcf2ed0211d6fc20495731cd941b173738a8175cb5ce537ee35f08d7c8"
 metafile = true
 
 [[files]]
-file = "mods/baubley-heart-canisters-26.1.2-1.8.0.pw.toml"
-hash = "39d3327e82fa6df245f61567558647eebca3646eeddbe4f6fe3e1f606671ca33"
+file = "mods/baubley-heart-canisters-26.1.2-1.9.0.pw.toml"
+hash = "689ecfeb621ec6b63b4c9c5324eb9a517b111d1992da159f1f0a3242d1a0d071"
 metafile = true
 
 [[files]]
@@ -15209,8 +15209,8 @@ hash = "7197d4fc5968e72fe5cde598388441cb1ab843d8f5d5b5eb38e5932fa8f35e24"
 metafile = true
 
 [[files]]
-file = "mods/cyclopscore-26.1.2-neoforge-1.31.4.pw.toml"
-hash = "d68134f727d0dd68127600fe48426b546f3962f64557915d7bdd71f175a3ec0e"
+file = "mods/cyclopscore-26.1.2-neoforge-1.31.4-1229.pw.toml"
+hash = "09c5c0fbed9ac85f1b26a053a2b9376308a944a80a11628a38424decb810e86f"
 metafile = true
 
 [[files]]
@@ -15514,8 +15514,8 @@ hash = "381a2b0e583f3811c78cc6800427981e8985d8e9d8f9953467b4a7af9da07c75"
 metafile = true
 
 [[files]]
-file = "mods/forcecraft-26.1.2-7.0.0.beta.9.pw.toml"
-hash = "35dd8c9e7a6c38f8314dd0cdb075d0e067aae41e2e5ec4bb42ff91bf1532bf2e"
+file = "mods/forcecraft-26.1.2-7.0.3.pw.toml"
+hash = "6e782a64654084537c1e66ac15a49c1359d9411f5d903a2dacf7c130a4c51bb0"
 metafile = true
 
 [[files]]
@@ -15689,8 +15689,8 @@ hash = "1107844739337c661346da0333031a9ecb9ff82f87d8fa83c832b5b7dcaa6d60"
 metafile = true
 
 [[files]]
-file = "mods/hephaestus_tools-neoforge-26.1.2-1.0.11.pw.toml"
-hash = "8bcc1f901bd102422909a1c986ef1d62bab7a573e43eded4c0aedc99e64c1559"
+file = "mods/hephaestus_tools-neoforge-26.1.2-1.0.12.pw.toml"
+hash = "d9c24974dc5c72f00aac5cfb40b0103a2b395b74ecd1bd6e37064872b73e44ce"
 metafile = true
 
 [[files]]
@@ -16569,8 +16569,8 @@ hash = "ff10584aa2c786dbb8faff455db204ccce7132e04c01cef7a766560a97bf4076"
 metafile = true
 
 [[files]]
-file = "mods/reliquary-26.1.2-2.0.100.1592.pw.toml"
-hash = "f8f5197480e0e8f876e8e604f4a793e6e8149ef06dad06bea452290b0b2d4e82"
+file = "mods/reliquary-26.1.2-2.0.101.1598.pw.toml"
+hash = "9b85b5f82dad96ff625407b8fd0113e072c447c45f0720632ccf89e0adcb376d"
 metafile = true
 
 [[files]]
@@ -16609,8 +16609,8 @@ hash = "673de9cae75d2ad02796368939384de0d7238cf5c782975d71848a2187f753e7"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest-neoforge-4.6.2+26.1.x.pw.toml"
-hash = "20ddf0b84d38cda161a59880fd216580d011d666d1401b118ee03f3d3e3db689"
+file = "mods/rightclickharvest-neoforge-4.7.0+26.1.x.pw.toml"
+hash = "314f6e33d525110f0073f7294c49c31e9223d7c0ec2379f4429cc691b22995c7"
 metafile = true
 
 [[files]]
@@ -16729,8 +16729,8 @@ hash = "0438a958aa3d96eeb4605be2f50f5f4b98fdbcda10adaee6b8cb394da664e4ac"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-26.1.2-1.5.34.2469.pw.toml"
-hash = "6f4e2f6ec03711480836623fa58276dcdf3a0f82836cb870add0208b96f904b3"
+file = "mods/sophisticatedcore-26.1.2-1.5.36.2474.pw.toml"
+hash = "f20dfa5d15aba55853cceeadcff24058a47b05253df740fedf734cc6e76b2f1f"
 metafile = true
 
 [[files]]
@@ -16934,8 +16934,8 @@ hash = "daab8b2f13fd3a9fbfe3152d0dd8a3d2c04928c9c93523aced65797928eb381c"
 metafile = true
 
 [[files]]
-file = "mods/twilightforest-26.1.2-4.9.3850-universal.pw.toml"
-hash = "127b087f066525a8630afcff6ca4e4c180b47abe819de045424b2942e1100a7c"
+file = "mods/twilightforest-26.1.2-4.9.3912-universal.pw.toml"
+hash = "3138a16c9ccd3a23f803f18e8da6fa33d373154d697da75d165b31816991ff6f"
 metafile = true
 
 [[files]]
