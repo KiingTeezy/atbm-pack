@@ -1295,7 +1295,7 @@ hash = "a7f43f3d92067b975b4459a4af0eae201f249c9ebe9de812b61eef53f72dd8b7"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "79fc91859f0c2fe172a7a4b9e8979278f090cfec96e7a295056f5d67a9d75983"
+hash = "aaa3cb20974355f6fe1aa7fc9e0b6a830ed7c9e400574f455745a31c7e4881c0"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -2578,7 +2578,7 @@ hash = "5fdcea0931fad40fc29cb0726b71caafc5f25086e0b272fab54959bb9aec1b74"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9e3aeb251878d4ab06a1338c1fefa7c75344bff1629c743c6e29169f870e98cd"
+hash = "d860154977e530a9e5d33b1240835ae4f2a9664648d93d4374589e44464d36aa"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2726,7 +2726,7 @@ hash = "5dbddf64f2718a849bef3f76b16f3a6972ca2bacec7f3e7707f210cf73d35297"
 
 [[files]]
 file = "config/forcecraft-common.toml"
-hash = "ccaf9f6f2b4fc5d7808e2ac14b2106523b0dfdb8b7e8307dfe4e2a16b4be28cc"
+hash = "c68285d5bcbdee0d5a0029f3489393030e72639e308f1e1d2d568299910afd31"
 
 [[files]]
 file = "config/framedblocks-client.toml"
@@ -6605,7 +6605,7 @@ hash = "6f4c27f1ded0464d666c0f0285fc43684955d8b83f4157082ec64c6a94ede78a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "1d230f8a4c11e6bf2c0e3a4d148dd7e99c7e499000a2fe85486af031440888a6"
+hash = "7d09750bb01293f66b4653057c180714dd1f5eaf2f69750b6dfad0c376da8681"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -13926,7 +13926,7 @@ hash = "82a7b2ee212c8faa8ac047cbb1db4042eb04728be8730a375e9a7efb454b498e"
 
 [[files]]
 file = "kubejs/server_scripts/atbm_join_leave.js"
-hash = "12548d90e9e176cb44e9fb751ca2dac07d0e8dd8ccb702bda04cd245fa2e4a51"
+hash = "45b363211910460c180f76235a97f9a33eefd9f60fd64c10b2a663ae3c73209a"
 
 [[files]]
 file = "kubejs/server_scripts/atbm_recipe_conflicts.js"

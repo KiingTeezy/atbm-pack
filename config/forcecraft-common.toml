@@ -13,6 +13,8 @@
 	#An additional list of blockentities the Force Furnace can NOT insert into [Syntax: modid:blockentity_id]
 	#Examples: "minecraft:shulker_box" would stop it inserting into shulkers
 	furnaceOutputBlacklist = [""]
+	#When enabled the Force tools can be enchanted regularly in an Enchantment Table [Default: false]
+	allowEnchantingTable = false
 
 #Fortune messages
 [fortunes]
@@ -46,6 +48,9 @@
 	timeTorchRadius = 3
 	#Log when a player places a Time Torch [Default: true]
 	timeTorchLogging = true
+	#The default time mode for the Time Torch [Default: STOP]
+	#Allowed Values: STOP, SLOW, FAST, HYPER
+	defaultTimeMode = "STOP"
 
 #Time settings
 [time]
