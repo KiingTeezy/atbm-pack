@@ -1164,12 +1164,12 @@
     "version": "15.1.3",
     "modrinthHash": "efef666f3cde19c755b044873eb30d961748d7a9"
   },
-  "atbmtimeouts-1.3.0.jar": {
-    "jarName": "atbmtimeouts-1.3.0.jar",
+  "atbmtimeouts-1.4.0.jar": {
+    "jarName": "atbmtimeouts-1.4.0.jar",
     "modId": "atbmtimeouts",
     "name": "ATBM Timeouts",
-    "version": "1.3.0",
-    "modrinthHash": "826ce305b89bc95021fce19203c15a6bfd6804f7"
+    "version": "1.4.0",
+    "modrinthHash": "8ab620488f71cf539575f6188b83364ee9f40c05"
   },
   "athena-4.7.3.jar": {
     "jarName": "athena-4.7.3.jar",
