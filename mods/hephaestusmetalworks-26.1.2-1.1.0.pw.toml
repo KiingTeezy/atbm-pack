@@ -1,0 +1,8 @@
+name = "hephaestusmetalworks-26.1.2-1.1.0"
+filename = "hephaestusmetalworks-26.1.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/hephaestusmetalworks-26.1.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "e8007e730fda5eacc135e813174fabb01ec5cc76c8e654ddecf4053ee3edbdd7e73b995b59222089af8a0c0f13498fef2b6796d8d8c275e479978dfd631aa281"

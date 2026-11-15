@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-3.0.9+26.1.x-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/odvi02Po/energizedpower-3.0.9%2B26.1.x-neoforge.jar"
+hash-format = "sha512"
+hash = "3af19f87082f71ac1d8db90d1a91fc3feb43419ed9c805137bbb35734b42ddc2eda73db938e870ca03157b4f77d6a0301f9c7c7edb4e03328fdb46a20f02d5da"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "odvi02Po"

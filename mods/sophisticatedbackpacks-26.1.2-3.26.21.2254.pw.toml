@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-26.1.2-3.26.21.2254"
+filename = "sophisticatedbackpacks-26.1.2-3.26.21.2254.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KiingTeezy/atbm-pack/releases/download/files/sophisticatedbackpacks-26.1.2-3.26.21.2254.jar"
+hash-format = "sha512"
+hash = "360f44ed1496780eaa87257d982a41a24f2ba34c2f92809af406d9a7aecd11eda168ef4dd9a61c0f01bc40e2daae0891f6d4db674b458552adb3257e401ec5b1"
