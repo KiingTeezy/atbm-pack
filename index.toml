@@ -1601,7 +1601,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "76b1bff0a639e2c345a3f18de03419e0613ae116c88ca6b8a335d3a44701f71b"
+hash = "b15f18245300fd1162a8a6cc3f723068b2b7086c9d5739647e7f2e1ac09d3e5c"
 
 [[files]]
 file = "config/crashutilities-server.toml"
@@ -14824,8 +14824,8 @@ hash = "2af7557b5e1ab47532d394ae8909319f2f3b092498b270e66a3aa51835458636"
 metafile = true
 
 [[files]]
-file = "mods/atbmtimeouts-1.4.0.pw.toml"
-hash = "3882c26b36fc0d6d9065edd7b02ebd718ca86ea67667ee70e0b959f452ca7cbd"
+file = "mods/atbmtimeouts-1.5.0.pw.toml"
+hash = "dfade352a7d3b55673f02936e71e177a8f6e2e80db88012d19fa68e8bd31c705"
 metafile = true
 
 [[files]]
